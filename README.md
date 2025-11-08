@@ -1020,6 +1020,4 @@ Cover the book and all necessary Data structures and Algoritghms
 996. Implement layer that converts problems into contest-ready format (time limits, scoring).
 997. Implement ethics section generator for problems with privacy/security implications.
 998. Implement community moderation tools and quality review workflow.
-999. Implement automated release process that publishes prompt batches and changelogs.
-1000. Implement an ongoing maintenance schedule and checklist for keeping the 1000 prompts current.
 
