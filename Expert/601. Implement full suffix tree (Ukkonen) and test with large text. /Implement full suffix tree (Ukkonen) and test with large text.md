@@ -43,28 +43,29 @@ Full implementation is complex; for medium-sized projects, simplified or partial
 
 ```mermaid
 flowchart TD
-    A[JS Algorithms Project] --> B[Reverse String]
-    A --> C[Two-Sum Unique Pairs]
-    A --> D[Suffix Array]
-    A --> E[Suffix Tree - Ukkonen]
+    A["JS Algorithms Project"] --> B["Reverse String"]
+    A --> C["Two-Sum Unique Pairs"]
+    A --> D["Suffix Array"]
+    A --> E["Suffix Tree - Ukkonen"]
 
-    B --> B1[reverseString1: split+reverse+join]
-    B --> B2[reverseString2: for loop]
-    B --> B3[reverseString3: recursion]
-    B --> B4[reverseString4: reduce]
-    B --> B5[reverseString5: ES6 spread]
+    B --> B1["reverseString1: split+reverse+join"]
+    B --> B2["reverseString2: for loop"]
+    B --> B3["reverseString3: recursion"]
+    B --> B4["reverseString4: reduce"]
+    B --> B5["reverseString5: ES6 spread"]
 
-    C --> C1[twoSumUniquePairs: using Set]
-    C --> C2[Example: nums=[1,2,3,2,4,5], target=5]
+    C --> C1["twoSumUniquePairs: using Set"]
+    C --> C2["Example: nums=[1,2,3,2,4,5], target=5"]
 
-    D --> D1[buildSuffixArrayDoubling]
-    D --> D2[Example: s="banana"]
-    D --> D3[Output: SA + sorted suffixes]
+    D --> D1["buildSuffixArrayDoubling"]
+    D --> D2["Example: s='banana'"]
+    D --> D3["Output: SA + sorted suffixes"]
 
-    E --> E1[SuffixTree class]
-    E --> E2[buildTree(): naive / Ukkonen]
-    E --> E3[search(substring)]
-    E --> E4[Example: text="banana"]
+    E --> E1["SuffixTree class"]
+    E --> E2["buildTree(): naive / Ukkonen"]
+    E --> E3["search(substring)"]
+    E --> E4["Example: text='banana'"]
+
 
  
 
