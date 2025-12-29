@@ -43,28 +43,22 @@ Full implementation is complex; for medium-sized projects, simplified or partial
 
 ```mermaid
 flowchart TD
-    A["JS Algorithms Project"] --> B["Reverse String"]
-    A --> C["Two-Sum Unique Pairs"]
-    A --> D["Suffix Array"]
-    A --> E["Suffix Tree - Ukkonen"]
+    A[Ukkonen Suffix Tree Algorithm] --> B[Input Text]
+    A --> C[Root Node Initialization]
+    A --> D[Active Point Initialization]
+    A --> E[Phase Loop: add one character at a time]
+    E --> F[Extension Loop: add all required suffixes]
+    F --> G{Rule Handling}
+    G --> H[Rule 1: Do nothing if edge exists]
+    G --> I[Rule 2: Create new leaf node]
+    G --> J[Rule 3: Split edge and create internal node]
+    F --> K[Update Active Point]
+    K --> L[Follow Suffix Links if needed]
+    E --> M[Repeat until entire string is processed]
+    M --> N[Suffix Tree Complete]
+    N --> O[Supports fast substring search]
+    O --> P[Output/Query Methods]
 
-    B --> B1["reverseString1: split+reverse+join"]
-    B --> B2["reverseString2: for loop"]
-    B --> B3["reverseString3: recursion"]
-    B --> B4["reverseString4: reduce"]
-    B --> B5["reverseString5: ES6 spread"]
-
-    C --> C1["twoSumUniquePairs: using Set"]
-    C --> C2["Example: nums=[1,2,3,2,4,5], target=5"]
-
-    D --> D1["buildSuffixArrayDoubling"]
-    D --> D2["Example: s='banana'"]
-    D --> D3["Output: SA + sorted suffixes"]
-
-    E --> E1["SuffixTree class"]
-    E --> E2["buildTree(): naive / Ukkonen"]
-    E --> E3["search(substring)"]
-    E --> E4["Example: text='banana'"]
 
 
  
