@@ -46,7 +46,7 @@ flowchart TD
     A[JS Algorithms Project] --> B[Reverse String]
     A --> C[Two-Sum Unique Pairs]
     A --> D[Suffix Array]
-    A --> E[Suffix Tree (Ukkonen)]
+    A --> E[Suffix Tree - Ukkonen]
 
     B --> B1[reverseString1: split+reverse+join]
     B --> B2[reverseString2: for loop]
@@ -65,6 +65,8 @@ flowchart TD
     E --> E2[buildTree(): naive / Ukkonen]
     E --> E3[search(substring)]
     E --> E4[Example: text="banana"]
+
+ 
 
 
 ```
