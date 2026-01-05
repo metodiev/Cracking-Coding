@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. reverse_a_string/1. reverse_a_string.iml" filepath="$PROJECT_DIR$/1. reverse_a_string/1. reverse_a_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Check if a String is a Palindrome/2. Check if a String is a Palindrome.iml" filepath="$PROJECT_DIR$/2. Check if a String is a Palindrome/2. Check if a String is a Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cracking-Coding.iml" filepath="$PROJECT_DIR$/Cracking-Coding.iml" />
     </modules>
   </component>
