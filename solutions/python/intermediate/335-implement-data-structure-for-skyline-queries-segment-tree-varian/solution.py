@@ -1,5 +1,4 @@
-"""Task 335 - Implement data structure for skyline queries (segment tree variant).
-(Tier: Intermediate, CTCI Ch 4)
+"""Task 335 - Implement data structure for skyline queries (segment tree variant). (Tier: Intermediate, CTCI Ch 4)
 
 A segment tree over the x-range supports "raise the skyline to height h on [l, r)" updates,
 point queries (skyline height at x) and range-max queries (tallest point in [l, r)), each in

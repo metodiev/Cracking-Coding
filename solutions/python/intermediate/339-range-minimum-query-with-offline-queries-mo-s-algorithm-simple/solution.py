@@ -1,5 +1,4 @@
-"""Task 339 - Range minimum query with offline queries (Mo's algorithm simple).
-(Tier: Intermediate, CTCI Beyond — Advanced Data Structures & Algorithms)
+"""Task 339 - Range minimum query with offline queries (Mo's algorithm simple). (Tier: Intermediate, CTCI Beyond — Advanced Data Structures & Algorithms)
 
 Simplified Mo's algorithm: block-sort the offline queries by (l / B, r) with B = n / sqrt(q)
 so that sweeping the window boundaries performs only O((n + q) * sqrt(n)) add/remove moves

@@ -1,5 +1,4 @@
-"""Task 334 - Implement rolling median with delete operation (two heaps + lazy deletion).
-(Tier: Intermediate, CTCI Ch 7)
+"""Task 334 - Implement rolling median with delete operation (multiset or two heaps + lazy deletion). (Tier: Intermediate, CTCI Ch 7)
 
 MedianMultiset stores the smaller half of the values in a max-heap (`low`, negated) and the
 larger half in a min-heap (`high`), keeping len(low) == len(high) or len(low) == len(high)+1

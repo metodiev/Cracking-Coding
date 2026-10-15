@@ -1,5 +1,4 @@
-/** Task 334 - Implement rolling median with delete operation (two heaps + lazy deletion).
- * (Tier: Intermediate, CTCI Ch 7) */
+/** Task 334 - Implement rolling median with delete operation (multiset or two heaps + lazy deletion). (Tier: Intermediate, CTCI Ch 7) */
 import java.util.*;
 
 class MedianMultiset {
@@ -183,14 +182,14 @@ public class Solution {
             check(fast.size() == oracle.data.size(), "random size " + step);
             seed = (seed * 75 + 74) % 65537;
             if (seed % 5 == 0 || step % 7 == 0) {
-                check(fast.median().equals(oracle.median()), "random median " + step);
+                check(Objects.equals(fast.median(), oracle.median()), "random median " + step);
             }
         }
         while (!oracle.data.isEmpty()) {
             int value = oracle.data.get(0);
             fast.delete(value);
             oracle.delete(value);
-            check(fast.median().equals(oracle.median()), "drain median");
+            check(Objects.equals(fast.median(), oracle.median()), "drain median");
         }
         check(fast.median() == null, "drained empty");
         System.out.println("PASS");
