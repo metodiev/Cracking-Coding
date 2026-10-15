@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/463-implement-locality-sensitive-hashing-conceptual-demo/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/463-implement-locality-sensitive-hashing-conceptual-demo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/463-implement-locality-sensitive-hashing-conceptual-demo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/463-implement-locality-sensitive-hashing-conceptual-demo/Solution.cs)

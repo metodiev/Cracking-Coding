@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/456-implement-matchings-in-general-graph-edmonds-blossom-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/456-implement-matchings-in-general-graph-edmonds-blossom-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/456-implement-matchings-in-general-graph-edmonds-blossom-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/456-implement-matchings-in-general-graph-edmonds-blossom-outline/Solution.cs)

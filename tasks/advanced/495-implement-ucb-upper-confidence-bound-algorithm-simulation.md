@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/495-implement-ucb-upper-confidence-bound-algorithm-simulation/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/495-implement-ucb-upper-confidence-bound-algorithm-simulation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/495-implement-ucb-upper-confidence-bound-algorithm-simulation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/495-implement-ucb-upper-confidence-bound-algorithm-simulation/Solution.cs)

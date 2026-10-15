@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/475-implement-authenticated-data-structure-example-merkle-proof/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/475-implement-authenticated-data-structure-example-merkle-proof/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/475-implement-authenticated-data-structure-example-merkle-proof/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/475-implement-authenticated-data-structure-example-merkle-proof/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/486-implement-adaptive-replacement-cache-arc-outline-test/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/486-implement-adaptive-replacement-cache-arc-outline-test/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/486-implement-adaptive-replacement-cache-arc-outline-test/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/486-implement-adaptive-replacement-cache-arc-outline-test/Solution.cs)

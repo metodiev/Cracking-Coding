@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/464-implement-reservoir-sampling-with-weighted-probabilities/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/464-implement-reservoir-sampling-with-weighted-probabilities/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/464-implement-reservoir-sampling-with-weighted-probabilities/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/464-implement-reservoir-sampling-with-weighted-probabilities/Solution.cs)

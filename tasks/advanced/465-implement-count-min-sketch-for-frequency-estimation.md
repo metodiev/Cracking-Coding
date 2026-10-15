@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/465-implement-count-min-sketch-for-frequency-estimation/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/465-implement-count-min-sketch-for-frequency-estimation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/465-implement-count-min-sketch-for-frequency-estimation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/465-implement-count-min-sketch-for-frequency-estimation/Solution.cs)

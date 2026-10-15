@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/481-implement-optimistic-checkpointing-restart-simulation/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/481-implement-optimistic-checkpointing-restart-simulation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/481-implement-optimistic-checkpointing-restart-simulation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/481-implement-optimistic-checkpointing-restart-simulation/Solution.cs)

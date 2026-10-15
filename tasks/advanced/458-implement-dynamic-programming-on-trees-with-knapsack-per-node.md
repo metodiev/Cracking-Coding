@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/458-implement-dynamic-programming-on-trees-with-knapsack-per-node/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/458-implement-dynamic-programming-on-trees-with-knapsack-per-node/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/458-implement-dynamic-programming-on-trees-with-knapsack-per-node/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/458-implement-dynamic-programming-on-trees-with-knapsack-per-node/Solution.cs)

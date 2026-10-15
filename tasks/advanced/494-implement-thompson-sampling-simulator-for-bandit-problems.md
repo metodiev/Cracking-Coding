@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/494-implement-thompson-sampling-simulator-for-bandit-problems/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/494-implement-thompson-sampling-simulator-for-bandit-problems/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/494-implement-thompson-sampling-simulator-for-bandit-problems/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/494-implement-thompson-sampling-simulator-for-bandit-problems/Solution.cs)

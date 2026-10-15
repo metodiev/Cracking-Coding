@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/492-implement-circular-buffer-with-lock-free-design-atomic/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/492-implement-circular-buffer-with-lock-free-design-atomic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/492-implement-circular-buffer-with-lock-free-design-atomic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/492-implement-circular-buffer-with-lock-free-design-atomic/Solution.cs)

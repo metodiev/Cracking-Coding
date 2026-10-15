@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim/Solution.cs)

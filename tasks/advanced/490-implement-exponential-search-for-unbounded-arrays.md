@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/490-implement-exponential-search-for-unbounded-arrays/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/490-implement-exponential-search-for-unbounded-arrays/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/490-implement-exponential-search-for-unbounded-arrays/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/490-implement-exponential-search-for-unbounded-arrays/Solution.cs)

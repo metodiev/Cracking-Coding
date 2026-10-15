@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered/Solution.cs)

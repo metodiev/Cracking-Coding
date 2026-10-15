@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/453-implement-circulation-with-lower-bounds-flow-transform/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/453-implement-circulation-with-lower-bounds-flow-transform/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/453-implement-circulation-with-lower-bounds-flow-transform/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/453-implement-circulation-with-lower-bounds-flow-transform/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/466-implement-hyperloglog-sketch-for-cardinality-estimation-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/466-implement-hyperloglog-sketch-for-cardinality-estimation-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/466-implement-hyperloglog-sketch-for-cardinality-estimation-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/466-implement-hyperloglog-sketch-for-cardinality-estimation-outline/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/489-implement-suffix-prefix-automaton-based-string-counting-advanced/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/489-implement-suffix-prefix-automaton-based-string-counting-advanced/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/489-implement-suffix-prefix-automaton-based-string-counting-advanced/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/489-implement-suffix-prefix-automaton-based-string-counting-advanced/Solution.cs)

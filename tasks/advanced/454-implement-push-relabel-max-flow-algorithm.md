@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/454-implement-push-relabel-max-flow-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/454-implement-push-relabel-max-flow-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/454-implement-push-relabel-max-flow-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/454-implement-push-relabel-max-flow-algorithm/Solution.cs)

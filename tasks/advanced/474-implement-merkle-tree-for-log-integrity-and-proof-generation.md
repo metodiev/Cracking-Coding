@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/474-implement-merkle-tree-for-log-integrity-and-proof-generation/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/474-implement-merkle-tree-for-log-integrity-and-proof-generation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/474-implement-merkle-tree-for-log-integrity-and-proof-generation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/474-implement-merkle-tree-for-log-integrity-and-proof-generation/Solution.cs)

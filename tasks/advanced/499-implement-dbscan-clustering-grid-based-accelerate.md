@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/499-implement-dbscan-clustering-grid-based-accelerate/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/499-implement-dbscan-clustering-grid-based-accelerate/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/499-implement-dbscan-clustering-grid-based-accelerate/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/499-implement-dbscan-clustering-grid-based-accelerate/Solution.cs)

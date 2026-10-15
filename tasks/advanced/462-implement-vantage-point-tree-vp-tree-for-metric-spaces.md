@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/462-implement-vantage-point-tree-vp-tree-for-metric-spaces/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/462-implement-vantage-point-tree-vp-tree-for-metric-spaces/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/462-implement-vantage-point-tree-vp-tree-for-metric-spaces/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/462-implement-vantage-point-tree-vp-tree-for-metric-spaces/Solution.cs)

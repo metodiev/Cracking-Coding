@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/470-implement-consistent-hashing-ring-virtual-nodes/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/470-implement-consistent-hashing-ring-virtual-nodes/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/470-implement-consistent-hashing-ring-virtual-nodes/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/470-implement-consistent-hashing-ring-virtual-nodes/Solution.cs)

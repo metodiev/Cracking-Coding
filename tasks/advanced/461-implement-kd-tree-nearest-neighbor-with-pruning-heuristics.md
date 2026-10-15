@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics/Solution.cs)

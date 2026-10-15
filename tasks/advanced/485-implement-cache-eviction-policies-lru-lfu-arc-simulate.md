@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/485-implement-cache-eviction-policies-lru-lfu-arc-simulate/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/485-implement-cache-eviction-policies-lru-lfu-arc-simulate/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/485-implement-cache-eviction-policies-lru-lfu-arc-simulate/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/485-implement-cache-eviction-policies-lru-lfu-arc-simulate/Solution.cs)
