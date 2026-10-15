@@ -1,0 +1,9 @@
+# 930 — Implement adversarial attack generator for models and defenses (PGD).
+
+- **Number:** 930
+- **Tier:** Master / Challenge
+- **CTCI chapter:** Beyond — Machine Learning & AI
+
+## Solutions
+
+- _Not implemented yet — see the staged plan in [README.md](../../README.md)._

@@ -1,0 +1,9 @@
+# 843 — Implement large-scale graph processing pipeline (Pregel-like) with fault tolerance.
+
+- **Number:** 843
+- **Tier:** Master / Challenge
+- **CTCI chapter:** Ch 9 — System Design and Scalability
+
+## Solutions
+
+- _Not implemented yet — see the staged plan in [README.md](../../README.md)._

@@ -1,0 +1,9 @@
+# 918 — Implement dynamic QP solver for real-time control in robotics (MPC small demo).
+
+- **Number:** 918
+- **Tier:** Master / Challenge
+- **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+
+## Solutions
+
+- _Not implemented yet — see the staged plan in [README.md](../../README.md)._

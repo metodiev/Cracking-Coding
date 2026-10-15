@@ -1021,3 +1021,36 @@ Cover the book and all necessary Data structures and Algoritghms
 997. Implement ethics section generator for problems with privacy/security implications.
 998. Implement community moderation tools and quality review workflow.
 
+
+---
+
+# Repository layout, tutorials & progress
+
+This README is the master task list (998 tasks across 5 tiers). The repository around it:
+
+```mermaid
+flowchart LR
+    R["Cracking-Coding"] --> T["tasks/ — 998 task specs"]
+    R --> S["solutions/ — Java · Python · JavaScript · C#"]
+    R --> TU["tutorials/ — CTCI chapter tutorials (Markdown + Mermaid)"]
+    R --> D["docs/ — TASK-INDEX.md, ctcI-mapping.json"]
+    R --> TO["tools/ — generators & runners"]
+```
+
+- 📖 **Tutorials** start at [`tutorials/README.md`](tutorials/README.md) — every CTCI 6th-edition chapter
+  (Big-O, Ch 1–11, 14–15, 16–17, §X Advanced Topics) explained with Mermaid diagrams and code in
+  Java, Python, C# and JavaScript, plus per-language companion guides.
+- 🗺️ **Task → chapter mapping** for all 998 tasks: [`tutorials/ctci-mapping.md`](tutorials/ctci-mapping.md).
+  The mapping follows *Cracking the Coding Interview, 6th Edition* (189 Programming Questions &
+  Solutions) and tags beyond-book work (distributed systems, ML, graphics, security, …) explicitly.
+- ✅ **Progress**: [`docs/TASK-INDEX.md`](docs/TASK-INDEX.md). Beginner tasks **001–060** are implemented
+  in all four languages; the remaining tasks are delivered tier-by-tier (staged plan).
+- ▶️ **Run everything**: `python3 tools/run_solutions.py` (add `python`, `java`, `javascript` or `csharp`).
+
+```bash
+# run the full solution suite in one language
+python3 tools/run_solutions.py python
+
+# regenerate the mapping / specs / index after edits
+python3 tools/ctci_map.py && python3 tools/gen_tasks.py && python3 tools/gen_index.py
+```
