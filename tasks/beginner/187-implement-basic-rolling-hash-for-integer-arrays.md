@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/187-implement-basic-rolling-hash-for-integer-arrays/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/187-implement-basic-rolling-hash-for-integer-arrays/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/187-implement-basic-rolling-hash-for-integer-arrays/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/187-implement-basic-rolling-hash-for-integer-arrays/Solution.cs)

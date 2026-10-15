@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/189-implement-simple-csv-parser-line-fields/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/189-implement-simple-csv-parser-line-fields/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/189-implement-simple-csv-parser-line-fields/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/189-implement-simple-csv-parser-line-fields/Solution.cs)

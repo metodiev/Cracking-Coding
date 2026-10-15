@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/308-distinct-subsequences-count-dp/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/308-distinct-subsequences-count-dp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/308-distinct-subsequences-count-dp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/308-distinct-subsequences-count-dp/Solution.cs)

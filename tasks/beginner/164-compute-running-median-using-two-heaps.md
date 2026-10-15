@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/164-compute-running-median-using-two-heaps/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/164-compute-running-median-using-two-heaps/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/164-compute-running-median-using-two-heaps/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/164-compute-running-median-using-two-heaps/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/222-stock-buy-sell-single-transaction-max-profit/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/222-stock-buy-sell-single-transaction-max-profit/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/222-stock-buy-sell-single-transaction-max-profit/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/222-stock-buy-sell-single-transaction-max-profit/Solution.cs)

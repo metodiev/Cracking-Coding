@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/156-implement-iterator-for-a-binary-tree-inorder/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/156-implement-iterator-for-a-binary-tree-inorder/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/156-implement-iterator-for-a-binary-tree-inorder/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/156-implement-iterator-for-a-binary-tree-inorder/Solution.cs)

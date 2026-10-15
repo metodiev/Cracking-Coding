@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/273-find-eulerian-trail-in-directed-graph-hierholzer/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/273-find-eulerian-trail-in-directed-graph-hierholzer/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/273-find-eulerian-trail-in-directed-graph-hierholzer/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/273-find-eulerian-trail-in-directed-graph-hierholzer/Solution.cs)

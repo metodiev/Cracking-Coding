@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/161-implement-lfu-cache-basic-variant/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/161-implement-lfu-cache-basic-variant/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/161-implement-lfu-cache-basic-variant/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/161-implement-lfu-cache-basic-variant/Solution.cs)

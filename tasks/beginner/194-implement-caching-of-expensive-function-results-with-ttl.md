@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/194-implement-caching-of-expensive-function-results-with-ttl/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/194-implement-caching-of-expensive-function-results-with-ttl/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/194-implement-caching-of-expensive-function-results-with-ttl/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/194-implement-caching-of-expensive-function-results-with-ttl/Solution.cs)

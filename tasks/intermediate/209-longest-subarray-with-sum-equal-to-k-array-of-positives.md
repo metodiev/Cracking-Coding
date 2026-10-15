@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/209-longest-subarray-with-sum-equal-to-k-array-of-positives/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/209-longest-subarray-with-sum-equal-to-k-array-of-positives/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/209-longest-subarray-with-sum-equal-to-k-array-of-positives/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/209-longest-subarray-with-sum-equal-to-k-array-of-positives/Solution.cs)

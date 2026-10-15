@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/199-deserialize-json-with-arrays-objects-basic/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/199-deserialize-json-with-arrays-objects-basic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/199-deserialize-json-with-arrays-objects-basic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/199-deserialize-json-with-arrays-objects-basic/Solution.cs)

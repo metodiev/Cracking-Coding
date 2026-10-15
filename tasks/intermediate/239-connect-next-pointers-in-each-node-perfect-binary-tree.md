@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/239-connect-next-pointers-in-each-node-perfect-binary-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/239-connect-next-pointers-in-each-node-perfect-binary-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/239-connect-next-pointers-in-each-node-perfect-binary-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/239-connect-next-pointers-in-each-node-perfect-binary-tree/Solution.cs)

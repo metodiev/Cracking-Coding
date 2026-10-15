@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/235-serialize-and-deserialize-n-ary-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/235-serialize-and-deserialize-n-ary-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/235-serialize-and-deserialize-n-ary-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/235-serialize-and-deserialize-n-ary-tree/Solution.cs)

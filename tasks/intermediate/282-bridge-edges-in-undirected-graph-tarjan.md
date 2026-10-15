@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/282-bridge-edges-in-undirected-graph-tarjan/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/282-bridge-edges-in-undirected-graph-tarjan/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/282-bridge-edges-in-undirected-graph-tarjan/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/282-bridge-edges-in-undirected-graph-tarjan/Solution.cs)

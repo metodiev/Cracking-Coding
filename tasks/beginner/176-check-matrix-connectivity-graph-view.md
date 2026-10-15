@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/176-check-matrix-connectivity-graph-view/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/176-check-matrix-connectivity-graph-view/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/176-check-matrix-connectivity-graph-view/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/176-check-matrix-connectivity-graph-view/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/221-circular-array-maximum-subarray-kadane-variant/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/221-circular-array-maximum-subarray-kadane-variant/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/221-circular-array-maximum-subarray-kadane-variant/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/221-circular-array-maximum-subarray-kadane-variant/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/157-design-a-simple-finite-state-machine-fsm-for-number-validation/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/157-design-a-simple-finite-state-machine-fsm-for-number-validation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/157-design-a-simple-finite-state-machine-fsm-for-number-validation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/157-design-a-simple-finite-state-machine-fsm-for-number-validation/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/143-symmetric-tree-check-mirror/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/143-symmetric-tree-check-mirror/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/143-symmetric-tree-check-mirror/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/143-symmetric-tree-check-mirror/Solution.cs)

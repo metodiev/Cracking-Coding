@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/182-implement-segment-tree-for-range-sum-build-query-update/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/182-implement-segment-tree-for-range-sum-build-query-update/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/182-implement-segment-tree-for-range-sum-build-query-update/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/182-implement-segment-tree-for-range-sum-build-query-update/Solution.cs)

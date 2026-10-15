@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/169-implement-sliding-window-for-unique-characters-longest-unique-su/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/169-implement-sliding-window-for-unique-characters-longest-unique-su/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/169-implement-sliding-window-for-unique-characters-longest-unique-su/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/169-implement-sliding-window-for-unique-characters-longest-unique-su/Solution.cs)

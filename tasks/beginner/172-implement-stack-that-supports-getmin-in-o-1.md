@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/172-implement-stack-that-supports-getmin-in-o-1/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/172-implement-stack-that-supports-getmin-in-o-1/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/172-implement-stack-that-supports-getmin-in-o-1/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/172-implement-stack-that-supports-getmin-in-o-1/Solution.cs)

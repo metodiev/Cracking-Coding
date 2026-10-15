@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/190-parse-and-evaluate-postfix-rpn-expression/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/190-parse-and-evaluate-postfix-rpn-expression/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/190-parse-and-evaluate-postfix-rpn-expression/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/190-parse-and-evaluate-postfix-rpn-expression/Solution.cs)

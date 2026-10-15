@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/200-build-readme-template-that-documents-test-cases-and-complexity-f/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/200-build-readme-template-that-documents-test-cases-and-complexity-f/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/200-build-readme-template-that-documents-test-cases-and-complexity-f/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/200-build-readme-template-that-documents-test-cases-and-complexity-f/Solution.cs)

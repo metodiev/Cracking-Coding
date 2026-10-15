@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/248-implement-red-black-tree-insert-basic-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/248-implement-red-black-tree-insert-basic-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/248-implement-red-black-tree-insert-basic-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/248-implement-red-black-tree-insert-basic-conceptual/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/202-3-sum-all-unique-triplets/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/202-3-sum-all-unique-triplets/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/202-3-sum-all-unique-triplets/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/202-3-sum-all-unique-triplets/Solution.cs)

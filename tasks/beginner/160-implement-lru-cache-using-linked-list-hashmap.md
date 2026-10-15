@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/160-implement-lru-cache-using-linked-list-hashmap/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/160-implement-lru-cache-using-linked-list-hashmap/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/160-implement-lru-cache-using-linked-list-hashmap/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/160-implement-lru-cache-using-linked-list-hashmap/Solution.cs)

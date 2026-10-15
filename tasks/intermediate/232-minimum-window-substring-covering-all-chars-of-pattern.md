@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/232-minimum-window-substring-covering-all-chars-of-pattern/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/232-minimum-window-substring-covering-all-chars-of-pattern/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/232-minimum-window-substring-covering-all-chars-of-pattern/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/232-minimum-window-substring-covering-all-chars-of-pattern/Solution.cs)

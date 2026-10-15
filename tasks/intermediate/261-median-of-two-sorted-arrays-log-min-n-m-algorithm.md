@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/261-median-of-two-sorted-arrays-log-min-n-m-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/261-median-of-two-sorted-arrays-log-min-n-m-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/261-median-of-two-sorted-arrays-log-min-n-m-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/261-median-of-two-sorted-arrays-log-min-n-m-algorithm/Solution.cs)

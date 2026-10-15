@@ -6,4 +6,4 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/312-find-substring-occurrences-with-suffix-array-lcp/solution.py)

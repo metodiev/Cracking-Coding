@@ -38,9 +38,9 @@ public static class Solution
             new[] { 0, 1, 10, 10 },
             new[] { 1, 0, 1, 10 },
             new[] { 10, 1, 0, 1 },
-            new[] { 10, 10, 1, 0 },
+            new[] { 1, 10, 1, 0 },
         };
-        Check(Tsp(square) == 4, "square loop");
+        Check(Tsp(square) == 4, "square loop, all cycle edges 1");
         Check(Tsp(new[] { new[] { 0, 1, 3 }, new[] { 1, 0, 2 }, new[] { 3, 2, 0 } }) == 6, "triangle");
         Check(Tsp(new[] { new[] { 0 } }) == 0, "single city");
         Check(Tsp(new[] { new[] { 0, 7 }, new[] { 7, 0 } }) == 14, "two cities");

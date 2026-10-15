@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/266-unique-paths-in-grid-with-obstacles-dp/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/266-unique-paths-in-grid-with-obstacles-dp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/266-unique-paths-in-grid-with-obstacles-dp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/266-unique-paths-in-grid-with-obstacles-dp/Solution.cs)

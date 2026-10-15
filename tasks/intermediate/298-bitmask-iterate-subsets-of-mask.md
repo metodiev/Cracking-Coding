@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/298-bitmask-iterate-subsets-of-mask/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/298-bitmask-iterate-subsets-of-mask/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/298-bitmask-iterate-subsets-of-mask/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/298-bitmask-iterate-subsets-of-mask/Solution.cs)

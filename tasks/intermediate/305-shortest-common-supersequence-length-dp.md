@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/305-shortest-common-supersequence-length-dp/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/305-shortest-common-supersequence-length-dp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/305-shortest-common-supersequence-length-dp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/305-shortest-common-supersequence-length-dp/Solution.cs)

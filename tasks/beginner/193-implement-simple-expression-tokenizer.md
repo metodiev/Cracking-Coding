@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/193-implement-simple-expression-tokenizer/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/193-implement-simple-expression-tokenizer/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/193-implement-simple-expression-tokenizer/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/193-implement-simple-expression-tokenizer/Solution.cs)

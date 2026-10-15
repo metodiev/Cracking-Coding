@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/162-implement-rate-limiter-token-bucket-simple/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/162-implement-rate-limiter-token-bucket-simple/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/162-implement-rate-limiter-token-bucket-simple/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/162-implement-rate-limiter-token-bucket-simple/Solution.cs)

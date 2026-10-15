@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/188-implement-stable-sort-wrapper-around-existing-unstable-sort/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/188-implement-stable-sort-wrapper-around-existing-unstable-sort/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/188-implement-stable-sort-wrapper-around-existing-unstable-sort/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/188-implement-stable-sort-wrapper-around-existing-unstable-sort/Solution.cs)

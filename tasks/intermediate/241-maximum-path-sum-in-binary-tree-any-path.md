@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/241-maximum-path-sum-in-binary-tree-any-path/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/241-maximum-path-sum-in-binary-tree-any-path/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/241-maximum-path-sum-in-binary-tree-any-path/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/241-maximum-path-sum-in-binary-tree-any-path/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/233-group-anagrams-hashmap-with-sorted-key/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/233-group-anagrams-hashmap-with-sorted-key/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/233-group-anagrams-hashmap-with-sorted-key/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/233-group-anagrams-hashmap-with-sorted-key/Solution.cs)

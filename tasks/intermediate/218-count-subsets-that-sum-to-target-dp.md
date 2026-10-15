@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/218-count-subsets-that-sum-to-target-dp/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/218-count-subsets-that-sum-to-target-dp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/218-count-subsets-that-sum-to-target-dp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/218-count-subsets-that-sum-to-target-dp/Solution.cs)

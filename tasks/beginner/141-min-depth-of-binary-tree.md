@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/141-min-depth-of-binary-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/141-min-depth-of-binary-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/141-min-depth-of-binary-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/141-min-depth-of-binary-tree/Solution.cs)

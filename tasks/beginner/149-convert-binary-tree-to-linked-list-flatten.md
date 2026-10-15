@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/149-convert-binary-tree-to-linked-list-flatten/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/149-convert-binary-tree-to-linked-list-flatten/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/149-convert-binary-tree-to-linked-list-flatten/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/149-convert-binary-tree-to-linked-list-flatten/Solution.cs)

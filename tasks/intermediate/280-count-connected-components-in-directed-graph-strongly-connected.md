@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/280-count-connected-components-in-directed-graph-strongly-connected/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/280-count-connected-components-in-directed-graph-strongly-connected/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/280-count-connected-components-in-directed-graph-strongly-connected/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/280-count-connected-components-in-directed-graph-strongly-connected/Solution.cs)

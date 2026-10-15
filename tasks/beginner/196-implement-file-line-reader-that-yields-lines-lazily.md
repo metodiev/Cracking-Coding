@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/196-implement-file-line-reader-that-yields-lines-lazily/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/196-implement-file-line-reader-that-yields-lines-lazily/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/196-implement-file-line-reader-that-yields-lines-lazily/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/196-implement-file-line-reader-that-yields-lines-lazily/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev/Solution.cs)

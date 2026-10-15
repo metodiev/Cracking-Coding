@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/207-three-sum-closest/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/207-three-sum-closest/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/207-three-sum-closest/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/207-three-sum-closest/Solution.cs)

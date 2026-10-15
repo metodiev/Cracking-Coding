@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/151-path-sum-existence-in-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/151-path-sum-existence-in-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/151-path-sum-existence-in-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/151-path-sum-existence-in-tree/Solution.cs)

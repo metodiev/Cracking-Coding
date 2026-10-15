@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/208-implement-sliding-window-minimum-using-deque/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/208-implement-sliding-window-minimum-using-deque/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/208-implement-sliding-window-minimum-using-deque/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/208-implement-sliding-window-minimum-using-deque/Solution.cs)

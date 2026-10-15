@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/246-serialize-deserialize-binary-search-tree-compactly/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/246-serialize-deserialize-binary-search-tree-compactly/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/246-serialize-deserialize-binary-search-tree-compactly/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/246-serialize-deserialize-binary-search-tree-compactly/Solution.cs)

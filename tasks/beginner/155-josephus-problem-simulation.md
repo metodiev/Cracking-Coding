@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/155-josephus-problem-simulation/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/155-josephus-problem-simulation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/155-josephus-problem-simulation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/155-josephus-problem-simulation/Solution.cs)

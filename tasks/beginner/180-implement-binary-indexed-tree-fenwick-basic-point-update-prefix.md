@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix/Solution.cs)

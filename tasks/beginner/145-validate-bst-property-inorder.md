@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/145-validate-bst-property-inorder/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/145-validate-bst-property-inorder/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/145-validate-bst-property-inorder/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/145-validate-bst-property-inorder/Solution.cs)

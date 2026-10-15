@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/231-manacher-s-algorithm-for-longest-palindromic-substring/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/231-manacher-s-algorithm-for-longest-palindromic-substring/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/231-manacher-s-algorithm-for-longest-palindromic-substring/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/231-manacher-s-algorithm-for-longest-palindromic-substring/Solution.cs)

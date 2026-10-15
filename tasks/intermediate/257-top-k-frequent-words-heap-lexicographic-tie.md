@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/257-top-k-frequent-words-heap-lexicographic-tie/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/257-top-k-frequent-words-heap-lexicographic-tie/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/257-top-k-frequent-words-heap-lexicographic-tie/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/257-top-k-frequent-words-heap-lexicographic-tie/Solution.cs)

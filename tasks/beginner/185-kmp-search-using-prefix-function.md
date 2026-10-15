@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/185-kmp-search-using-prefix-function/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/185-kmp-search-using-prefix-function/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/185-kmp-search-using-prefix-function/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/185-kmp-search-using-prefix-function/Solution.cs)

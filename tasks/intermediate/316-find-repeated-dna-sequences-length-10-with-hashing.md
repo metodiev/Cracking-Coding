@@ -6,4 +6,4 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/316-find-repeated-dna-sequences-length-10-with-hashing/solution.py)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/170-simple-palindrome-partitioning-backtracking-list-partitions/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/170-simple-palindrome-partitioning-backtracking-list-partitions/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/170-simple-palindrome-partitioning-backtracking-list-partitions/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/170-simple-palindrome-partitioning-backtracking-list-partitions/Solution.cs)

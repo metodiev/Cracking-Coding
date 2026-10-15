@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/178-compute-transitive-closure-floyd-warshall-naive/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/178-compute-transitive-closure-floyd-warshall-naive/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/178-compute-transitive-closure-floyd-warshall-naive/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/178-compute-transitive-closure-floyd-warshall-naive/Solution.cs)

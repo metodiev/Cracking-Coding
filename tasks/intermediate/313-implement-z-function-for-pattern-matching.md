@@ -6,4 +6,4 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/313-implement-z-function-for-pattern-matching/solution.py)

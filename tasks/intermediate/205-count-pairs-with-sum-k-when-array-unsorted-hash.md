@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/205-count-pairs-with-sum-k-when-array-unsorted-hash/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/205-count-pairs-with-sum-k-when-array-unsorted-hash/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/205-count-pairs-with-sum-k-when-array-unsorted-hash/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/205-count-pairs-with-sum-k-when-array-unsorted-hash/Solution.cs)

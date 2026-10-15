@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/184-implement-prefix-function-kmp-for-pattern-matching/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/184-implement-prefix-function-kmp-for-pattern-matching/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/184-implement-prefix-function-kmp-for-pattern-matching/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/184-implement-prefix-function-kmp-for-pattern-matching/Solution.cs)

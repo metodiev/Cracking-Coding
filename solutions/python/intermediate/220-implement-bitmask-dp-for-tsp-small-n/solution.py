@@ -38,9 +38,9 @@ def main():
         [0, 1, 10, 10],
         [1, 0, 1, 10],
         [10, 1, 0, 1],
-        [10, 10, 1, 0],
+        [1, 10, 1, 0],
     ]
-    assert tsp(square) == 4                     # 0-1-2-3-0
+    assert tsp(square) == 4                     # 0-1-2-3-0, all edges 1
 
     triangle = [
         [0, 1, 3],
@@ -61,7 +61,7 @@ def main():
         for j in range(i + 1, n):
             d[i][j] = d[j][i] = rng.randrange(1, 20)
     best = min(
-        sum(d[p[i]][p[i + 1]] for i in range(n - 1)) + d[p[-1]][p[0]]
+        d[0][p[0]] + sum(d[p[i]][p[i + 1]] for i in range(len(p) - 1)) + d[p[-1]][0]
         for p in itertools.permutations(range(1, n))
     )
     assert tsp(d) == best, (tsp(d), best)

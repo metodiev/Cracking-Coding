@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/250-implement-splay-tree-access-operation-basic/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/250-implement-splay-tree-access-operation-basic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/250-implement-splay-tree-access-operation-basic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/250-implement-splay-tree-access-operation-basic/Solution.cs)

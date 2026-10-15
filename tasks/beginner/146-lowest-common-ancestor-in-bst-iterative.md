@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/146-lowest-common-ancestor-in-bst-iterative/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/146-lowest-common-ancestor-in-bst-iterative/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/146-lowest-common-ancestor-in-bst-iterative/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/146-lowest-common-ancestor-in-bst-iterative/Solution.cs)

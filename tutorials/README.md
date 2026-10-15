@@ -141,8 +141,11 @@ flowchart TD
 
 - ✅ 998 task specs generated under [`tasks/`](../tasks) with CTCI chapter labels.
 - ✅ Full chapter mapping in [ctci-mapping.md](ctci-mapping.md).
-- ✅ **Beginner tasks 001–060 implemented in all four languages** (Java, Python, JavaScript, C#),
-  verified by the built-in self-checks (`python3 tools/run_solutions.py`).
+- ✅ **Beginner tier complete: tasks 001–200 implemented in all four languages** (Java, Python,
+  JavaScript, C#), every file passing its built-in self-checks
+  (`python3 tools/run_solutions.py` → 200/200 per language).
+- ✅ **Intermediate tier in progress: tasks 201–250 implemented** in all four languages
+  (250/998 tasks × 4 languages = 1000 self-checking solutions).
 - 🚧 Remaining tiers land next, tier by tier — progress table lives in
   [`docs/TASK-INDEX.md`](../docs/TASK-INDEX.md), and per-language conventions in
   [`solutions/<lang>/README.md`](../solutions).
@@ -151,9 +154,9 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    B1["Beginner 001-060<br/>✅ done (4 languages)"] --> B2["Beginner 061-200<br/>🚧 next"]
-    B2 --> I["Intermediate 201-400<br/>⏳ planned"]
-    I --> A["Advanced 401-600<br/>⏳ planned"]
+    B1["Beginner 001-200<br/>✅ done (4 languages)"] --> I1["Intermediate 201-250<br/>✅ done"]
+    I1 --> I2["Intermediate 251-400<br/>🚧 next"]
+    I2 --> A["Advanced 401-600<br/>⏳ planned"]
     A --> E["Expert 601-800<br/>⏳ planned"]
     E --> M["Master 801-998<br/>⏳ planned"]
 ```

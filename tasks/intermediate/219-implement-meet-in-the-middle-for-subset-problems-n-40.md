@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/219-implement-meet-in-the-middle-for-subset-problems-n-40/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/219-implement-meet-in-the-middle-for-subset-problems-n-40/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/219-implement-meet-in-the-middle-for-subset-problems-n-40/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/219-implement-meet-in-the-middle-for-subset-problems-n-40/Solution.cs)

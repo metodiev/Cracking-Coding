@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/277-maximum-flow-edmonds-karp/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/277-maximum-flow-edmonds-karp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/277-maximum-flow-edmonds-karp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/277-maximum-flow-edmonds-karp/Solution.cs)

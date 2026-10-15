@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/168-implement-basic-checksum-sum-bytes/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/168-implement-basic-checksum-sum-bytes/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/168-implement-basic-checksum-sum-bytes/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/168-implement-basic-checksum-sum-bytes/Solution.cs)

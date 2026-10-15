@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/295-0-1-knapsack-dp-with-reconstruction/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/295-0-1-knapsack-dp-with-reconstruction/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/295-0-1-knapsack-dp-with-reconstruction/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/295-0-1-knapsack-dp-with-reconstruction/Solution.cs)

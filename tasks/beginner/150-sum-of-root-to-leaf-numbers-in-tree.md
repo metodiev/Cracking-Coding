@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/150-sum-of-root-to-leaf-numbers-in-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/150-sum-of-root-to-leaf-numbers-in-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/150-sum-of-root-to-leaf-numbers-in-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/150-sum-of-root-to-leaf-numbers-in-tree/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/304-minimum-deletion-to-make-palindrome-lcs-trick/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/304-minimum-deletion-to-make-palindrome-lcs-trick/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/304-minimum-deletion-to-make-palindrome-lcs-trick/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/304-minimum-deletion-to-make-palindrome-lcs-trick/Solution.cs)

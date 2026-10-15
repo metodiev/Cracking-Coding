@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/153-count-nodes-in-complete-binary-tree-faster-than-o-n/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/153-count-nodes-in-complete-binary-tree-faster-than-o-n/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/153-count-nodes-in-complete-binary-tree-faster-than-o-n/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/153-count-nodes-in-complete-binary-tree-faster-than-o-n/Solution.cs)

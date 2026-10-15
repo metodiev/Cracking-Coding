@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/197-implement-checksum-based-file-difference-simplified-rsync-idea/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/197-implement-checksum-based-file-difference-simplified-rsync-idea/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/197-implement-checksum-based-file-difference-simplified-rsync-idea/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/197-implement-checksum-based-file-difference-simplified-rsync-idea/Solution.cs)

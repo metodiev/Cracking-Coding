@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/297-multi-dimensional-dp-example-edit-distance-variants/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/297-multi-dimensional-dp-example-edit-distance-variants/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/297-multi-dimensional-dp-example-edit-distance-variants/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/297-multi-dimensional-dp-example-edit-distance-variants/Solution.cs)

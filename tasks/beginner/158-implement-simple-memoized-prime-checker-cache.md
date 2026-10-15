@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/158-implement-simple-memoized-prime-checker-cache/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/158-implement-simple-memoized-prime-checker-cache/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/158-implement-simple-memoized-prime-checker-cache/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/158-implement-simple-memoized-prime-checker-cache/Solution.cs)

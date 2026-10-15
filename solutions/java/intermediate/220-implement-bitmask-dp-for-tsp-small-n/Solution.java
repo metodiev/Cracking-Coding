@@ -29,9 +29,9 @@ public class Solution {
             {0, 1, 10, 10},
             {1, 0, 1, 10},
             {10, 1, 0, 1},
-            {10, 10, 1, 0},
+            {1, 10, 1, 0},
         };
-        check(tsp(square) == 4, "square loop");
+        check(tsp(square) == 4, "square loop, all cycle edges 1");
 
         int[][] triangle = {{0, 1, 3}, {1, 0, 2}, {3, 2, 0}};
         check(tsp(triangle) == 6, "triangle");

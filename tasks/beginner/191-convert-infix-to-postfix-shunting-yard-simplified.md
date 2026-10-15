@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/191-convert-infix-to-postfix-shunting-yard-simplified/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/191-convert-infix-to-postfix-shunting-yard-simplified/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/191-convert-infix-to-postfix-shunting-yard-simplified/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/191-convert-infix-to-postfix-shunting-yard-simplified/Solution.cs)

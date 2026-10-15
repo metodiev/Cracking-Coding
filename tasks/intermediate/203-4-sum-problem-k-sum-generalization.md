@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/203-4-sum-problem-k-sum-generalization/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/203-4-sum-problem-k-sum-generalization/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/203-4-sum-problem-k-sum-generalization/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/203-4-sum-problem-k-sum-generalization/Solution.cs)

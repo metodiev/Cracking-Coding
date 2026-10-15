@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/144-convert-sorted-array-to-balanced-bst/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/144-convert-sorted-array-to-balanced-bst/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/144-convert-sorted-array-to-balanced-bst/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/144-convert-sorted-array-to-balanced-bst/Solution.cs)

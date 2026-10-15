@@ -6,4 +6,4 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/317-longest-duplicate-substring-binary-search-hash/solution.py)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/236-count-nodes-at-distance-k-from-target-in-binary-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/236-count-nodes-at-distance-k-from-target-in-binary-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/236-count-nodes-at-distance-k-from-target-in-binary-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/236-count-nodes-at-distance-k-from-target-in-binary-tree/Solution.cs)

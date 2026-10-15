@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/234-group-anagrams-count-signature-as-key/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/234-group-anagrams-count-signature-as-key/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/234-group-anagrams-count-signature-as-key/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/234-group-anagrams-count-signature-as-key/Solution.cs)

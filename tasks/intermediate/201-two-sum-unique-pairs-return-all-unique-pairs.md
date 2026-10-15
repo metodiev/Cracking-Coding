@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/201-two-sum-unique-pairs-return-all-unique-pairs/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/201-two-sum-unique-pairs-return-all-unique-pairs/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/201-two-sum-unique-pairs-return-all-unique-pairs/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/201-two-sum-unique-pairs-return-all-unique-pairs/Solution.cs)

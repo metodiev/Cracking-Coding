@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/147-lowest-common-ancestor-in-binary-tree-general/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/147-lowest-common-ancestor-in-binary-tree-general/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/147-lowest-common-ancestor-in-binary-tree-general/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/147-lowest-common-ancestor-in-binary-tree-general/Solution.cs)

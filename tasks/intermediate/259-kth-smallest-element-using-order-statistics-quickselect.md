@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/259-kth-smallest-element-using-order-statistics-quickselect/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/259-kth-smallest-element-using-order-statistics-quickselect/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/259-kth-smallest-element-using-order-statistics-quickselect/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/259-kth-smallest-element-using-order-statistics-quickselect/Solution.cs)

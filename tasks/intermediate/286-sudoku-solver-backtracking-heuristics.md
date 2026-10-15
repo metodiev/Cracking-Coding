@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/286-sudoku-solver-backtracking-heuristics/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/286-sudoku-solver-backtracking-heuristics/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/286-sudoku-solver-backtracking-heuristics/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/286-sudoku-solver-backtracking-heuristics/Solution.cs)

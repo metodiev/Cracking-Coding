@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/249-implement-treap-bst-heap-insert-delete/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/249-implement-treap-bst-heap-insert-delete/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/249-implement-treap-bst-heap-insert-delete/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/249-implement-treap-bst-heap-insert-delete/Solution.cs)

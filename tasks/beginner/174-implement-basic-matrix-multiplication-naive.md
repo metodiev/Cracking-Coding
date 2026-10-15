@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/beginner/174-implement-basic-matrix-multiplication-naive/solution.py)
+- Java: [Solution.java](../../solutions/java/beginner/174-implement-basic-matrix-multiplication-naive/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/beginner/174-implement-basic-matrix-multiplication-naive/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/beginner/174-implement-basic-matrix-multiplication-naive/Solution.cs)

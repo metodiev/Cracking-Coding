@@ -34,7 +34,7 @@ if (require.main === module) {
     [0, 1, 10, 10],
     [1, 0, 1, 10],
     [10, 1, 0, 1],
-    [10, 10, 1, 0],
+    [1, 10, 1, 0],
   ];
   assert.strictEqual(tsp(square), 4);
   assert.strictEqual(tsp([[0, 1, 3], [1, 0, 2], [3, 2, 0]]), 6);
