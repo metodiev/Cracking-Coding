@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/346-implement-optimistic-concurrency-control-sketch-version-numbers/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/346-implement-optimistic-concurrency-control-sketch-version-numbers/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/346-implement-optimistic-concurrency-control-sketch-version-numbers/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/346-implement-optimistic-concurrency-control-sketch-version-numbers/Solution.cs)

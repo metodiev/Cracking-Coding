@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/288-generate-parentheses-balanced-parentheses-generator/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/288-generate-parentheses-balanced-parentheses-generator/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/288-generate-parentheses-balanced-parentheses-generator/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/288-generate-parentheses-balanced-parentheses-generator/Solution.cs)

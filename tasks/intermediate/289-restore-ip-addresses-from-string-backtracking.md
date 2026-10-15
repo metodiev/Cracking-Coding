@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/289-restore-ip-addresses-from-string-backtracking/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/289-restore-ip-addresses-from-string-backtracking/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/289-restore-ip-addresses-from-string-backtracking/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/289-restore-ip-addresses-from-string-backtracking/Solution.cs)

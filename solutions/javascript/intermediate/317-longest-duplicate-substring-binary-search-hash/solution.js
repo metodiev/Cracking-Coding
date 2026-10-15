@@ -5,6 +5,13 @@ const MOD1 = 1_000_000_007;
 const MOD2 = 998_244_353;
 const BASE = 131;
 
+/** (a * b) % mod without losing precision: JS numbers are exact only below 2^53. */
+function mulmod(a, b, mod) {
+  const bHi = Math.floor(b / 65536);
+  const bLo = b - bHi * 65536;
+  return ((a * bHi % mod) * 65536 + a * bLo) % mod;
+}
+
 class DoubleRollingHash {
   constructor(s) {
     const n = s.length;
@@ -24,8 +31,8 @@ class DoubleRollingHash {
   /** Hash of s[lo..hi) as the pair (mod MOD1, mod MOD2). */
   hash(lo, hi) {
     const length = hi - lo;
-    const a = ((this.h1[hi] - (this.h1[lo] * this.p1[length]) % MOD1 + MOD1) % MOD1 + MOD1) % MOD1;
-    const b = ((this.h2[hi] - (this.h2[lo] * this.p2[length]) % MOD2 + MOD2) % MOD2 + MOD2) % MOD2;
+    const a = (this.h1[hi] - mulmod(this.h1[lo], this.p1[length], MOD1) + MOD1) % MOD1;
+    const b = (this.h2[hi] - mulmod(this.h2[lo], this.p2[length], MOD2) + MOD2) % MOD2;
     return [a, b];
   }
 

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple/Solution.cs)

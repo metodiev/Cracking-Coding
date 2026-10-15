@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/325-minimum-number-of-platforms-for-trains-sweep-line/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/325-minimum-number-of-platforms-for-trains-sweep-line/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/325-minimum-number-of-platforms-for-trains-sweep-line/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/325-minimum-number-of-platforms-for-trains-sweep-line/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/324-interval-scheduling-to-maximize-number-of-non-overlapping-interv/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/324-interval-scheduling-to-maximize-number-of-non-overlapping-interv/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/324-interval-scheduling-to-maximize-number-of-non-overlapping-interv/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/324-interval-scheduling-to-maximize-number-of-non-overlapping-interv/Solution.cs)

@@ -37,6 +37,7 @@ function isSubsequence(needle, haystack) {
 
 /** Tries every window; the independent oracle. Returns the window or null when none exists. */
 function bruteMinWindow(s, t) {
+  if (t === "" || t.length > s.length) return null;
   let best = null;
   for (let left = 0; left < s.length; left++) {
     for (let right = left; right < s.length; right++) {

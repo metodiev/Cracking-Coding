@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/344-design-and-implement-a-url-shortener-basic-hash-collision-handli/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/344-design-and-implement-a-url-shortener-basic-hash-collision-handli/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/344-design-and-implement-a-url-shortener-basic-hash-collision-handli/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/344-design-and-implement-a-url-shortener-basic-hash-collision-handli/Solution.cs)

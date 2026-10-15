@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/342-implement-expression-evaluator-with-variables-and-precedence/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/342-implement-expression-evaluator-with-variables-and-precedence/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/342-implement-expression-evaluator-with-variables-and-precedence/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/342-implement-expression-evaluator-with-variables-and-precedence/Solution.cs)

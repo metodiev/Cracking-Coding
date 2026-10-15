@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/343-graph-isomorphism-simple-checks-degree-sequence-invariants/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/343-graph-isomorphism-simple-checks-degree-sequence-invariants/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/343-graph-isomorphism-simple-checks-degree-sequence-invariants/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/343-graph-isomorphism-simple-checks-degree-sequence-invariants/Solution.cs)

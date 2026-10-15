@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/360-implement-versioned-key-value-store-basic/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/360-implement-versioned-key-value-store-basic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/360-implement-versioned-key-value-store-basic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/360-implement-versioned-key-value-store-basic/Solution.cs)

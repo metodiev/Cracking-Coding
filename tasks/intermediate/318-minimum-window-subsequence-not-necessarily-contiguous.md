@@ -7,3 +7,6 @@
 ## Solutions
 
 - Python: [solution.py](../../solutions/python/intermediate/318-minimum-window-subsequence-not-necessarily-contiguous/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/318-minimum-window-subsequence-not-necessarily-contiguous/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/318-minimum-window-subsequence-not-necessarily-contiguous/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/318-minimum-window-subsequence-not-necessarily-contiguous/Solution.cs)
