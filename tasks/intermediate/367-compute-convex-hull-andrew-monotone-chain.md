@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/367-compute-convex-hull-andrew-monotone-chain/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/367-compute-convex-hull-andrew-monotone-chain/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/367-compute-convex-hull-andrew-monotone-chain/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/367-compute-convex-hull-andrew-monotone-chain/Solution.cs)

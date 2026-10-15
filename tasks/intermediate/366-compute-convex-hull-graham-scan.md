@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/366-compute-convex-hull-graham-scan/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/366-compute-convex-hull-graham-scan/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/366-compute-convex-hull-graham-scan/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/366-compute-convex-hull-graham-scan/Solution.cs)

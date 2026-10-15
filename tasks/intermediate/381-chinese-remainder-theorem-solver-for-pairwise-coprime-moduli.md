@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli/Solution.cs)

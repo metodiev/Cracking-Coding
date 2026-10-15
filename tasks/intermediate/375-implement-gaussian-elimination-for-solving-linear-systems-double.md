@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/375-implement-gaussian-elimination-for-solving-linear-systems-double/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/375-implement-gaussian-elimination-for-solving-linear-systems-double/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/375-implement-gaussian-elimination-for-solving-linear-systems-double/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/375-implement-gaussian-elimination-for-solving-linear-systems-double/Solution.cs)

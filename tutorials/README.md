@@ -144,8 +144,8 @@ flowchart TD
 - ✅ **Beginner tier complete: tasks 001–200 implemented in all four languages** (Java, Python,
   JavaScript, C#), every file passing its built-in self-checks
   (`python3 tools/run_solutions.py` → 200/200 per language).
-- ✅ **Intermediate tier in progress: tasks 201–360 implemented** in all four languages
-  (360/998 tasks × 4 languages = 1440 self-checking solutions; the concurrency tasks 341–360
+- ✅ **Intermediate tier complete: tasks 201–400 implemented** in all four languages
+  (400/998 tasks × 4 languages = 1600 self-checking solutions; the concurrency tasks 341–360
   use real threads in Python/Java/C# and the documented deterministic async simulation in JS,
   since Node has no shared-memory threads).
 - 🚧 Remaining tiers land next, tier by tier — progress table lives in
@@ -156,9 +156,8 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    B1["Beginner 001-200<br/>✅ done (4 languages)"] --> I1["Intermediate 201-360<br/>✅ done"]
-    I1 --> I2["Intermediate 361-400<br/>🚧 next"]
-    I2 --> A["Advanced 401-600<br/>⏳ planned"]
+    B1["Beginner 001-200<br/>✅ done (4 languages)"] --> I1["Intermediate 201-400<br/>✅ done"]
+    I1 --> A["Advanced 401-600<br/>🚧 next"]
     A --> E["Expert 601-800<br/>⏳ planned"]
     E --> M["Master 801-998<br/>⏳ planned"]
 ```

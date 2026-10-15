@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/398-implement-divide-conquer-dp-optimization-example/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/398-implement-divide-conquer-dp-optimization-example/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/398-implement-divide-conquer-dp-optimization-example/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/398-implement-divide-conquer-dp-optimization-example/Solution.cs)

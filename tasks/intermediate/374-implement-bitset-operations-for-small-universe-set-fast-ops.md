@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/374-implement-bitset-operations-for-small-universe-set-fast-ops/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/374-implement-bitset-operations-for-small-universe-set-fast-ops/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/374-implement-bitset-operations-for-small-universe-set-fast-ops/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/374-implement-bitset-operations-for-small-universe-set-fast-ops/Solution.cs)

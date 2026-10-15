@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/383-factor-large-integer-with-pollard-s-rho-outline-test-small/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/383-factor-large-integer-with-pollard-s-rho-outline-test-small/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/383-factor-large-integer-with-pollard-s-rho-outline-test-small/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/383-factor-large-integer-with-pollard-s-rho-outline-test-small/Solution.cs)

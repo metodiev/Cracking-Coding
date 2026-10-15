@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/370-line-sweep-for-rectangle-area-union/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/370-line-sweep-for-rectangle-area-union/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/370-line-sweep-for-rectangle-area-union/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/370-line-sweep-for-rectangle-area-union/Solution.cs)

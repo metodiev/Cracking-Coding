@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/368-point-in-polygon-test-ray-casting/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/368-point-in-polygon-test-ray-casting/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/368-point-in-polygon-test-ray-casting/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/368-point-in-polygon-test-ray-casting/Solution.cs)

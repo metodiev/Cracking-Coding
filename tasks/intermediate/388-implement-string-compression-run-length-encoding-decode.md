@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/388-implement-string-compression-run-length-encoding-decode/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/388-implement-string-compression-run-length-encoding-decode/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/388-implement-string-compression-run-length-encoding-decode/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/388-implement-string-compression-run-length-encoding-decode/Solution.cs)

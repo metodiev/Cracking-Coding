@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim/Solution.cs)

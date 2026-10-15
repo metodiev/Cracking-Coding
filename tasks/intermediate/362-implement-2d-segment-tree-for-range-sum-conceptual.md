@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/362-implement-2d-segment-tree-for-range-sum-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/362-implement-2d-segment-tree-for-range-sum-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/362-implement-2d-segment-tree-for-range-sum-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/362-implement-2d-segment-tree-for-range-sum-conceptual/Solution.cs)

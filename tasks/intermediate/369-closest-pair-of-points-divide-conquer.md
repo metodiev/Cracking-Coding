@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/intermediate/369-closest-pair-of-points-divide-conquer/solution.py)
+- Java: [Solution.java](../../solutions/java/intermediate/369-closest-pair-of-points-divide-conquer/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/intermediate/369-closest-pair-of-points-divide-conquer/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/intermediate/369-closest-pair-of-points-divide-conquer/Solution.cs)

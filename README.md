@@ -1043,9 +1043,9 @@ flowchart LR
 - 🗺️ **Task → chapter mapping** for all 998 tasks: [`tutorials/ctci-mapping.md`](tutorials/ctci-mapping.md).
   The mapping follows *Cracking the Coding Interview, 6th Edition* (189 Programming Questions &
   Solutions) and tags beyond-book work (distributed systems, ML, graphics, security, …) explicitly.
-- ✅ **Progress**: [`docs/TASK-INDEX.md`](docs/TASK-INDEX.md). The **Beginner tier (001–200)** is complete
-  in all four languages and **Intermediate 201–360** is done (360/998 tasks × 4 languages = 1440
-  self-checking solutions); the remaining tasks are delivered tier-by-tier (staged plan).
+- ✅ **Progress**: [`docs/TASK-INDEX.md`](docs/TASK-INDEX.md). The **Beginner tier (001–200)** and the
+  **Intermediate tier (201–400)** are complete in all four languages (400/998 tasks × 4 languages =
+  1600 self-checking solutions); the remaining tiers are delivered tier-by-tier (staged plan).
   Every solution self-checks: `python3 tools/run_solutions.py`.
 - ▶️ **Run everything**: `python3 tools/run_solutions.py` (add `python`, `java`, `javascript` or `csharp`).
 
