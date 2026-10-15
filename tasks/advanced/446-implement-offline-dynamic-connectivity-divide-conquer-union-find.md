@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/446-implement-offline-dynamic-connectivity-divide-conquer-union-find/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/446-implement-offline-dynamic-connectivity-divide-conquer-union-find/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/446-implement-offline-dynamic-connectivity-divide-conquer-union-find/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/446-implement-offline-dynamic-connectivity-divide-conquer-union-find/Solution.cs)

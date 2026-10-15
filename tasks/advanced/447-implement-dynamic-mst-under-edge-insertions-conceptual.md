@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/447-implement-dynamic-mst-under-edge-insertions-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/447-implement-dynamic-mst-under-edge-insertions-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/447-implement-dynamic-mst-under-edge-insertions-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/447-implement-dynamic-mst-under-edge-insertions-conceptual/Solution.cs)

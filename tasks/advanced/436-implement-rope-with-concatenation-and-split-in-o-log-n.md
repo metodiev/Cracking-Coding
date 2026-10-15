@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/436-implement-rope-with-concatenation-and-split-in-o-log-n/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/436-implement-rope-with-concatenation-and-split-in-o-log-n/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/436-implement-rope-with-concatenation-and-split-in-o-log-n/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/436-implement-rope-with-concatenation-and-split-in-o-log-n/Solution.cs)

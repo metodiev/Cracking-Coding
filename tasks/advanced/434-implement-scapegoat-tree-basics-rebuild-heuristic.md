@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/434-implement-scapegoat-tree-basics-rebuild-heuristic/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/434-implement-scapegoat-tree-basics-rebuild-heuristic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/434-implement-scapegoat-tree-basics-rebuild-heuristic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/434-implement-scapegoat-tree-basics-rebuild-heuristic/Solution.cs)

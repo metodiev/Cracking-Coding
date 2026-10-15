@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/448-implement-parametric-search-for-optimizing-monotone-predicates/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/448-implement-parametric-search-for-optimizing-monotone-predicates/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/448-implement-parametric-search-for-optimizing-monotone-predicates/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/448-implement-parametric-search-for-optimizing-monotone-predicates/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/449-implement-global-min-cut-karger-randomized-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/449-implement-global-min-cut-karger-randomized-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/449-implement-global-min-cut-karger-randomized-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/449-implement-global-min-cut-karger-randomized-algorithm/Solution.cs)

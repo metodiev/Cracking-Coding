@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/404-implement-suffix-automaton-and-count-different-substrings/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/404-implement-suffix-automaton-and-count-different-substrings/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/404-implement-suffix-automaton-and-count-different-substrings/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/404-implement-suffix-automaton-and-count-different-substrings/Solution.cs)

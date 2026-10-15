@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/413-implement-data-structure-for-dynamic-string-operations-rope/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/413-implement-data-structure-for-dynamic-string-operations-rope/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/413-implement-data-structure-for-dynamic-string-operations-rope/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/413-implement-data-structure-for-dynamic-string-operations-rope/Solution.cs)

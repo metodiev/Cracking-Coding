@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/407-implement-generalized-suffix-array-for-multiple-strings/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/407-implement-generalized-suffix-array-for-multiple-strings/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/407-implement-generalized-suffix-array-for-multiple-strings/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/407-implement-generalized-suffix-array-for-multiple-strings/Solution.cs)

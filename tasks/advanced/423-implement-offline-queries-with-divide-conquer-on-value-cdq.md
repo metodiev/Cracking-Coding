@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/423-implement-offline-queries-with-divide-conquer-on-value-cdq/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/423-implement-offline-queries-with-divide-conquer-on-value-cdq/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/423-implement-offline-queries-with-divide-conquer-on-value-cdq/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/423-implement-offline-queries-with-divide-conquer-on-value-cdq/Solution.cs)

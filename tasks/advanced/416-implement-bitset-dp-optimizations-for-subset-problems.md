@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/416-implement-bitset-dp-optimizations-for-subset-problems/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/416-implement-bitset-dp-optimizations-for-subset-problems/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/416-implement-bitset-dp-optimizations-for-subset-problems/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/416-implement-bitset-dp-optimizations-for-subset-problems/Solution.cs)

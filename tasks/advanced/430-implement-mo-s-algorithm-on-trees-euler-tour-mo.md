@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/430-implement-mo-s-algorithm-on-trees-euler-tour-mo/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/430-implement-mo-s-algorithm-on-trees-euler-tour-mo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/430-implement-mo-s-algorithm-on-trees-euler-tour-mo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/430-implement-mo-s-algorithm-on-trees-euler-tour-mo/Solution.cs)

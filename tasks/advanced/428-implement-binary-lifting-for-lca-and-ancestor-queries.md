@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/428-implement-binary-lifting-for-lca-and-ancestor-queries/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/428-implement-binary-lifting-for-lca-and-ancestor-queries/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/428-implement-binary-lifting-for-lca-and-ancestor-queries/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/428-implement-binary-lifting-for-lca-and-ancestor-queries/Solution.cs)

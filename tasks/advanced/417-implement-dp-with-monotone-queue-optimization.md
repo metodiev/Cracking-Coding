@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/417-implement-dp-with-monotone-queue-optimization/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/417-implement-dp-with-monotone-queue-optimization/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/417-implement-dp-with-monotone-queue-optimization/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/417-implement-dp-with-monotone-queue-optimization/Solution.cs)

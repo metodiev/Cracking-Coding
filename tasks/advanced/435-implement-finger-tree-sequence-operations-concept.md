@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/435-implement-finger-tree-sequence-operations-concept/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/435-implement-finger-tree-sequence-operations-concept/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/435-implement-finger-tree-sequence-operations-concept/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/435-implement-finger-tree-sequence-operations-concept/Solution.cs)

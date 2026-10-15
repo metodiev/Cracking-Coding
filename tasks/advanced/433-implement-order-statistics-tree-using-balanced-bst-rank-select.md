@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/433-implement-order-statistics-tree-using-balanced-bst-rank-select/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/433-implement-order-statistics-tree-using-balanced-bst-rank-select/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/433-implement-order-statistics-tree-using-balanced-bst-rank-select/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/433-implement-order-statistics-tree-using-balanced-bst-rank-select/Solution.cs)

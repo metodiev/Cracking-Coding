@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/403-use-suffix-array-lcp-for-longest-repeated-substring/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/403-use-suffix-array-lcp-for-longest-repeated-substring/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/403-use-suffix-array-lcp-for-longest-repeated-substring/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/403-use-suffix-array-lcp-for-longest-repeated-substring/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/426-implement-tree-dp-for-independent-set-in-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/426-implement-tree-dp-for-independent-set-in-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/426-implement-tree-dp-for-independent-set-in-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/426-implement-tree-dp-for-independent-set-in-tree/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/429-implement-range-kth-order-statistic-using-persistent-segtree/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/429-implement-range-kth-order-statistic-using-persistent-segtree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/429-implement-range-kth-order-statistic-using-persistent-segtree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/429-implement-range-kth-order-statistic-using-persistent-segtree/Solution.cs)

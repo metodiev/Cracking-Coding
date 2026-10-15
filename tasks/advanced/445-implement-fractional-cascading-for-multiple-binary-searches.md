@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/445-implement-fractional-cascading-for-multiple-binary-searches/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/445-implement-fractional-cascading-for-multiple-binary-searches/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/445-implement-fractional-cascading-for-multiple-binary-searches/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/445-implement-fractional-cascading-for-multiple-binary-searches/Solution.cs)

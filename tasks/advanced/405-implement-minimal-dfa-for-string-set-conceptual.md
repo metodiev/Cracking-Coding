@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/405-implement-minimal-dfa-for-string-set-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/405-implement-minimal-dfa-for-string-set-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/405-implement-minimal-dfa-for-string-set-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/405-implement-minimal-dfa-for-string-set-conceptual/Solution.cs)

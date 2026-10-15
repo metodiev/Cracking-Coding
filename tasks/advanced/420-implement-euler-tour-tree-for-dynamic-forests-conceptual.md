@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/420-implement-euler-tour-tree-for-dynamic-forests-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/420-implement-euler-tour-tree-for-dynamic-forests-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/420-implement-euler-tour-tree-for-dynamic-forests-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/420-implement-euler-tour-tree-for-dynamic-forests-conceptual/Solution.cs)

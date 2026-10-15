@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/432-implement-data-structure-for-dynamic-median-order-statistics-tre/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/432-implement-data-structure-for-dynamic-median-order-statistics-tre/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/432-implement-data-structure-for-dynamic-median-order-statistics-tre/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/432-implement-data-structure-for-dynamic-median-order-statistics-tre/Solution.cs)

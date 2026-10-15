@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/438-implement-external-memory-sort-outline-multiway-merge/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/438-implement-external-memory-sort-outline-multiway-merge/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/438-implement-external-memory-sort-outline-multiway-merge/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/438-implement-external-memory-sort-outline-multiway-merge/Solution.cs)
