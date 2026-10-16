@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/611-implement-dynamic-succinct-trees-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/611-implement-dynamic-succinct-trees-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/611-implement-dynamic-succinct-trees-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/611-implement-dynamic-succinct-trees-conceptual/Solution.cs)

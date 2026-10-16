@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed/Solution.cs)

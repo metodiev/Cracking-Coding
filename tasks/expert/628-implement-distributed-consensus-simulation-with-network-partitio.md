@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/628-implement-distributed-consensus-simulation-with-network-partitio/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/628-implement-distributed-consensus-simulation-with-network-partitio/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/628-implement-distributed-consensus-simulation-with-network-partitio/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/628-implement-distributed-consensus-simulation-with-network-partitio/Solution.cs)

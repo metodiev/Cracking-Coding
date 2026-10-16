@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/631-implement-gossip-protocol-for-membership-and-failure-detection/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/631-implement-gossip-protocol-for-membership-and-failure-detection/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/631-implement-gossip-protocol-for-membership-and-failure-detection/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/631-implement-gossip-protocol-for-membership-and-failure-detection/Solution.cs)

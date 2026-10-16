@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/650-implement-online-aggregation-progressive-estimator/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/650-implement-online-aggregation-progressive-estimator/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/650-implement-online-aggregation-progressive-estimator/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/650-implement-online-aggregation-progressive-estimator/Solution.cs)

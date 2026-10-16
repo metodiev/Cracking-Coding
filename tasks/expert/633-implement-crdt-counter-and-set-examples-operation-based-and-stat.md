@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/633-implement-crdt-counter-and-set-examples-operation-based-and-stat/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/633-implement-crdt-counter-and-set-examples-operation-based-and-stat/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/633-implement-crdt-counter-and-set-examples-operation-based-and-stat/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/633-implement-crdt-counter-and-set-examples-operation-based-and-stat/Solution.cs)

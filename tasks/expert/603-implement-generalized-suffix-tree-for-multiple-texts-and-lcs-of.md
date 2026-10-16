@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of/Solution.cs)

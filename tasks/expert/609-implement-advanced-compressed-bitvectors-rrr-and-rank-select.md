@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/609-implement-advanced-compressed-bitvectors-rrr-and-rank-select/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/609-implement-advanced-compressed-bitvectors-rrr-and-rank-select/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/609-implement-advanced-compressed-bitvectors-rrr-and-rank-select/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/609-implement-advanced-compressed-bitvectors-rrr-and-rank-select/Solution.cs)

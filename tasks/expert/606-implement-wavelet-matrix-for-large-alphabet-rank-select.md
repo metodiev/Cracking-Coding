@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/606-implement-wavelet-matrix-for-large-alphabet-rank-select/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/606-implement-wavelet-matrix-for-large-alphabet-rank-select/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/606-implement-wavelet-matrix-for-large-alphabet-rank-select/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/606-implement-wavelet-matrix-for-large-alphabet-rank-select/Solution.cs)

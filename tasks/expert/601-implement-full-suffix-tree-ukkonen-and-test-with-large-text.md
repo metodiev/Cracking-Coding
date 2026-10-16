@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/601-implement-full-suffix-tree-ukkonen-and-test-with-large-text/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/601-implement-full-suffix-tree-ukkonen-and-test-with-large-text/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/601-implement-full-suffix-tree-ukkonen-and-test-with-large-text/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/601-implement-full-suffix-tree-ukkonen-and-test-with-large-text/Solution.cs)

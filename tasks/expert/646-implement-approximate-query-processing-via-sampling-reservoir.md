@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/646-implement-approximate-query-processing-via-sampling-reservoir/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/646-implement-approximate-query-processing-via-sampling-reservoir/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/646-implement-approximate-query-processing-via-sampling-reservoir/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/646-implement-approximate-query-processing-via-sampling-reservoir/Solution.cs)

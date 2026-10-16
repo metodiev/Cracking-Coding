@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/614-implement-persistent-b-tree-for-versioned-db-index/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/614-implement-persistent-b-tree-for-versioned-db-index/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/614-implement-persistent-b-tree-for-versioned-db-index/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/614-implement-persistent-b-tree-for-versioned-db-index/Solution.cs)

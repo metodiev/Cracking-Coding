@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline/Solution.cs)

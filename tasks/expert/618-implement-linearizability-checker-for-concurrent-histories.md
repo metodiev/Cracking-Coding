@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/618-implement-linearizability-checker-for-concurrent-histories/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/618-implement-linearizability-checker-for-concurrent-histories/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/618-implement-linearizability-checker-for-concurrent-histories/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/618-implement-linearizability-checker-for-concurrent-histories/Solution.cs)

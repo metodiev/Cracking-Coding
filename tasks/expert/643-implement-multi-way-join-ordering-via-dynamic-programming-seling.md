@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/643-implement-multi-way-join-ordering-via-dynamic-programming-seling/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/643-implement-multi-way-join-ordering-via-dynamic-programming-seling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/643-implement-multi-way-join-ordering-via-dynamic-programming-seling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/643-implement-multi-way-join-ordering-via-dynamic-programming-seling/Solution.cs)

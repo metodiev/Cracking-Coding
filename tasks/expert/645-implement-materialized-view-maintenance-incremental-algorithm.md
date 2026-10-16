@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/645-implement-materialized-view-maintenance-incremental-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/645-implement-materialized-view-maintenance-incremental-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/645-implement-materialized-view-maintenance-incremental-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/645-implement-materialized-view-maintenance-incremental-algorithm/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/608-implement-bwt-based-full-text-index-with-fast-locate/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/608-implement-bwt-based-full-text-index-with-fast-locate/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/608-implement-bwt-based-full-text-index-with-fast-locate/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/608-implement-bwt-based-full-text-index-with-fast-locate/Solution.cs)

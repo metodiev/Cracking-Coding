@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/610-implement-succinct-tree-representations-dfuds-and-navigation-ops/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/610-implement-succinct-tree-representations-dfuds-and-navigation-ops/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/610-implement-succinct-tree-representations-dfuds-and-navigation-ops/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/610-implement-succinct-tree-representations-dfuds-and-navigation-ops/Solution.cs)

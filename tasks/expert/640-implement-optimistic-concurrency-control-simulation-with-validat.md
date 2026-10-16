@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/640-implement-optimistic-concurrency-control-simulation-with-validat/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/640-implement-optimistic-concurrency-control-simulation-with-validat/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/640-implement-optimistic-concurrency-control-simulation-with-validat/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/640-implement-optimistic-concurrency-control-simulation-with-validat/Solution.cs)

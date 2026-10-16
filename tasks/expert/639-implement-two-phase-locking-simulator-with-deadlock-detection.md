@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/639-implement-two-phase-locking-simulator-with-deadlock-detection/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/639-implement-two-phase-locking-simulator-with-deadlock-detection/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/639-implement-two-phase-locking-simulator-with-deadlock-detection/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/639-implement-two-phase-locking-simulator-with-deadlock-detection/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/648-implement-vectorized-execution-for-simple-sql-operators/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/648-implement-vectorized-execution-for-simple-sql-operators/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/648-implement-vectorized-execution-for-simple-sql-operators/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/648-implement-vectorized-execution-for-simple-sql-operators/Solution.cs)
