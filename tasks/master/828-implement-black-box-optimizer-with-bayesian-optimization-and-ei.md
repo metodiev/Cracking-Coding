@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/828-implement-black-box-optimizer-with-bayesian-optimization-and-ei/solution.py)
+- Java: [Solution.java](../../solutions/java/master/828-implement-black-box-optimizer-with-bayesian-optimization-and-ei/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/828-implement-black-box-optimizer-with-bayesian-optimization-and-ei/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/828-implement-black-box-optimizer-with-bayesian-optimization-and-ei/Solution.cs)

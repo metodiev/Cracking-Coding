@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/810-implement-cross-datacenter-replication-with-causal-consistency-g/solution.py)
+- Java: [Solution.java](../../solutions/java/master/810-implement-cross-datacenter-replication-with-causal-consistency-g/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/810-implement-cross-datacenter-replication-with-causal-consistency-g/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/810-implement-cross-datacenter-replication-with-causal-consistency-g/Solution.cs)

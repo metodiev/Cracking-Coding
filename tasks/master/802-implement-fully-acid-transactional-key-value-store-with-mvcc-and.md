@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/802-implement-fully-acid-transactional-key-value-store-with-mvcc-and/solution.py)
+- Java: [Solution.java](../../solutions/java/master/802-implement-fully-acid-transactional-key-value-store-with-mvcc-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/802-implement-fully-acid-transactional-key-value-store-with-mvcc-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/802-implement-fully-acid-transactional-key-value-store-with-mvcc-and/Solution.cs)

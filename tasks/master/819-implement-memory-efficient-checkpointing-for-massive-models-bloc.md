@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/819-implement-memory-efficient-checkpointing-for-massive-models-bloc/solution.py)
+- Java: [Solution.java](../../solutions/java/master/819-implement-memory-efficient-checkpointing-for-massive-models-bloc/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/819-implement-memory-efficient-checkpointing-for-massive-models-bloc/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/819-implement-memory-efficient-checkpointing-for-massive-models-bloc/Solution.cs)

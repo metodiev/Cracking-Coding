@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/842-implement-blockchain-light-node-gossip-header-stitching-robustly/solution.py)
+- Java: [Solution.java](../../solutions/java/master/842-implement-blockchain-light-node-gossip-header-stitching-robustly/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/842-implement-blockchain-light-node-gossip-header-stitching-robustly/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/842-implement-blockchain-light-node-gossip-header-stitching-robustly/Solution.cs)

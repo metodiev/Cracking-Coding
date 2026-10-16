@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/837-implement-decentralized-identity-did-system-with-verifiable-cred/solution.py)
+- Java: [Solution.java](../../solutions/java/master/837-implement-decentralized-identity-did-system-with-verifiable-cred/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/837-implement-decentralized-identity-did-system-with-verifiable-cred/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/837-implement-decentralized-identity-did-system-with-verifiable-cred/Solution.cs)

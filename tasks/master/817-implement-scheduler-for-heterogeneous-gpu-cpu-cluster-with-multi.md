@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi/solution.py)
+- Java: [Solution.java](../../solutions/java/master/817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/821-implement-revenue-optimized-bidding-engine-with-real-time-constr/solution.py)
+- Java: [Solution.java](../../solutions/java/master/821-implement-revenue-optimized-bidding-engine-with-real-time-constr/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/821-implement-revenue-optimized-bidding-engine-with-real-time-constr/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/821-implement-revenue-optimized-bidding-engine-with-real-time-constr/Solution.cs)

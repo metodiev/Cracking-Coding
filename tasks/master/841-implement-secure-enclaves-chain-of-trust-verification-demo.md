@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/841-implement-secure-enclaves-chain-of-trust-verification-demo/solution.py)
+- Java: [Solution.java](../../solutions/java/master/841-implement-secure-enclaves-chain-of-trust-verification-demo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/841-implement-secure-enclaves-chain-of-trust-verification-demo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/841-implement-secure-enclaves-chain-of-trust-verification-demo/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/846-implement-subgraph-centric-distributed-processing-framework-and/solution.py)
+- Java: [Solution.java](../../solutions/java/master/846-implement-subgraph-centric-distributed-processing-framework-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/846-implement-subgraph-centric-distributed-processing-framework-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/846-implement-subgraph-centric-distributed-processing-framework-and/Solution.cs)

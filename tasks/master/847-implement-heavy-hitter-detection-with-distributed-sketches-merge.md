@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/847-implement-heavy-hitter-detection-with-distributed-sketches-merge/solution.py)
+- Java: [Solution.java](../../solutions/java/master/847-implement-heavy-hitter-detection-with-distributed-sketches-merge/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/847-implement-heavy-hitter-detection-with-distributed-sketches-merge/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/847-implement-heavy-hitter-detection-with-distributed-sketches-merge/Solution.cs)

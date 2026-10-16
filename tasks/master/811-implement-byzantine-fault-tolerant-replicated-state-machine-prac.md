@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/811-implement-byzantine-fault-tolerant-replicated-state-machine-prac/solution.py)
+- Java: [Solution.java](../../solutions/java/master/811-implement-byzantine-fault-tolerant-replicated-state-machine-prac/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/811-implement-byzantine-fault-tolerant-replicated-state-machine-prac/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/811-implement-byzantine-fault-tolerant-replicated-state-machine-prac/Solution.cs)

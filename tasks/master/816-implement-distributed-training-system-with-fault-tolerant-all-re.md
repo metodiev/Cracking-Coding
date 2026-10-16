@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/816-implement-distributed-training-system-with-fault-tolerant-all-re/solution.py)
+- Java: [Solution.java](../../solutions/java/master/816-implement-distributed-training-system-with-fault-tolerant-all-re/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/816-implement-distributed-training-system-with-fault-tolerant-all-re/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/816-implement-distributed-training-system-with-fault-tolerant-all-re/Solution.cs)

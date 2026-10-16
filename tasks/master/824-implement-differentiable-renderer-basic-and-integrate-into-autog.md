@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/824-implement-differentiable-renderer-basic-and-integrate-into-autog/solution.py)
+- Java: [Solution.java](../../solutions/java/master/824-implement-differentiable-renderer-basic-and-integrate-into-autog/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/824-implement-differentiable-renderer-basic-and-integrate-into-autog/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/824-implement-differentiable-renderer-basic-and-integrate-into-autog/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/814-implement-searchable-encrypted-index-with-limited-leakage-and-pr/solution.py)
+- Java: [Solution.java](../../solutions/java/master/814-implement-searchable-encrypted-index-with-limited-leakage-and-pr/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/814-implement-searchable-encrypted-index-with-limited-leakage-and-pr/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/814-implement-searchable-encrypted-index-with-limited-leakage-and-pr/Solution.cs)

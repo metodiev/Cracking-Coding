@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/804-implement-distributed-sql-with-sharding-routing-and-distributed/solution.py)
+- Java: [Solution.java](../../solutions/java/master/804-implement-distributed-sql-with-sharding-routing-and-distributed/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/804-implement-distributed-sql-with-sharding-routing-and-distributed/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/804-implement-distributed-sql-with-sharding-routing-and-distributed/Solution.cs)

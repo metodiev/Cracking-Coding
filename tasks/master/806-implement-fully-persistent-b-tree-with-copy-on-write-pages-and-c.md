@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c/solution.py)
+- Java: [Solution.java](../../solutions/java/master/806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c/Solution.cs)

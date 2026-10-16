@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/803-build-a-small-sql-engine-with-parser-planner-and-executor-suppor/solution.py)
+- Java: [Solution.java](../../solutions/java/master/803-build-a-small-sql-engine-with-parser-planner-and-executor-suppor/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/803-build-a-small-sql-engine-with-parser-planner-and-executor-suppor/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/803-build-a-small-sql-engine-with-parser-planner-and-executor-suppor/Solution.cs)
