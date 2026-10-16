@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/917-implement-self-healing-storage-cluster-with-automatic-rebalancin/solution.py)
+- Java: [Solution.java](../../solutions/java/master/917-implement-self-healing-storage-cluster-with-automatic-rebalancin/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/917-implement-self-healing-storage-cluster-with-automatic-rebalancin/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/917-implement-self-healing-storage-cluster-with-automatic-rebalancin/Solution.cs)

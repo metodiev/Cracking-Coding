@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/943-implement-composable-privacy-guarantees-across-combined-dp-mecha/solution.py)
+- Java: [Solution.java](../../solutions/java/master/943-implement-composable-privacy-guarantees-across-combined-dp-mecha/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/943-implement-composable-privacy-guarantees-across-combined-dp-mecha/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/943-implement-composable-privacy-guarantees-across-combined-dp-mecha/Solution.cs)

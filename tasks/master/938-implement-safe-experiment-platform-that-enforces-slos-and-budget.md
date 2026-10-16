@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/938-implement-safe-experiment-platform-that-enforces-slos-and-budget/solution.py)
+- Java: [Solution.java](../../solutions/java/master/938-implement-safe-experiment-platform-that-enforces-slos-and-budget/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/938-implement-safe-experiment-platform-that-enforces-slos-and-budget/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/938-implement-safe-experiment-platform-that-enforces-slos-and-budget/Solution.cs)

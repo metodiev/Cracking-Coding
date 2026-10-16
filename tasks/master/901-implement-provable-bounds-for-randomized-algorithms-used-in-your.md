@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/901-implement-provable-bounds-for-randomized-algorithms-used-in-your/solution.py)
+- Java: [Solution.java](../../solutions/java/master/901-implement-provable-bounds-for-randomized-algorithms-used-in-your/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/901-implement-provable-bounds-for-randomized-algorithms-used-in-your/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/901-implement-provable-bounds-for-randomized-algorithms-used-in-your/Solution.cs)

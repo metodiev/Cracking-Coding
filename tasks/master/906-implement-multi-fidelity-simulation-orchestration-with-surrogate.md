@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/906-implement-multi-fidelity-simulation-orchestration-with-surrogate/solution.py)
+- Java: [Solution.java](../../solutions/java/master/906-implement-multi-fidelity-simulation-orchestration-with-surrogate/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/906-implement-multi-fidelity-simulation-orchestration-with-surrogate/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/906-implement-multi-fidelity-simulation-orchestration-with-surrogate/Solution.cs)

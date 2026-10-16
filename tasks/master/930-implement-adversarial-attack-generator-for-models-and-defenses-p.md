@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/930-implement-adversarial-attack-generator-for-models-and-defenses-p/solution.py)
+- Java: [Solution.java](../../solutions/java/master/930-implement-adversarial-attack-generator-for-models-and-defenses-p/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/930-implement-adversarial-attack-generator-for-models-and-defenses-p/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/930-implement-adversarial-attack-generator-for-models-and-defenses-p/Solution.cs)

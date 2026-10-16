@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory/solution.py)
+- Java: [Solution.java](../../solutions/java/master/935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory/Solution.cs)

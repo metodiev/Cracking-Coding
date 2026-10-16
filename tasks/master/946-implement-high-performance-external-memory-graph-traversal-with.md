@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/946-implement-high-performance-external-memory-graph-traversal-with/solution.py)
+- Java: [Solution.java](../../solutions/java/master/946-implement-high-performance-external-memory-graph-traversal-with/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/946-implement-high-performance-external-memory-graph-traversal-with/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/946-implement-high-performance-external-memory-graph-traversal-with/Solution.cs)

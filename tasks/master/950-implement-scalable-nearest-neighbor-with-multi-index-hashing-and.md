@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and/solution.py)
+- Java: [Solution.java](../../solutions/java/master/950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a/solution.py)
+- Java: [Solution.java](../../solutions/java/master/929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a/Solution.cs)

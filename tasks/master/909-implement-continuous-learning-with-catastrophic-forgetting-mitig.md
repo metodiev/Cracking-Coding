@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/909-implement-continuous-learning-with-catastrophic-forgetting-mitig/solution.py)
+- Java: [Solution.java](../../solutions/java/master/909-implement-continuous-learning-with-catastrophic-forgetting-mitig/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/909-implement-continuous-learning-with-catastrophic-forgetting-mitig/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/909-implement-continuous-learning-with-catastrophic-forgetting-mitig/Solution.cs)

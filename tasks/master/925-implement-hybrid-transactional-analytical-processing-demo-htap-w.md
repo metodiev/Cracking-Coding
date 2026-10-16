@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/925-implement-hybrid-transactional-analytical-processing-demo-htap-w/solution.py)
+- Java: [Solution.java](../../solutions/java/master/925-implement-hybrid-transactional-analytical-processing-demo-htap-w/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/925-implement-hybrid-transactional-analytical-processing-demo-htap-w/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/925-implement-hybrid-transactional-analytical-processing-demo-htap-w/Solution.cs)

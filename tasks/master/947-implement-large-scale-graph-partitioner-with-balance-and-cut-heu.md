@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu/solution.py)
+- Java: [Solution.java](../../solutions/java/master/947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu/Solution.cs)

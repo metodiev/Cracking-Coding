@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/911-implement-probabilistic-data-structure-for-heavy-hitters-with-er/solution.py)
+- Java: [Solution.java](../../solutions/java/master/911-implement-probabilistic-data-structure-for-heavy-hitters-with-er/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/911-implement-probabilistic-data-structure-for-heavy-hitters-with-er/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/911-implement-probabilistic-data-structure-for-heavy-hitters-with-er/Solution.cs)

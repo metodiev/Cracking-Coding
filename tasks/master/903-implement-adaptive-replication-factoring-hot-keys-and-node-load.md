@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/903-implement-adaptive-replication-factoring-hot-keys-and-node-load/solution.py)
+- Java: [Solution.java](../../solutions/java/master/903-implement-adaptive-replication-factoring-hot-keys-and-node-load/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/903-implement-adaptive-replication-factoring-hot-keys-and-node-load/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/903-implement-adaptive-replication-factoring-hot-keys-and-node-load/Solution.cs)

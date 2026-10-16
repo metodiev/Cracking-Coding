@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/933-implement-runtime-that-compiles-high-level-ops-into-fused-kernel/solution.py)
+- Java: [Solution.java](../../solutions/java/master/933-implement-runtime-that-compiles-high-level-ops-into-fused-kernel/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/933-implement-runtime-that-compiles-high-level-ops-into-fused-kernel/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/933-implement-runtime-that-compiles-high-level-ops-into-fused-kernel/Solution.cs)

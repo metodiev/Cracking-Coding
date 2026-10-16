@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h/solution.py)
+- Java: [Solution.java](../../solutions/java/master/926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h/Solution.cs)

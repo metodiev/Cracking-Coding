@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/931-implement-certified-robustness-verifier-for-small-networks-inter/solution.py)
+- Java: [Solution.java](../../solutions/java/master/931-implement-certified-robustness-verifier-for-small-networks-inter/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/931-implement-certified-robustness-verifier-for-small-networks-inter/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/931-implement-certified-robustness-verifier-for-small-networks-inter/Solution.cs)

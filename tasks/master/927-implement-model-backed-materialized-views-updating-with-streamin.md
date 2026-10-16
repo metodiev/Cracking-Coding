@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/927-implement-model-backed-materialized-views-updating-with-streamin/solution.py)
+- Java: [Solution.java](../../solutions/java/master/927-implement-model-backed-materialized-views-updating-with-streamin/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/927-implement-model-backed-materialized-views-updating-with-streamin/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/927-implement-model-backed-materialized-views-updating-with-streamin/Solution.cs)

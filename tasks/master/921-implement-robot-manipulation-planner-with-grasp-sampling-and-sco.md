@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco/solution.py)
+- Java: [Solution.java](../../solutions/java/master/921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/939-implement-trace-based-replay-system-for-production-debugging/solution.py)
+- Java: [Solution.java](../../solutions/java/master/939-implement-trace-based-replay-system-for-production-debugging/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/939-implement-trace-based-replay-system-for-production-debugging/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/939-implement-trace-based-replay-system-for-production-debugging/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/944-implement-high-precision-numeric-library-with-arbitrary-precisio/solution.py)
+- Java: [Solution.java](../../solutions/java/master/944-implement-high-precision-numeric-library-with-arbitrary-precisio/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/944-implement-high-precision-numeric-library-with-arbitrary-precisio/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/944-implement-high-precision-numeric-library-with-arbitrary-precisio/Solution.cs)

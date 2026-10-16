@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/923-implement-distributed-ledger-with-privacy-preserving-transaction/solution.py)
+- Java: [Solution.java](../../solutions/java/master/923-implement-distributed-ledger-with-privacy-preserving-transaction/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/923-implement-distributed-ledger-with-privacy-preserving-transaction/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/923-implement-distributed-ledger-with-privacy-preserving-transaction/Solution.cs)

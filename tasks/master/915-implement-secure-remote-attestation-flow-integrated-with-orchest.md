@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/915-implement-secure-remote-attestation-flow-integrated-with-orchest/solution.py)
+- Java: [Solution.java](../../solutions/java/master/915-implement-secure-remote-attestation-flow-integrated-with-orchest/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/915-implement-secure-remote-attestation-flow-integrated-with-orchest/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/915-implement-secure-remote-attestation-flow-integrated-with-orchest/Solution.cs)
