@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/963-implement-docs-site-generator-that-publishes-exercises-editorial/solution.py)
+- Java: [Solution.java](../../solutions/java/master/963-implement-docs-site-generator-that-publishes-exercises-editorial/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/963-implement-docs-site-generator-that-publishes-exercises-editorial/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/963-implement-docs-site-generator-that-publishes-exercises-editorial/Solution.cs)

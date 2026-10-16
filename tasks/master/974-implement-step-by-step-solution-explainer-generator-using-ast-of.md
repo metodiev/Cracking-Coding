@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/974-implement-step-by-step-solution-explainer-generator-using-ast-of/solution.py)
+- Java: [Solution.java](../../solutions/java/master/974-implement-step-by-step-solution-explainer-generator-using-ast-of/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/974-implement-step-by-step-solution-explainer-generator-using-ast-of/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/974-implement-step-by-step-solution-explainer-generator-using-ast-of/Solution.cs)

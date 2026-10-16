@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/987-implement-migration-tools-for-older-problem-formats-to-new-canon/solution.py)
+- Java: [Solution.java](../../solutions/java/master/987-implement-migration-tools-for-older-problem-formats-to-new-canon/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/987-implement-migration-tools-for-older-problem-formats-to-new-canon/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/987-implement-migration-tools-for-older-problem-formats-to-new-canon/Solution.cs)

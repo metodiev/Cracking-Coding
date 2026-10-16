@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/960-implement-gamification-layer-with-badges-for-completing-tiers-an/solution.py)
+- Java: [Solution.java](../../solutions/java/master/960-implement-gamification-layer-with-badges-for-completing-tiers-an/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/960-implement-gamification-layer-with-badges-for-completing-tiers-an/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/960-implement-gamification-layer-with-badges-for-completing-tiers-an/Solution.cs)

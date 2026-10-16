@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/983-implement-end-to-end-security-review-checklist-and-automated-sca/solution.py)
+- Java: [Solution.java](../../solutions/java/master/983-implement-end-to-end-security-review-checklist-and-automated-sca/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/983-implement-end-to-end-security-review-checklist-and-automated-sca/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/983-implement-end-to-end-security-review-checklist-and-automated-sca/Solution.cs)

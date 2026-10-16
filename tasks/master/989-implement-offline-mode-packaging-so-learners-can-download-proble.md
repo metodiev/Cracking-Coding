@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/989-implement-offline-mode-packaging-so-learners-can-download-proble/solution.py)
+- Java: [Solution.java](../../solutions/java/master/989-implement-offline-mode-packaging-so-learners-can-download-proble/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/989-implement-offline-mode-packaging-so-learners-can-download-proble/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/989-implement-offline-mode-packaging-so-learners-can-download-proble/Solution.cs)

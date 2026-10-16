@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/971-implement-spaced-repetition-scheduling-for-problem-revisit-recom/solution.py)
+- Java: [Solution.java](../../solutions/java/master/971-implement-spaced-repetition-scheduling-for-problem-revisit-recom/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/971-implement-spaced-repetition-scheduling-for-problem-revisit-recom/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/971-implement-spaced-repetition-scheduling-for-problem-revisit-recom/Solution.cs)

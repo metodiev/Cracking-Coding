@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/977-implement-long-term-retention-estimator-using-learner-response-m/solution.py)
+- Java: [Solution.java](../../solutions/java/master/977-implement-long-term-retention-estimator-using-learner-response-m/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/977-implement-long-term-retention-estimator-using-learner-response-m/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/977-implement-long-term-retention-estimator-using-learner-response-m/Solution.cs)
