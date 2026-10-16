@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/975-implement-natural-language-problem-paraphrasing-generator-for-di/solution.py)
+- Java: [Solution.java](../../solutions/java/master/975-implement-natural-language-problem-paraphrasing-generator-for-di/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/975-implement-natural-language-problem-paraphrasing-generator-for-di/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/975-implement-natural-language-problem-paraphrasing-generator-for-di/Solution.cs)

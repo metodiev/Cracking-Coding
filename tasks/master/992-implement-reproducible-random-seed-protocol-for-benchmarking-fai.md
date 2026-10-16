@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/992-implement-reproducible-random-seed-protocol-for-benchmarking-fai/solution.py)
+- Java: [Solution.java](../../solutions/java/master/992-implement-reproducible-random-seed-protocol-for-benchmarking-fai/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/992-implement-reproducible-random-seed-protocol-for-benchmarking-fai/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/992-implement-reproducible-random-seed-protocol-for-benchmarking-fai/Solution.cs)

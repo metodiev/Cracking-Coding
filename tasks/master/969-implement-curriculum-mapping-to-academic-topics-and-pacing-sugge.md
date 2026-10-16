@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge/solution.py)
+- Java: [Solution.java](../../solutions/java/master/969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge/Solution.cs)

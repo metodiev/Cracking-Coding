@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are/solution.py)
+- Java: [Solution.java](../../solutions/java/master/962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are/Solution.cs)

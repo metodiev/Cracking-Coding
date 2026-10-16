@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/973-implement-automated-hint-generator-using-solved-solution-decompo/solution.py)
+- Java: [Solution.java](../../solutions/java/master/973-implement-automated-hint-generator-using-solved-solution-decompo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/973-implement-automated-hint-generator-using-solved-solution-decompo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/973-implement-automated-hint-generator-using-solved-solution-decompo/Solution.cs)

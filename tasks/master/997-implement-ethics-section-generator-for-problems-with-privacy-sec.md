@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/997-implement-ethics-section-generator-for-problems-with-privacy-sec/solution.py)
+- Java: [Solution.java](../../solutions/java/master/997-implement-ethics-section-generator-for-problems-with-privacy-sec/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/997-implement-ethics-section-generator-for-problems-with-privacy-sec/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/997-implement-ethics-section-generator-for-problems-with-privacy-sec/Solution.cs)

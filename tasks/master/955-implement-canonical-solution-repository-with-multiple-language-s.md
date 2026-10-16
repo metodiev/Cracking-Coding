@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/955-implement-canonical-solution-repository-with-multiple-language-s/solution.py)
+- Java: [Solution.java](../../solutions/java/master/955-implement-canonical-solution-repository-with-multiple-language-s/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/955-implement-canonical-solution-repository-with-multiple-language-s/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/955-implement-canonical-solution-repository-with-multiple-language-s/Solution.cs)

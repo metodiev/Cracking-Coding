@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo/solution.py)
+- Java: [Solution.java](../../solutions/java/master/961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo/Solution.cs)

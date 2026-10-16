@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/954-implement-ci-pipeline-that-runs-on-multiple-jdks-and-oses-with-r/solution.py)
+- Java: [Solution.java](../../solutions/java/master/954-implement-ci-pipeline-that-runs-on-multiple-jdks-and-oses-with-r/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/954-implement-ci-pipeline-that-runs-on-multiple-jdks-and-oses-with-r/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/954-implement-ci-pipeline-that-runs-on-multiple-jdks-and-oses-with-r/Solution.cs)

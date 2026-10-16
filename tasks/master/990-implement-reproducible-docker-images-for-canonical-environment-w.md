@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/990-implement-reproducible-docker-images-for-canonical-environment-w/solution.py)
+- Java: [Solution.java](../../solutions/java/master/990-implement-reproducible-docker-images-for-canonical-environment-w/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/990-implement-reproducible-docker-images-for-canonical-environment-w/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/990-implement-reproducible-docker-images-for-canonical-environment-w/Solution.cs)

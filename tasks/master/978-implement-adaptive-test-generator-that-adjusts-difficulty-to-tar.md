@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar/solution.py)
+- Java: [Solution.java](../../solutions/java/master/978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar/Solution.cs)

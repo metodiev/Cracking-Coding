@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/985-implement-contribution-recognition-system-with-verified-citation/solution.py)
+- Java: [Solution.java](../../solutions/java/master/985-implement-contribution-recognition-system-with-verified-citation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/985-implement-contribution-recognition-system-with-verified-citation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/985-implement-contribution-recognition-system-with-verified-citation/Solution.cs)
