@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu/Solution.cs)

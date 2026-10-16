@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/507-implement-throttling-middleware-simulation-sliding-window-counte/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/507-implement-throttling-middleware-simulation-sliding-window-counte/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/507-implement-throttling-middleware-simulation-sliding-window-counte/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/507-implement-throttling-middleware-simulation-sliding-window-counte/Solution.cs)

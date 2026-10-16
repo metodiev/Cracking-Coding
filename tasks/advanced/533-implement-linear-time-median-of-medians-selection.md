@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/533-implement-linear-time-median-of-medians-selection/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/533-implement-linear-time-median-of-medians-selection/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/533-implement-linear-time-median-of-medians-selection/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/533-implement-linear-time-median-of-medians-selection/Solution.cs)

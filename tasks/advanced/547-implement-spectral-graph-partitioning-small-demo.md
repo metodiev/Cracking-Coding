@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/547-implement-spectral-graph-partitioning-small-demo/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/547-implement-spectral-graph-partitioning-small-demo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/547-implement-spectral-graph-partitioning-small-demo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/547-implement-spectral-graph-partitioning-small-demo/Solution.cs)

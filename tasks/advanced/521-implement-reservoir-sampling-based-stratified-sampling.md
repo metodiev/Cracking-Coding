@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/521-implement-reservoir-sampling-based-stratified-sampling/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/521-implement-reservoir-sampling-based-stratified-sampling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/521-implement-reservoir-sampling-based-stratified-sampling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/521-implement-reservoir-sampling-based-stratified-sampling/Solution.cs)

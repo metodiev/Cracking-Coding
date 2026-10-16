@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/535-implement-dynamic-programming-on-dag-with-topological-order-cach/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/535-implement-dynamic-programming-on-dag-with-topological-order-cach/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/535-implement-dynamic-programming-on-dag-with-topological-order-cach/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/535-implement-dynamic-programming-on-dag-with-topological-order-cach/Solution.cs)

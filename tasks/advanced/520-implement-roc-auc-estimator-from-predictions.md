@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/520-implement-roc-auc-estimator-from-predictions/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/520-implement-roc-auc-estimator-from-predictions/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/520-implement-roc-auc-estimator-from-predictions/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/520-implement-roc-auc-estimator-from-predictions/Solution.cs)

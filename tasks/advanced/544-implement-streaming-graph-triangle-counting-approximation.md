@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/544-implement-streaming-graph-triangle-counting-approximation/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/544-implement-streaming-graph-triangle-counting-approximation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/544-implement-streaming-graph-triangle-counting-approximation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/544-implement-streaming-graph-triangle-counting-approximation/Solution.cs)

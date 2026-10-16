@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/546-implement-pagerank-with-dangling-node-handling/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/546-implement-pagerank-with-dangling-node-handling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/546-implement-pagerank-with-dangling-node-handling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/546-implement-pagerank-with-dangling-node-handling/Solution.cs)

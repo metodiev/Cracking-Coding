@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/524-implement-hidden-markov-model-viterbi-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/524-implement-hidden-markov-model-viterbi-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/524-implement-hidden-markov-model-viterbi-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/524-implement-hidden-markov-model-viterbi-algorithm/Solution.cs)

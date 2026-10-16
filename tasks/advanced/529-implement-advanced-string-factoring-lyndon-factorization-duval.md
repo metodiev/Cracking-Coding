@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/529-implement-advanced-string-factoring-lyndon-factorization-duval/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/529-implement-advanced-string-factoring-lyndon-factorization-duval/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/529-implement-advanced-string-factoring-lyndon-factorization-duval/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/529-implement-advanced-string-factoring-lyndon-factorization-duval/Solution.cs)

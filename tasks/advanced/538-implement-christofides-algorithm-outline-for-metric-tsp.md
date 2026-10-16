@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/538-implement-christofides-algorithm-outline-for-metric-tsp/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/538-implement-christofides-algorithm-outline-for-metric-tsp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/538-implement-christofides-algorithm-outline-for-metric-tsp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/538-implement-christofides-algorithm-outline-for-metric-tsp/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/545-implement-pagerank-iterative-solver-and-convergence-check/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/545-implement-pagerank-iterative-solver-and-convergence-check/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/545-implement-pagerank-iterative-solver-and-convergence-check/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/545-implement-pagerank-iterative-solver-and-convergence-check/Solution.cs)

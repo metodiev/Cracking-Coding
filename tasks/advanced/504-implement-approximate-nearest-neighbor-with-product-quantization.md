@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/504-implement-approximate-nearest-neighbor-with-product-quantization/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/504-implement-approximate-nearest-neighbor-with-product-quantization/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/504-implement-approximate-nearest-neighbor-with-product-quantization/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/504-implement-approximate-nearest-neighbor-with-product-quantization/Solution.cs)

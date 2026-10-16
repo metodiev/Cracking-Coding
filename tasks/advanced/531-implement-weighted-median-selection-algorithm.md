@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/531-implement-weighted-median-selection-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/531-implement-weighted-median-selection-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/531-implement-weighted-median-selection-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/531-implement-weighted-median-selection-algorithm/Solution.cs)

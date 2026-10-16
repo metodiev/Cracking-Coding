@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/532-implement-online-algorithm-competitive-analysis-example-ski-rent/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/532-implement-online-algorithm-competitive-analysis-example-ski-rent/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/532-implement-online-algorithm-competitive-analysis-example-ski-rent/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/532-implement-online-algorithm-competitive-analysis-example-ski-rent/Solution.cs)

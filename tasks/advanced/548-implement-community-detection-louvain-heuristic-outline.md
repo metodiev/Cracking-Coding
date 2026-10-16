@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/548-implement-community-detection-louvain-heuristic-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/548-implement-community-detection-louvain-heuristic-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/548-implement-community-detection-louvain-heuristic-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/548-implement-community-detection-louvain-heuristic-outline/Solution.cs)

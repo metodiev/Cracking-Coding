@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/503-implement-locality-sensitive-hashing-for-cosine-similarity-simha/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/503-implement-locality-sensitive-hashing-for-cosine-similarity-simha/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/503-implement-locality-sensitive-hashing-for-cosine-similarity-simha/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/503-implement-locality-sensitive-hashing-for-cosine-similarity-simha/Solution.cs)

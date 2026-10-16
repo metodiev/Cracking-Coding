@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/514-implement-small-neural-network-forward-backprop-demo-no-librarie/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/514-implement-small-neural-network-forward-backprop-demo-no-librarie/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/514-implement-small-neural-network-forward-backprop-demo-no-librarie/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/514-implement-small-neural-network-forward-backprop-demo-no-librarie/Solution.cs)

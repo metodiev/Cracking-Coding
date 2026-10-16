@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/537-implement-approximate-tsp-heuristics-2-opt-3-opt/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/537-implement-approximate-tsp-heuristics-2-opt-3-opt/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/537-implement-approximate-tsp-heuristics-2-opt-3-opt/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/537-implement-approximate-tsp-heuristics-2-opt-3-opt/Solution.cs)

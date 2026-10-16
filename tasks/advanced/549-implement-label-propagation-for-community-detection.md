@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/549-implement-label-propagation-for-community-detection/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/549-implement-label-propagation-for-community-detection/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/549-implement-label-propagation-for-community-detection/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/549-implement-label-propagation-for-community-detection/Solution.cs)

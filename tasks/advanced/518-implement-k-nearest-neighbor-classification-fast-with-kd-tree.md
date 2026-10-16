@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/518-implement-k-nearest-neighbor-classification-fast-with-kd-tree/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/518-implement-k-nearest-neighbor-classification-fast-with-kd-tree/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/518-implement-k-nearest-neighbor-classification-fast-with-kd-tree/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/518-implement-k-nearest-neighbor-classification-fast-with-kd-tree/Solution.cs)

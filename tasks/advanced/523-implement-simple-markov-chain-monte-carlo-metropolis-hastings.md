@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/523-implement-simple-markov-chain-monte-carlo-metropolis-hastings/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/523-implement-simple-markov-chain-monte-carlo-metropolis-hastings/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/523-implement-simple-markov-chain-monte-carlo-metropolis-hastings/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/523-implement-simple-markov-chain-monte-carlo-metropolis-hastings/Solution.cs)

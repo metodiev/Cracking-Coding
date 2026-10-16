@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/506-implement-rate-limited-queue-with-leaky-bucket-test-harness/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/506-implement-rate-limited-queue-with-leaky-bucket-test-harness/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/506-implement-rate-limited-queue-with-leaky-bucket-test-harness/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/506-implement-rate-limited-queue-with-leaky-bucket-test-harness/Solution.cs)

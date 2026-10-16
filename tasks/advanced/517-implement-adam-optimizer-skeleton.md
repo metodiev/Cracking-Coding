@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/517-implement-adam-optimizer-skeleton/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/517-implement-adam-optimizer-skeleton/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/517-implement-adam-optimizer-skeleton/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/517-implement-adam-optimizer-skeleton/Solution.cs)

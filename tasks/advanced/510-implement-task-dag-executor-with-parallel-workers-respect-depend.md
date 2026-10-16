@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/510-implement-task-dag-executor-with-parallel-workers-respect-depend/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/510-implement-task-dag-executor-with-parallel-workers-respect-depend/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/510-implement-task-dag-executor-with-parallel-workers-respect-depend/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/510-implement-task-dag-executor-with-parallel-workers-respect-depend/Solution.cs)

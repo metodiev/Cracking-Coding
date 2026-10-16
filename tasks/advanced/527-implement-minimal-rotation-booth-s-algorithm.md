@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/527-implement-minimal-rotation-booth-s-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/527-implement-minimal-rotation-booth-s-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/527-implement-minimal-rotation-booth-s-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/527-implement-minimal-rotation-booth-s-algorithm/Solution.cs)

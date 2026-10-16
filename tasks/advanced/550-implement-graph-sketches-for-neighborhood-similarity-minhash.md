@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/550-implement-graph-sketches-for-neighborhood-similarity-minhash/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/550-implement-graph-sketches-for-neighborhood-similarity-minhash/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/550-implement-graph-sketches-for-neighborhood-similarity-minhash/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/550-implement-graph-sketches-for-neighborhood-similarity-minhash/Solution.cs)

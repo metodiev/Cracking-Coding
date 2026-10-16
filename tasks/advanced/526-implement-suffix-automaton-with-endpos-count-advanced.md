@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/526-implement-suffix-automaton-with-endpos-count-advanced/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/526-implement-suffix-automaton-with-endpos-count-advanced/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/526-implement-suffix-automaton-with-endpos-count-advanced/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/526-implement-suffix-automaton-with-endpos-count-advanced/Solution.cs)
