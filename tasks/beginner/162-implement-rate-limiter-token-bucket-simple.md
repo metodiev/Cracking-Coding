@@ -3,6 +3,7 @@
 - **Number:** 162
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [162-implement-rate-limiter-token-bucket-simple.md](../../tutorials/tasks/beginner/162-implement-rate-limiter-token-bucket-simple.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 99
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [099-rotate-matrix-90-degrees-clockwise-in-place-for-square.md](../../tutorials/tasks/beginner/099-rotate-matrix-90-degrees-clockwise-in-place-for-square.md)
 
 ## Solutions
 

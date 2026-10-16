@@ -3,6 +3,7 @@
 - **Number:** 167
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [167-find-all-elements-appearing-n-3-generalized.md](../../tutorials/tasks/beginner/167-find-all-elements-appearing-n-3-generalized.md)
 
 ## Solutions
 

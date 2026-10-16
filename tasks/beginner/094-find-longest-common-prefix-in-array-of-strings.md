@@ -3,6 +3,7 @@
 - **Number:** 94
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [094-find-longest-common-prefix-in-array-of-strings.md](../../tutorials/tasks/beginner/094-find-longest-common-prefix-in-array-of-strings.md)
 
 ## Solutions
 

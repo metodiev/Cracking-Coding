@@ -3,6 +3,7 @@
 - **Number:** 40
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [040-merge-two-strings-alternately.md](../../tutorials/tasks/beginner/040-merge-two-strings-alternately.md)
 
 ## Solutions
 

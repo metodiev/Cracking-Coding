@@ -3,6 +3,7 @@
 - **Number:** 111
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [111-kruskal-s-mst-using-union-find.md](../../tutorials/tasks/beginner/111-kruskal-s-mst-using-union-find.md)
 
 ## Solutions
 

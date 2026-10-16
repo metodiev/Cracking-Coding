@@ -3,6 +3,7 @@
 - **Number:** 108
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [108-detect-cycle-in-undirected-graph-union-find.md](../../tutorials/tasks/beginner/108-detect-cycle-in-undirected-graph-union-find.md)
 
 ## Solutions
 

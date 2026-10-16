@@ -3,6 +3,7 @@
 - **Number:** 189
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [189-implement-simple-csv-parser-line-fields.md](../../tutorials/tasks/beginner/189-implement-simple-csv-parser-line-fields.md)
 
 ## Solutions
 

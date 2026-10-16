@@ -3,6 +3,7 @@
 - **Number:** 125
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [125-climbing-stairs-dp-count-ways.md](../../tutorials/tasks/beginner/125-climbing-stairs-dp-count-ways.md)
 
 ## Solutions
 

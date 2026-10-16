@@ -3,6 +3,7 @@
 - **Number:** 70
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [070-insertion-sort.md](../../tutorials/tasks/beginner/070-insertion-sort.md)
 
 ## Solutions
 

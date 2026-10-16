@@ -3,6 +3,7 @@
 - **Number:** 65
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [065-implement-priority-queue-using-built-in-heap.md](../../tutorials/tasks/beginner/065-implement-priority-queue-using-built-in-heap.md)
 
 ## Solutions
 

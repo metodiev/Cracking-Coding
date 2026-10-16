@@ -3,6 +3,7 @@
 - **Number:** 49
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [049-implement-stack-with-array-push-pop.md](../../tutorials/tasks/beginner/049-implement-stack-with-array-push-pop.md)
 
 ## Solutions
 

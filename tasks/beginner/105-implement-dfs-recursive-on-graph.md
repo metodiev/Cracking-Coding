@@ -3,6 +3,7 @@
 - **Number:** 105
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [105-implement-dfs-recursive-on-graph.md](../../tutorials/tasks/beginner/105-implement-dfs-recursive-on-graph.md)
 
 ## Solutions
 

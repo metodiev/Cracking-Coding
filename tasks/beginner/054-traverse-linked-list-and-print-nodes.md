@@ -3,6 +3,7 @@
 - **Number:** 54
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [054-traverse-linked-list-and-print-nodes.md](../../tutorials/tasks/beginner/054-traverse-linked-list-and-print-nodes.md)
 
 ## Solutions
 

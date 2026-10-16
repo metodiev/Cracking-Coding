@@ -3,6 +3,7 @@
 - **Number:** 199
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [199-deserialize-json-with-arrays-objects-basic.md](../../tutorials/tasks/beginner/199-deserialize-json-with-arrays-objects-basic.md)
 
 ## Solutions
 

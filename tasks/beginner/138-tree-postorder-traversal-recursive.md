@@ -3,6 +3,7 @@
 - **Number:** 138
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [138-tree-postorder-traversal-recursive.md](../../tutorials/tasks/beginner/138-tree-postorder-traversal-recursive.md)
 
 ## Solutions
 

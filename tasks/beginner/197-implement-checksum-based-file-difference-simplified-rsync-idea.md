@@ -3,6 +3,7 @@
 - **Number:** 197
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [197-implement-checksum-based-file-difference-simplified-rsync-idea.md](../../tutorials/tasks/beginner/197-implement-checksum-based-file-difference-simplified-rsync-idea.md)
 
 ## Solutions
 

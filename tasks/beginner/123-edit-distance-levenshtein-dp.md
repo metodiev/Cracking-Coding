@@ -3,6 +3,7 @@
 - **Number:** 123
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [123-edit-distance-levenshtein-dp.md](../../tutorials/tasks/beginner/123-edit-distance-levenshtein-dp.md)
 
 ## Solutions
 

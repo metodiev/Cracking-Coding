@@ -3,6 +3,7 @@
 - **Number:** 174
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [174-implement-basic-matrix-multiplication-naive.md](../../tutorials/tasks/beginner/174-implement-basic-matrix-multiplication-naive.md)
 
 ## Solutions
 

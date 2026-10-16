@@ -3,6 +3,7 @@
 - **Number:** 103
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [103-shortest-path-in-unweighted-grid-bfs.md](../../tutorials/tasks/beginner/103-shortest-path-in-unweighted-grid-bfs.md)
 
 ## Solutions
 

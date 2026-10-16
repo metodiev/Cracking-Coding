@@ -3,6 +3,7 @@
 - **Number:** 184
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [184-implement-prefix-function-kmp-for-pattern-matching.md](../../tutorials/tasks/beginner/184-implement-prefix-function-kmp-for-pattern-matching.md)
 
 ## Solutions
 

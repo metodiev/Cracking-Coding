@@ -3,6 +3,7 @@
 - **Number:** 107
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [107-detect-cycle-in-directed-graph-dfs-coloring.md](../../tutorials/tasks/beginner/107-detect-cycle-in-directed-graph-dfs-coloring.md)
 
 ## Solutions
 

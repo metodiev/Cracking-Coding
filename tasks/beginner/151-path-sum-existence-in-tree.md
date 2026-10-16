@@ -3,6 +3,7 @@
 - **Number:** 151
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [151-path-sum-existence-in-tree.md](../../tutorials/tasks/beginner/151-path-sum-existence-in-tree.md)
 
 ## Solutions
 

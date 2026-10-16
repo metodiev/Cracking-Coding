@@ -3,6 +3,7 @@
 - **Number:** 85
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [085-three-sum-return-any-triplet.md](../../tutorials/tasks/beginner/085-three-sum-return-any-triplet.md)
 
 ## Solutions
 

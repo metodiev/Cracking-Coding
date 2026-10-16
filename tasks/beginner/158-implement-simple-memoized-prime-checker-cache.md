@@ -3,6 +3,7 @@
 - **Number:** 158
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [158-implement-simple-memoized-prime-checker-cache.md](../../tutorials/tasks/beginner/158-implement-simple-memoized-prime-checker-cache.md)
 
 ## Solutions
 

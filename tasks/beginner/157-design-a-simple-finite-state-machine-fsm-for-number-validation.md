@@ -3,6 +3,7 @@
 - **Number:** 157
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [157-design-a-simple-finite-state-machine-fsm-for-number-validation.md](../../tutorials/tasks/beginner/157-design-a-simple-finite-state-machine-fsm-for-number-validation.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 120
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [120-implement-lis-using-patience-sorting-idea-o-n-log-n-outline.md](../../tutorials/tasks/beginner/120-implement-lis-using-patience-sorting-idea-o-n-log-n-outline.md)
 
 ## Solutions
 

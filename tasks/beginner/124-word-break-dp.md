@@ -3,6 +3,7 @@
 - **Number:** 124
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [124-word-break-dp.md](../../tutorials/tasks/beginner/124-word-break-dp.md)
 
 ## Solutions
 

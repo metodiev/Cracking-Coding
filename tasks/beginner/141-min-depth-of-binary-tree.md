@@ -3,6 +3,7 @@
 - **Number:** 141
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [141-min-depth-of-binary-tree.md](../../tutorials/tasks/beginner/141-min-depth-of-binary-tree.md)
 
 ## Solutions
 

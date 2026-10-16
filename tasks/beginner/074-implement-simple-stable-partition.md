@@ -3,6 +3,7 @@
 - **Number:** 74
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [074-implement-simple-stable-partition.md](../../tutorials/tasks/beginner/074-implement-simple-stable-partition.md)
 
 ## Solutions
 

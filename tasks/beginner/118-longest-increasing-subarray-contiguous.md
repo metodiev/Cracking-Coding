@@ -3,6 +3,7 @@
 - **Number:** 118
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [118-longest-increasing-subarray-contiguous.md](../../tutorials/tasks/beginner/118-longest-increasing-subarray-contiguous.md)
 
 ## Solutions
 

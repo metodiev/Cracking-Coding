@@ -3,6 +3,7 @@
 - **Number:** 163
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [163-implement-basic-encryption-decryption-with-xor.md](../../tutorials/tasks/beginner/163-implement-basic-encryption-decryption-with-xor.md)
 
 ## Solutions
 

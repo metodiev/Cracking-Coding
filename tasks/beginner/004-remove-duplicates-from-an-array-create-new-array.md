@@ -3,6 +3,7 @@
 - **Number:** 4
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [004-remove-duplicates-from-an-array-create-new-array.md](../../tutorials/tasks/beginner/004-remove-duplicates-from-an-array-create-new-array.md)
 
 ## Solutions
 

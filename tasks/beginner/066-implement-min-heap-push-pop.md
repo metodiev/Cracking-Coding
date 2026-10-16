@@ -3,6 +3,7 @@
 - **Number:** 66
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [066-implement-min-heap-push-pop.md](../../tutorials/tasks/beginner/066-implement-min-heap-push-pop.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 25
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [025-find-duplicate-element-when-exactly-one-number-repeats-1-n.md](../../tutorials/tasks/beginner/025-find-duplicate-element-when-exactly-one-number-repeats-1-n.md)
 
 ## Solutions
 

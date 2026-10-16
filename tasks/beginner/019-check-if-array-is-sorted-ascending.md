@@ -3,6 +3,7 @@
 - **Number:** 19
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [019-check-if-array-is-sorted-ascending.md](../../tutorials/tasks/beginner/019-check-if-array-is-sorted-ascending.md)
 
 ## Solutions
 

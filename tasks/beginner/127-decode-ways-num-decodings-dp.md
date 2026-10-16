@@ -3,6 +3,7 @@
 - **Number:** 127
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [127-decode-ways-num-decodings-dp.md](../../tutorials/tasks/beginner/127-decode-ways-num-decodings-dp.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 132
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [132-generate-permutations-of-distinct-elements.md](../../tutorials/tasks/beginner/132-generate-permutations-of-distinct-elements.md)
 
 ## Solutions
 

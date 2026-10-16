@@ -3,6 +3,7 @@
 - **Number:** 36
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [036-least-common-multiple-lcm-using-gcd.md](../../tutorials/tasks/beginner/036-least-common-multiple-lcm-using-gcd.md)
 
 ## Solutions
 

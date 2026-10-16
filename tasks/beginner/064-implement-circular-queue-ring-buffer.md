@@ -3,6 +3,7 @@
 - **Number:** 64
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [064-implement-circular-queue-ring-buffer.md](../../tutorials/tasks/beginner/064-implement-circular-queue-ring-buffer.md)
 
 ## Solutions
 

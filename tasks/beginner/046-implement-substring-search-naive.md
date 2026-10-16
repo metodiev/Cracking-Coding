@@ -3,6 +3,7 @@
 - **Number:** 46
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [046-implement-substring-search-naive.md](../../tutorials/tasks/beginner/046-implement-substring-search-naive.md)
 
 ## Solutions
 

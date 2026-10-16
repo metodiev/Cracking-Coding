@@ -3,6 +3,7 @@
 - **Number:** 20
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [020-merge-two-sorted-arrays-into-a-sorted-array.md](../../tutorials/tasks/beginner/020-merge-two-sorted-arrays-into-a-sorted-array.md)
 
 ## Solutions
 

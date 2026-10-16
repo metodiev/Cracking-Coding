@@ -3,6 +3,7 @@
 - **Number:** 81
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [081-compute-prefix-sums-for-an-array.md](../../tutorials/tasks/beginner/081-compute-prefix-sums-for-an-array.md)
 
 ## Solutions
 

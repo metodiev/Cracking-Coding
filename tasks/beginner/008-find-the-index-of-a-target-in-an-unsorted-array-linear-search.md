@@ -3,6 +3,7 @@
 - **Number:** 8
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [008-find-the-index-of-a-target-in-an-unsorted-array-linear-search.md](../../tutorials/tasks/beginner/008-find-the-index-of-a-target-in-an-unsorted-array-linear-search.md)
 
 ## Solutions
 

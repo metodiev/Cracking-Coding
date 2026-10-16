@@ -3,6 +3,7 @@
 - **Number:** 58
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [058-detect-cycle-in-linked-list-floyd.md](../../tutorials/tasks/beginner/058-detect-cycle-in-linked-list-floyd.md)
 
 ## Solutions
 

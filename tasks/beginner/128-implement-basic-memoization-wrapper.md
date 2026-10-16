@@ -3,6 +3,7 @@
 - **Number:** 128
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [128-implement-basic-memoization-wrapper.md](../../tutorials/tasks/beginner/128-implement-basic-memoization-wrapper.md)
 
 ## Solutions
 

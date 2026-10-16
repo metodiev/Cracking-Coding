@@ -3,6 +3,7 @@
 - **Number:** 5
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [005-find-maximum-value-in-an-int-array.md](../../tutorials/tasks/beginner/005-find-maximum-value-in-an-int-array.md)
 
 ## Solutions
 

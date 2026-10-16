@@ -3,6 +3,7 @@
 - **Number:** 145
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [145-validate-bst-property-inorder.md](../../tutorials/tasks/beginner/145-validate-bst-property-inorder.md)
 
 ## Solutions
 

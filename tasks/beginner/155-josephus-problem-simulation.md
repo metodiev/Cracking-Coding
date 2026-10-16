@@ -3,6 +3,7 @@
 - **Number:** 155
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [155-josephus-problem-simulation.md](../../tutorials/tasks/beginner/155-josephus-problem-simulation.md)
 
 ## Solutions
 

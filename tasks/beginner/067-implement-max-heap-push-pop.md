@@ -3,6 +3,7 @@
 - **Number:** 67
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [067-implement-max-heap-push-pop.md](../../tutorials/tasks/beginner/067-implement-max-heap-push-pop.md)
 
 ## Solutions
 

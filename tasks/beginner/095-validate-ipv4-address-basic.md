@@ -3,6 +3,7 @@
 - **Number:** 95
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [095-validate-ipv4-address-basic.md](../../tutorials/tasks/beginner/095-validate-ipv4-address-basic.md)
 
 ## Solutions
 

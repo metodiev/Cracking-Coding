@@ -3,6 +3,7 @@
 - **Number:** 97
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [097-flatten-a-2d-array-row-major.md](../../tutorials/tasks/beginner/097-flatten-a-2d-array-row-major.md)
 
 ## Solutions
 

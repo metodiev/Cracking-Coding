@@ -3,6 +3,7 @@
 - **Number:** 193
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [193-implement-simple-expression-tokenizer.md](../../tutorials/tasks/beginner/193-implement-simple-expression-tokenizer.md)
 
 ## Solutions
 

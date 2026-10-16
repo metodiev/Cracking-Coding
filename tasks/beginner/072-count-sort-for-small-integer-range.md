@@ -3,6 +3,7 @@
 - **Number:** 72
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [072-count-sort-for-small-integer-range.md](../../tutorials/tasks/beginner/072-count-sort-for-small-integer-range.md)
 
 ## Solutions
 

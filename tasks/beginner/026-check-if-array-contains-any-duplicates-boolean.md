@@ -3,6 +3,7 @@
 - **Number:** 26
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [026-check-if-array-contains-any-duplicates-boolean.md](../../tutorials/tasks/beginner/026-check-if-array-contains-any-duplicates-boolean.md)
 
 ## Solutions
 

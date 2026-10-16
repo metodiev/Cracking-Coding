@@ -3,6 +3,7 @@
 - **Number:** 12
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [012-compute-nth-fibonacci-using-recursion.md](../../tutorials/tasks/beginner/012-compute-nth-fibonacci-using-recursion.md)
 
 ## Solutions
 

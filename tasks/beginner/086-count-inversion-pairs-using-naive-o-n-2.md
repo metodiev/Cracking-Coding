@@ -3,6 +3,7 @@
 - **Number:** 86
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [086-count-inversion-pairs-using-naive-o-n-2.md](../../tutorials/tasks/beginner/086-count-inversion-pairs-using-naive-o-n-2.md)
 
 ## Solutions
 

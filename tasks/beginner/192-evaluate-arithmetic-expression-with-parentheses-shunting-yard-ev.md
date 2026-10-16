@@ -3,6 +3,7 @@
 - **Number:** 192
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev.md](../../tutorials/tasks/beginner/192-evaluate-arithmetic-expression-with-parentheses-shunting-yard-ev.md)
 
 ## Solutions
 

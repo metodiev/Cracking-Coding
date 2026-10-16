@@ -3,6 +3,7 @@
 - **Number:** 183
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [183-implement-iterative-segment-tree.md](../../tutorials/tasks/beginner/183-implement-iterative-segment-tree.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 176
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [176-check-matrix-connectivity-graph-view.md](../../tutorials/tasks/beginner/176-check-matrix-connectivity-graph-view.md)
 
 ## Solutions
 

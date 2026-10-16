@@ -3,6 +3,7 @@
 - **Number:** 173
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [173-implement-queue-that-supports-getmin-in-o-1.md](../../tutorials/tasks/beginner/173-implement-queue-that-supports-getmin-in-o-1.md)
 
 ## Solutions
 

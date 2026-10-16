@@ -3,6 +3,7 @@
 - **Number:** 90
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [090-implement-sliding-window-sum-of-size-k.md](../../tutorials/tasks/beginner/090-implement-sliding-window-sum-of-size-k.md)
 
 ## Solutions
 

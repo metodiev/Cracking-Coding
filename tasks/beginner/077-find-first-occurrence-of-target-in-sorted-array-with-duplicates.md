@@ -3,6 +3,7 @@
 - **Number:** 77
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [077-find-first-occurrence-of-target-in-sorted-array-with-duplicates.md](../../tutorials/tasks/beginner/077-find-first-occurrence-of-target-in-sorted-array-with-duplicates.md)
 
 ## Solutions
 

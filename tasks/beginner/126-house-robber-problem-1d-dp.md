@@ -3,6 +3,7 @@
 - **Number:** 126
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [126-house-robber-problem-1d-dp.md](../../tutorials/tasks/beginner/126-house-robber-problem-1d-dp.md)
 
 ## Solutions
 

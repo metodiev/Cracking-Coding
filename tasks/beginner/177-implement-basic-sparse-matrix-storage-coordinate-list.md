@@ -3,6 +3,7 @@
 - **Number:** 177
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [177-implement-basic-sparse-matrix-storage-coordinate-list.md](../../tutorials/tasks/beginner/177-implement-basic-sparse-matrix-storage-coordinate-list.md)
 
 ## Solutions
 

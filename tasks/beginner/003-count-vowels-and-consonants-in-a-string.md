@@ -3,6 +3,7 @@
 - **Number:** 3
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [003-count-vowels-and-consonants-in-a-string.md](../../tutorials/tasks/beginner/003-count-vowels-and-consonants-in-a-string.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 22
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [022-rotate-array-in-place-by-k-positions.md](../../tutorials/tasks/beginner/022-rotate-array-in-place-by-k-positions.md)
 
 ## Solutions
 

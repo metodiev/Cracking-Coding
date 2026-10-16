@@ -3,6 +3,7 @@
 - **Number:** 104
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [104-implement-bfs-on-adjacency-list-graph.md](../../tutorials/tasks/beginner/104-implement-bfs-on-adjacency-list-graph.md)
 
 ## Solutions
 

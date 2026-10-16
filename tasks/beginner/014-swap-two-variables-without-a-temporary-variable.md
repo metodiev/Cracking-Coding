@@ -3,6 +3,7 @@
 - **Number:** 14
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [014-swap-two-variables-without-a-temporary-variable.md](../../tutorials/tasks/beginner/014-swap-two-variables-without-a-temporary-variable.md)
 
 ## Solutions
 

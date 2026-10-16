@@ -3,6 +3,7 @@
 - **Number:** 87
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [087-implement-merge-and-count-inversions-using-merge-sort.md](../../tutorials/tasks/beginner/087-implement-merge-and-count-inversions-using-merge-sort.md)
 
 ## Solutions
 

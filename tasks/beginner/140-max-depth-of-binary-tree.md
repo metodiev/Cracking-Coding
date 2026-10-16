@@ -3,6 +3,7 @@
 - **Number:** 140
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [140-max-depth-of-binary-tree.md](../../tutorials/tasks/beginner/140-max-depth-of-binary-tree.md)
 
 ## Solutions
 

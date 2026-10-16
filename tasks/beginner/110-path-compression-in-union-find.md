@@ -3,6 +3,7 @@
 - **Number:** 110
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [110-path-compression-in-union-find.md](../../tutorials/tasks/beginner/110-path-compression-in-union-find.md)
 
 ## Solutions
 

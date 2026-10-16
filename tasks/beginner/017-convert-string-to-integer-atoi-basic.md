@@ -3,6 +3,7 @@
 - **Number:** 17
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [017-convert-string-to-integer-atoi-basic.md](../../tutorials/tasks/beginner/017-convert-string-to-integer-atoi-basic.md)
 
 ## Solutions
 

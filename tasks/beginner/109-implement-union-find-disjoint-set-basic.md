@@ -3,6 +3,7 @@
 - **Number:** 109
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [109-implement-union-find-disjoint-set-basic.md](../../tutorials/tasks/beginner/109-implement-union-find-disjoint-set-basic.md)
 
 ## Solutions
 

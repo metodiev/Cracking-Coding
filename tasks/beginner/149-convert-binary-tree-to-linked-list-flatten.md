@@ -3,6 +3,7 @@
 - **Number:** 149
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [149-convert-binary-tree-to-linked-list-flatten.md](../../tutorials/tasks/beginner/149-convert-binary-tree-to-linked-list-flatten.md)
 
 ## Solutions
 

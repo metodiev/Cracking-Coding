@@ -3,6 +3,7 @@
 - **Number:** 121
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [121-longest-common-subsequence-lcs-dp.md](../../tutorials/tasks/beginner/121-longest-common-subsequence-lcs-dp.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 169
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [169-implement-sliding-window-for-unique-characters-longest-unique-su.md](../../tutorials/tasks/beginner/169-implement-sliding-window-for-unique-characters-longest-unique-su.md)
 
 ## Solutions
 

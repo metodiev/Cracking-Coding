@@ -3,6 +3,7 @@
 - **Number:** 28
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [028-count-number-of-set-bits-in-an-integer.md](../../tutorials/tasks/beginner/028-count-number-of-set-bits-in-an-integer.md)
 
 ## Solutions
 

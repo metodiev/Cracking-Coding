@@ -3,6 +3,7 @@
 - **Number:** 92
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [092-max-over-sliding-window-using-deque.md](../../tutorials/tasks/beginner/092-max-over-sliding-window-using-deque.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 45
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [045-replace-spaces-with-20-urlify.md](../../tutorials/tasks/beginner/045-replace-spaces-with-20-urlify.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 44
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [044-trim-leading-and-trailing-spaces-from-string.md](../../tutorials/tasks/beginner/044-trim-leading-and-trailing-spaces-from-string.md)
 
 ## Solutions
 

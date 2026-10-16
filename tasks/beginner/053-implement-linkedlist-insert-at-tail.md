@@ -3,6 +3,7 @@
 - **Number:** 53
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [053-implement-linkedlist-insert-at-tail.md](../../tutorials/tasks/beginner/053-implement-linkedlist-insert-at-tail.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 179
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [179-implement-simple-heap-based-median-of-stream-class.md](../../tutorials/tasks/beginner/179-implement-simple-heap-based-median-of-stream-class.md)
 
 ## Solutions
 

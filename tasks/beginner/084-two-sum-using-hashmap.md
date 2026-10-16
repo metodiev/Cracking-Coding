@@ -3,6 +3,7 @@
 - **Number:** 84
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [084-two-sum-using-hashmap.md](../../tutorials/tasks/beginner/084-two-sum-using-hashmap.md)
 
 ## Solutions
 

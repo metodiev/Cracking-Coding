@@ -3,6 +3,7 @@
 - **Number:** 96
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [096-simple-url-parser-extract-protocol-host.md](../../tutorials/tasks/beginner/096-simple-url-parser-extract-protocol-host.md)
 
 ## Solutions
 

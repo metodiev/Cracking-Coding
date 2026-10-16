@@ -3,6 +3,7 @@
 - **Number:** 133
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [133-generate-permutations-with-duplicates-unique.md](../../tutorials/tasks/beginner/133-generate-permutations-with-duplicates-unique.md)
 
 ## Solutions
 

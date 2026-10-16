@@ -3,6 +3,7 @@
 - **Number:** 62
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [062-reverse-singly-linked-list-recursive.md](../../tutorials/tasks/beginner/062-reverse-singly-linked-list-recursive.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 186
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [186-rabin-karp-rolling-hash-string-search.md](../../tutorials/tasks/beginner/186-rabin-karp-rolling-hash-string-search.md)
 
 ## Solutions
 

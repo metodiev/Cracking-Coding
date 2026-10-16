@@ -3,6 +3,7 @@
 - **Number:** 42
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [042-check-balanced-parentheses-with-three-bracket-types.md](../../tutorials/tasks/beginner/042-check-balanced-parentheses-with-three-bracket-types.md)
 
 ## Solutions
 

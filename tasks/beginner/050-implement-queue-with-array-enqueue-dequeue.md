@@ -3,6 +3,7 @@
 - **Number:** 50
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [050-implement-queue-with-array-enqueue-dequeue.md](../../tutorials/tasks/beginner/050-implement-queue-with-array-enqueue-dequeue.md)
 
 ## Solutions
 

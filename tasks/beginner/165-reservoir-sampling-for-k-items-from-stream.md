@@ -3,6 +3,7 @@
 - **Number:** 165
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [165-reservoir-sampling-for-k-items-from-stream.md](../../tutorials/tasks/beginner/165-reservoir-sampling-for-k-items-from-stream.md)
 
 ## Solutions
 

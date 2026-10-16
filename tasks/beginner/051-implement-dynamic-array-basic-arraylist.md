@@ -3,6 +3,7 @@
 - **Number:** 51
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [051-implement-dynamic-array-basic-arraylist.md](../../tutorials/tasks/beginner/051-implement-dynamic-array-basic-arraylist.md)
 
 ## Solutions
 

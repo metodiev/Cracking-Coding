@@ -3,6 +3,7 @@
 - **Number:** 131
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [131-generate-all-subsets-recursive.md](../../tutorials/tasks/beginner/131-generate-all-subsets-recursive.md)
 
 ## Solutions
 

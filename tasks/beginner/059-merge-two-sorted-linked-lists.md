@@ -3,6 +3,7 @@
 - **Number:** 59
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [059-merge-two-sorted-linked-lists.md](../../tutorials/tasks/beginner/059-merge-two-sorted-linked-lists.md)
 
 ## Solutions
 

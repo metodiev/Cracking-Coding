@@ -3,6 +3,7 @@
 - **Number:** 200
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [200-build-readme-template-that-documents-test-cases-and-complexity-f.md](../../tutorials/tasks/beginner/200-build-readme-template-that-documents-test-cases-and-complexity-f.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 180
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix.md](../../tutorials/tasks/beginner/180-implement-binary-indexed-tree-fenwick-basic-point-update-prefix.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 181
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [181-range-update-point-query-with-fenwick-tree.md](../../tutorials/tasks/beginner/181-range-update-point-query-with-fenwick-tree.md)
 
 ## Solutions
 

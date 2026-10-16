@@ -3,6 +3,7 @@
 - **Number:** 152
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [152-all-root-to-leaf-paths-with-given-sum.md](../../tutorials/tasks/beginner/152-all-root-to-leaf-paths-with-given-sum.md)
 
 ## Solutions
 

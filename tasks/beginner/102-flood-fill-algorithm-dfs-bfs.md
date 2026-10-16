@@ -3,6 +3,7 @@
 - **Number:** 102
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [102-flood-fill-algorithm-dfs-bfs.md](../../tutorials/tasks/beginner/102-flood-fill-algorithm-dfs-bfs.md)
 
 ## Solutions
 

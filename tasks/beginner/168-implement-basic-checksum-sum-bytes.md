@@ -3,6 +3,7 @@
 - **Number:** 168
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [168-implement-basic-checksum-sum-bytes.md](../../tutorials/tasks/beginner/168-implement-basic-checksum-sum-bytes.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 68
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [068-heapsort-using-heap-operations.md](../../tutorials/tasks/beginner/068-heapsort-using-heap-operations.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 170
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [170-simple-palindrome-partitioning-backtracking-list-partitions.md](../../tutorials/tasks/beginner/170-simple-palindrome-partitioning-backtracking-list-partitions.md)
 
 ## Solutions
 

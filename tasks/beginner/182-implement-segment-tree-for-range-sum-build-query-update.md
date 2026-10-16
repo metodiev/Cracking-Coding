@@ -3,6 +3,7 @@
 - **Number:** 182
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [182-implement-segment-tree-for-range-sum-build-query-update.md](../../tutorials/tasks/beginner/182-implement-segment-tree-for-range-sum-build-query-update.md)
 
 ## Solutions
 

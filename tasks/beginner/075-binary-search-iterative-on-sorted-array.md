@@ -3,6 +3,7 @@
 - **Number:** 75
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [075-binary-search-iterative-on-sorted-array.md](../../tutorials/tasks/beginner/075-binary-search-iterative-on-sorted-array.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 113
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [113-simple-dijkstra-s-algorithm-non-negative-weights.md](../../tutorials/tasks/beginner/113-simple-dijkstra-s-algorithm-non-negative-weights.md)
 
 ## Solutions
 

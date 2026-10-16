@@ -3,6 +3,7 @@
 - **Number:** 116
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [116-insert-and-search-in-trie.md](../../tutorials/tasks/beginner/116-insert-and-search-in-trie.md)
 
 ## Solutions
 

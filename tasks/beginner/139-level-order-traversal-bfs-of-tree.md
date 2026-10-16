@@ -3,6 +3,7 @@
 - **Number:** 139
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [139-level-order-traversal-bfs-of-tree.md](../../tutorials/tasks/beginner/139-level-order-traversal-bfs-of-tree.md)
 
 ## Solutions
 

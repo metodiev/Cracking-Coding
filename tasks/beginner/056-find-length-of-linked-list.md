@@ -3,6 +3,7 @@
 - **Number:** 56
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [056-find-length-of-linked-list.md](../../tutorials/tasks/beginner/056-find-length-of-linked-list.md)
 
 ## Solutions
 

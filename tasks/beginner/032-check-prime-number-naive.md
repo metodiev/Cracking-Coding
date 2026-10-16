@@ -3,6 +3,7 @@
 - **Number:** 32
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [032-check-prime-number-naive.md](../../tutorials/tasks/beginner/032-check-prime-number-naive.md)
 
 ## Solutions
 

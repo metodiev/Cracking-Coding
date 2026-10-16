@@ -3,6 +3,7 @@
 - **Number:** 48
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [048-find-most-frequent-element-in-array.md](../../tutorials/tasks/beginner/048-find-most-frequent-element-in-array.md)
 
 ## Solutions
 

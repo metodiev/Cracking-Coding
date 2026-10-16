@@ -3,6 +3,7 @@
 - **Number:** 60
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [060-remove-nth-node-from-end-of-linked-list.md](../../tutorials/tasks/beginner/060-remove-nth-node-from-end-of-linked-list.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 147
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [147-lowest-common-ancestor-in-binary-tree-general.md](../../tutorials/tasks/beginner/147-lowest-common-ancestor-in-binary-tree-general.md)
 
 ## Solutions
 

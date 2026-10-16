@@ -3,6 +3,7 @@
 - **Number:** 18
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [018-convert-integer-to-string.md](../../tutorials/tasks/beginner/018-convert-integer-to-string.md)
 
 ## Solutions
 

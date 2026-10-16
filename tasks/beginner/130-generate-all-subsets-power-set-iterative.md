@@ -3,6 +3,7 @@
 - **Number:** 130
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [130-generate-all-subsets-power-set-iterative.md](../../tutorials/tasks/beginner/130-generate-all-subsets-power-set-iterative.md)
 
 ## Solutions
 

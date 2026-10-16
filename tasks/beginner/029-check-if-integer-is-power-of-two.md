@@ -3,6 +3,7 @@
 - **Number:** 29
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [029-check-if-integer-is-power-of-two.md](../../tutorials/tasks/beginner/029-check-if-integer-is-power-of-two.md)
 
 ## Solutions
 

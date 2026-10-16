@@ -3,6 +3,7 @@
 - **Number:** 122
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [122-longest-common-substring-dp.md](../../tutorials/tasks/beginner/122-longest-common-substring-dp.md)
 
 ## Solutions
 

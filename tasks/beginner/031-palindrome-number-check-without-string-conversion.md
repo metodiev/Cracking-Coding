@@ -3,6 +3,7 @@
 - **Number:** 31
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [031-palindrome-number-check-without-string-conversion.md](../../tutorials/tasks/beginner/031-palindrome-number-check-without-string-conversion.md)
 
 ## Solutions
 

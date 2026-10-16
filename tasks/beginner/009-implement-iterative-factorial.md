@@ -3,6 +3,7 @@
 - **Number:** 9
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [009-implement-iterative-factorial.md](../../tutorials/tasks/beginner/009-implement-iterative-factorial.md)
 
 ## Solutions
 

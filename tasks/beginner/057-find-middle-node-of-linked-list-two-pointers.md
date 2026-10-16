@@ -3,6 +3,7 @@
 - **Number:** 57
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [057-find-middle-node-of-linked-list-two-pointers.md](../../tutorials/tasks/beginner/057-find-middle-node-of-linked-list-two-pointers.md)
 
 ## Solutions
 

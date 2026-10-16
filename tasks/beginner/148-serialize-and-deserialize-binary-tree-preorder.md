@@ -3,6 +3,7 @@
 - **Number:** 148
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [148-serialize-and-deserialize-binary-tree-preorder.md](../../tutorials/tasks/beginner/148-serialize-and-deserialize-binary-tree-preorder.md)
 
 ## Solutions
 

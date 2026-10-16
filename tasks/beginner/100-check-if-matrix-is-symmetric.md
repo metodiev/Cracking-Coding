@@ -3,6 +3,7 @@
 - **Number:** 100
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [100-check-if-matrix-is-symmetric.md](../../tutorials/tasks/beginner/100-check-if-matrix-is-symmetric.md)
 
 ## Solutions
 

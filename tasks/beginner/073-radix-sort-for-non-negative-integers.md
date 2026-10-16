@@ -3,6 +3,7 @@
 - **Number:** 73
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [073-radix-sort-for-non-negative-integers.md](../../tutorials/tasks/beginner/073-radix-sort-for-non-negative-integers.md)
 
 ## Solutions
 

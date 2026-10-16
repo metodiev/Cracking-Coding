@@ -3,6 +3,7 @@
 - **Number:** 161
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [161-implement-lfu-cache-basic-variant.md](../../tutorials/tasks/beginner/161-implement-lfu-cache-basic-variant.md)
 
 ## Solutions
 

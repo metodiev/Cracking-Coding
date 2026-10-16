@@ -3,6 +3,7 @@
 - **Number:** 114
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [114-bellman-ford-algorithm-with-negative-edges.md](../../tutorials/tasks/beginner/114-bellman-ford-algorithm-with-negative-edges.md)
 
 ## Solutions
 

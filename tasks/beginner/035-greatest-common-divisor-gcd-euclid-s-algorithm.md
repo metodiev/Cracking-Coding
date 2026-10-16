@@ -3,6 +3,7 @@
 - **Number:** 35
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [035-greatest-common-divisor-gcd-euclid-s-algorithm.md](../../tutorials/tasks/beginner/035-greatest-common-divisor-gcd-euclid-s-algorithm.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 38
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [038-implement-binary-exponentiation-fast-power.md](../../tutorials/tasks/beginner/038-implement-binary-exponentiation-fast-power.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 187
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [187-implement-basic-rolling-hash-for-integer-arrays.md](../../tutorials/tasks/beginner/187-implement-basic-rolling-hash-for-integer-arrays.md)
 
 ## Solutions
 

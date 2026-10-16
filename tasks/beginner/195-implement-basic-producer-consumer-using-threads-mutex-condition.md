@@ -3,6 +3,7 @@
 - **Number:** 195
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [195-implement-basic-producer-consumer-using-threads-mutex-condition.md](../../tutorials/tasks/beginner/195-implement-basic-producer-consumer-using-threads-mutex-condition.md)
 
 ## Solutions
 

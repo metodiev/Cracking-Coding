@@ -3,6 +3,7 @@
 - **Number:** 27
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [027-find-missing-number-in-1-n-given-n-1-elements.md](../../tutorials/tasks/beginner/027-find-missing-number-in-1-n-given-n-1-elements.md)
 
 ## Solutions
 

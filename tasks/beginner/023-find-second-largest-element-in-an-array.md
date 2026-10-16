@@ -3,6 +3,7 @@
 - **Number:** 23
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [023-find-second-largest-element-in-an-array.md](../../tutorials/tasks/beginner/023-find-second-largest-element-in-an-array.md)
 
 ## Solutions
 

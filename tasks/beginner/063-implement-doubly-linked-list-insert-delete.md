@@ -3,6 +3,7 @@
 - **Number:** 63
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [063-implement-doubly-linked-list-insert-delete.md](../../tutorials/tasks/beginner/063-implement-doubly-linked-list-insert-delete.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 101
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [101-count-islands-in-boolean-grid-dfs.md](../../tutorials/tasks/beginner/101-count-islands-in-boolean-grid-dfs.md)
 
 ## Solutions
 

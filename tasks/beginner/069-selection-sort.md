@@ -3,6 +3,7 @@
 - **Number:** 69
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [069-selection-sort.md](../../tutorials/tasks/beginner/069-selection-sort.md)
 
 ## Solutions
 

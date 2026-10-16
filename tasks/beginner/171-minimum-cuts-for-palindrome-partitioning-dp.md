@@ -3,6 +3,7 @@
 - **Number:** 171
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [171-minimum-cuts-for-palindrome-partitioning-dp.md](../../tutorials/tasks/beginner/171-minimum-cuts-for-palindrome-partitioning-dp.md)
 
 ## Solutions
 

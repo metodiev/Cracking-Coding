@@ -3,6 +3,7 @@
 - **Number:** 13
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [013-compute-nth-fibonacci-with-memoization.md](../../tutorials/tasks/beginner/013-compute-nth-fibonacci-with-memoization.md)
 
 ## Solutions
 

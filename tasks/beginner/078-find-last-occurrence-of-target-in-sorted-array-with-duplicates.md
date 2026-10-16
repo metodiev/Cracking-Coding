@@ -3,6 +3,7 @@
 - **Number:** 78
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [078-find-last-occurrence-of-target-in-sorted-array-with-duplicates.md](../../tutorials/tasks/beginner/078-find-last-occurrence-of-target-in-sorted-array-with-duplicates.md)
 
 ## Solutions
 

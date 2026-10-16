@@ -3,6 +3,7 @@
 - **Number:** 16
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [016-count-occurrences-of-each-character-in-a-string.md](../../tutorials/tasks/beginner/016-count-occurrences-of-each-character-in-a-string.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 150
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [150-sum-of-root-to-leaf-numbers-in-tree.md](../../tutorials/tasks/beginner/150-sum-of-root-to-leaf-numbers-in-tree.md)
 
 ## Solutions
 

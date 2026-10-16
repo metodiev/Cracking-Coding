@@ -3,6 +3,7 @@
 - **Number:** 88
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [088-classic-caesar-cipher-encode-decode.md](../../tutorials/tasks/beginner/088-classic-caesar-cipher-encode-decode.md)
 
 ## Solutions
 

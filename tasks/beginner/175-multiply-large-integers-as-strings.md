@@ -3,6 +3,7 @@
 - **Number:** 175
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [175-multiply-large-integers-as-strings.md](../../tutorials/tasks/beginner/175-multiply-large-integers-as-strings.md)
 
 ## Solutions
 

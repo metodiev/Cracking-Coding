@@ -3,6 +3,7 @@
 - **Number:** 91
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [091-max-over-sliding-window-naive.md](../../tutorials/tasks/beginner/091-max-over-sliding-window-naive.md)
 
 ## Solutions
 

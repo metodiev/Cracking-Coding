@@ -3,6 +3,7 @@
 - **Number:** 198
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [198-serialize-object-to-json-string-manual.md](../../tutorials/tasks/beginner/198-serialize-object-to-json-string-manual.md)
 
 ## Solutions
 

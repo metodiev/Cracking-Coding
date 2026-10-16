@@ -3,6 +3,7 @@
 - **Number:** 156
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [156-implement-iterator-for-a-binary-tree-inorder.md](../../tutorials/tasks/beginner/156-implement-iterator-for-a-binary-tree-inorder.md)
 
 ## Solutions
 

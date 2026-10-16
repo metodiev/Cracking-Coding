@@ -3,6 +3,7 @@
 - **Number:** 11
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [011-generate-first-n-fibonacci-numbers-iterative.md](../../tutorials/tasks/beginner/011-generate-first-n-fibonacci-numbers-iterative.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 146
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [146-lowest-common-ancestor-in-bst-iterative.md](../../tutorials/tasks/beginner/146-lowest-common-ancestor-in-bst-iterative.md)
 
 ## Solutions
 

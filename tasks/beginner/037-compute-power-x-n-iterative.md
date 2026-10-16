@@ -3,6 +3,7 @@
 - **Number:** 37
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [037-compute-power-x-n-iterative.md](../../tutorials/tasks/beginner/037-compute-power-x-n-iterative.md)
 
 ## Solutions
 

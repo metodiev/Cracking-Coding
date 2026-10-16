@@ -3,6 +3,7 @@
 - **Number:** 82
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [082-range-sum-query-naive-using-prefix-sums.md](../../tutorials/tasks/beginner/082-range-sum-query-naive-using-prefix-sums.md)
 
 ## Solutions
 

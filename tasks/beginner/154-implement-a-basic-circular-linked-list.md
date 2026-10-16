@@ -3,6 +3,7 @@
 - **Number:** 154
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [154-implement-a-basic-circular-linked-list.md](../../tutorials/tasks/beginner/154-implement-a-basic-circular-linked-list.md)
 
 ## Solutions
 

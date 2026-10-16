@@ -3,6 +3,7 @@
 - **Number:** 134
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [134-next-lexicographical-permutation.md](../../tutorials/tasks/beginner/134-next-lexicographical-permutation.md)
 
 ## Solutions
 

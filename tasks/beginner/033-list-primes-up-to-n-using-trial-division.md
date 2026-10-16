@@ -3,6 +3,7 @@
 - **Number:** 33
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [033-list-primes-up-to-n-using-trial-division.md](../../tutorials/tasks/beginner/033-list-primes-up-to-n-using-trial-division.md)
 
 ## Solutions
 

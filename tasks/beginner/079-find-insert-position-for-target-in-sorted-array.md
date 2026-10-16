@@ -3,6 +3,7 @@
 - **Number:** 79
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [079-find-insert-position-for-target-in-sorted-array.md](../../tutorials/tasks/beginner/079-find-insert-position-for-target-in-sorted-array.md)
 
 ## Solutions
 

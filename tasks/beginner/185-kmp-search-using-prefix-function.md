@@ -3,6 +3,7 @@
 - **Number:** 185
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [185-kmp-search-using-prefix-function.md](../../tutorials/tasks/beginner/185-kmp-search-using-prefix-function.md)
 
 ## Solutions
 

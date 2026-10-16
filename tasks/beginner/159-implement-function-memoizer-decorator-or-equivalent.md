@@ -3,6 +3,7 @@
 - **Number:** 159
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [159-implement-function-memoizer-decorator-or-equivalent.md](../../tutorials/tasks/beginner/159-implement-function-memoizer-decorator-or-equivalent.md)
 
 ## Solutions
 

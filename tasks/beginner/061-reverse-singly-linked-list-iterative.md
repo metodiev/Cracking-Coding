@@ -3,6 +3,7 @@
 - **Number:** 61
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [061-reverse-singly-linked-list-iterative.md](../../tutorials/tasks/beginner/061-reverse-singly-linked-list-iterative.md)
 
 ## Solutions
 

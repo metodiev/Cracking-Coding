@@ -3,6 +3,7 @@
 - **Number:** 80
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [080-implement-string-builder-concatenation-efficient.md](../../tutorials/tasks/beginner/080-implement-string-builder-concatenation-efficient.md)
 
 ## Solutions
 

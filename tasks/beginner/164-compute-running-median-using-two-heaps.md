@@ -3,6 +3,7 @@
 - **Number:** 164
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [164-compute-running-median-using-two-heaps.md](../../tutorials/tasks/beginner/164-compute-running-median-using-two-heaps.md)
 
 ## Solutions
 

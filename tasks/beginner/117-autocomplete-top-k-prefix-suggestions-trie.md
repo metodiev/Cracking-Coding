@@ -3,6 +3,7 @@
 - **Number:** 117
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [117-autocomplete-top-k-prefix-suggestions-trie.md](../../tutorials/tasks/beginner/117-autocomplete-top-k-prefix-suggestions-trie.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 71
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [071-bubble-sort-optimized.md](../../tutorials/tasks/beginner/071-bubble-sort-optimized.md)
 
 ## Solutions
 

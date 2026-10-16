@@ -3,6 +3,7 @@
 - **Number:** 166
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [166-boyer-moore-majority-vote-algorithm-find-element-n-2.md](../../tutorials/tasks/beginner/166-boyer-moore-majority-vote-algorithm-find-element-n-2.md)
 
 ## Solutions
 

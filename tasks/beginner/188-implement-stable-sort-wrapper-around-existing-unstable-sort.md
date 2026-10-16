@@ -3,6 +3,7 @@
 - **Number:** 188
 - **Tier:** Beginner
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [188-implement-stable-sort-wrapper-around-existing-unstable-sort.md](../../tutorials/tasks/beginner/188-implement-stable-sort-wrapper-around-existing-unstable-sort.md)
 
 ## Solutions
 

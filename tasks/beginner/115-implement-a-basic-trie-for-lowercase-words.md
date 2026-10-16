@@ -3,6 +3,7 @@
 - **Number:** 115
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [115-implement-a-basic-trie-for-lowercase-words.md](../../tutorials/tasks/beginner/115-implement-a-basic-trie-for-lowercase-words.md)
 
 ## Solutions
 

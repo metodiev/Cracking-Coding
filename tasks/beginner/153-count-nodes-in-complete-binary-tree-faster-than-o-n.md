@@ -3,6 +3,7 @@
 - **Number:** 153
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [153-count-nodes-in-complete-binary-tree-faster-than-o-n.md](../../tutorials/tasks/beginner/153-count-nodes-in-complete-binary-tree-faster-than-o-n.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 89
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [089-implement-simple-frequency-histogram-integers.md](../../tutorials/tasks/beginner/089-implement-simple-frequency-histogram-integers.md)
 
 ## Solutions
 

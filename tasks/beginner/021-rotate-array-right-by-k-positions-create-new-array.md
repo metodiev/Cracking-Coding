@@ -3,6 +3,7 @@
 - **Number:** 21
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [021-rotate-array-right-by-k-positions-create-new-array.md](../../tutorials/tasks/beginner/021-rotate-array-right-by-k-positions-create-new-array.md)
 
 ## Solutions
 

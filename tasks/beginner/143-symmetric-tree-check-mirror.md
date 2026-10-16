@@ -3,6 +3,7 @@
 - **Number:** 143
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [143-symmetric-tree-check-mirror.md](../../tutorials/tasks/beginner/143-symmetric-tree-check-mirror.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 15
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [015-check-if-two-strings-are-anagrams.md](../../tutorials/tasks/beginner/015-check-if-two-strings-are-anagrams.md)
 
 ## Solutions
 

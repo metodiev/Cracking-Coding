@@ -3,6 +3,7 @@
 - **Number:** 83
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [083-two-sum-problem-brute-force.md](../../tutorials/tasks/beginner/083-two-sum-problem-brute-force.md)
 
 ## Solutions
 

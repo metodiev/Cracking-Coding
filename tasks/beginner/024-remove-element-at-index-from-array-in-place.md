@@ -3,6 +3,7 @@
 - **Number:** 24
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [024-remove-element-at-index-from-array-in-place.md](../../tutorials/tasks/beginner/024-remove-element-at-index-from-array-in-place.md)
 
 ## Solutions
 

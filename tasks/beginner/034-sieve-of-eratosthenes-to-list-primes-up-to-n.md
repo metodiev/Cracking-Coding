@@ -3,6 +3,7 @@
 - **Number:** 34
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [034-sieve-of-eratosthenes-to-list-primes-up-to-n.md](../../tutorials/tasks/beginner/034-sieve-of-eratosthenes-to-list-primes-up-to-n.md)
 
 ## Solutions
 

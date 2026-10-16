@@ -3,6 +3,7 @@
 - **Number:** 144
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [144-convert-sorted-array-to-balanced-bst.md](../../tutorials/tasks/beginner/144-convert-sorted-array-to-balanced-bst.md)
 
 ## Solutions
 

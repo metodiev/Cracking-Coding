@@ -3,6 +3,7 @@
 - **Number:** 178
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [178-compute-transitive-closure-floyd-warshall-naive.md](../../tutorials/tasks/beginner/178-compute-transitive-closure-floyd-warshall-naive.md)
 
 ## Solutions
 

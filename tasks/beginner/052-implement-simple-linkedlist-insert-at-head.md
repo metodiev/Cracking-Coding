@@ -3,6 +3,7 @@
 - **Number:** 52
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [052-implement-simple-linkedlist-insert-at-head.md](../../tutorials/tasks/beginner/052-implement-simple-linkedlist-insert-at-head.md)
 
 ## Solutions
 

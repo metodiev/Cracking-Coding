@@ -3,6 +3,7 @@
 - **Number:** 39
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [039-simple-linear-congruential-pseudorandom-generator.md](../../tutorials/tasks/beginner/039-simple-linear-congruential-pseudorandom-generator.md)
 
 ## Solutions
 

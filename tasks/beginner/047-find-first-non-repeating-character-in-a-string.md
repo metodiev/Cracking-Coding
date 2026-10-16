@@ -3,6 +3,7 @@
 - **Number:** 47
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [047-find-first-non-repeating-character-in-a-string.md](../../tutorials/tasks/beginner/047-find-first-non-repeating-character-in-a-string.md)
 
 ## Solutions
 

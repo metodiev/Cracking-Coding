@@ -3,6 +3,7 @@
 - **Number:** 6
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [006-find-minimum-value-in-an-int-array.md](../../tutorials/tasks/beginner/006-find-minimum-value-in-an-int-array.md)
 
 ## Solutions
 

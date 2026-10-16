@@ -3,6 +3,7 @@
 - **Number:** 41
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [041-check-if-brackets-are-balanced-single-type.md](../../tutorials/tasks/beginner/041-check-if-brackets-are-balanced-single-type.md)
 
 ## Solutions
 

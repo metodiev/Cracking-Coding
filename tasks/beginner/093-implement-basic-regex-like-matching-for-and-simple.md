@@ -3,6 +3,7 @@
 - **Number:** 93
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [093-implement-basic-regex-like-matching-for-and-simple.md](../../tutorials/tasks/beginner/093-implement-basic-regex-like-matching-for-and-simple.md)
 
 ## Solutions
 

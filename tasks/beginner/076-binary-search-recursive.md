@@ -3,6 +3,7 @@
 - **Number:** 76
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [076-binary-search-recursive.md](../../tutorials/tasks/beginner/076-binary-search-recursive.md)
 
 ## Solutions
 

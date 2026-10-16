@@ -3,6 +3,7 @@
 - **Number:** 43
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [043-count-words-in-a-string.md](../../tutorials/tasks/beginner/043-count-words-in-a-string.md)
 
 ## Solutions
 

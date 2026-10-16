@@ -3,6 +3,7 @@
 - **Number:** 142
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [142-check-if-tree-is-balanced-height-difference-1.md](../../tutorials/tasks/beginner/142-check-if-tree-is-balanced-height-difference-1.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 106
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [106-topological-sort-using-dfs-dag.md](../../tutorials/tasks/beginner/106-topological-sort-using-dfs-dag.md)
 
 ## Solutions
 

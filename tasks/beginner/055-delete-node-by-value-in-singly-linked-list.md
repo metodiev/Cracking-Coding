@@ -3,6 +3,7 @@
 - **Number:** 55
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 2 — Linked Lists
+- **Tutorial:** [055-delete-node-by-value-in-singly-linked-list.md](../../tutorials/tasks/beginner/055-delete-node-by-value-in-singly-linked-list.md)
 
 ## Solutions
 

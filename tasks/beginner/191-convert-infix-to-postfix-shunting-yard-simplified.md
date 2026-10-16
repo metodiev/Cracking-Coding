@@ -3,6 +3,7 @@
 - **Number:** 191
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [191-convert-infix-to-postfix-shunting-yard-simplified.md](../../tutorials/tasks/beginner/191-convert-infix-to-postfix-shunting-yard-simplified.md)
 
 ## Solutions
 

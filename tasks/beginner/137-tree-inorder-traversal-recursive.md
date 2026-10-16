@@ -3,6 +3,7 @@
 - **Number:** 137
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [137-tree-inorder-traversal-recursive.md](../../tutorials/tasks/beginner/137-tree-inorder-traversal-recursive.md)
 
 ## Solutions
 

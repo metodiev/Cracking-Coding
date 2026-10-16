@@ -3,6 +3,7 @@
 - **Number:** 135
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [135-check-if-two-binary-trees-are-identical.md](../../tutorials/tasks/beginner/135-check-if-two-binary-trees-are-identical.md)
 
 ## Solutions
 

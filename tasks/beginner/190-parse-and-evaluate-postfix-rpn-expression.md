@@ -3,6 +3,7 @@
 - **Number:** 190
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [190-parse-and-evaluate-postfix-rpn-expression.md](../../tutorials/tasks/beginner/190-parse-and-evaluate-postfix-rpn-expression.md)
 
 ## Solutions
 

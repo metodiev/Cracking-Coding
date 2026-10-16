@@ -3,6 +3,7 @@
 - **Number:** 196
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [196-implement-file-line-reader-that-yields-lines-lazily.md](../../tutorials/tasks/beginner/196-implement-file-line-reader-that-yields-lines-lazily.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 112
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [112-prim-s-mst-using-heap.md](../../tutorials/tasks/beginner/112-prim-s-mst-using-heap.md)
 
 ## Solutions
 
