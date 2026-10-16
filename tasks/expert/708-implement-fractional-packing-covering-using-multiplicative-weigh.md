@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/708-implement-fractional-packing-covering-using-multiplicative-weigh/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/708-implement-fractional-packing-covering-using-multiplicative-weigh/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/708-implement-fractional-packing-covering-using-multiplicative-weigh/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/708-implement-fractional-packing-covering-using-multiplicative-weigh/Solution.cs)

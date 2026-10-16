@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/731-implement-adaptive-mesh-refinement-driving-solver-coupling/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/731-implement-adaptive-mesh-refinement-driving-solver-coupling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/731-implement-adaptive-mesh-refinement-driving-solver-coupling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/731-implement-adaptive-mesh-refinement-driving-solver-coupling/Solution.cs)

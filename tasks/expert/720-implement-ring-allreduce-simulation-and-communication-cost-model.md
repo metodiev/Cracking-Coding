@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/720-implement-ring-allreduce-simulation-and-communication-cost-model/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/720-implement-ring-allreduce-simulation-and-communication-cost-model/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/720-implement-ring-allreduce-simulation-and-communication-cost-model/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/720-implement-ring-allreduce-simulation-and-communication-cost-model/Solution.cs)

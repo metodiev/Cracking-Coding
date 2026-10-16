@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/724-implement-memory-planner-for-computation-graph-scheduling-simple/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/724-implement-memory-planner-for-computation-graph-scheduling-simple/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/724-implement-memory-planner-for-computation-graph-scheduling-simple/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/724-implement-memory-planner-for-computation-graph-scheduling-simple/Solution.cs)

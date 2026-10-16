@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/716-implement-quantized-neural-network-inference-simulation-8-bit/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/716-implement-quantized-neural-network-inference-simulation-8-bit/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/716-implement-quantized-neural-network-inference-simulation-8-bit/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/716-implement-quantized-neural-network-inference-simulation-8-bit/Solution.cs)

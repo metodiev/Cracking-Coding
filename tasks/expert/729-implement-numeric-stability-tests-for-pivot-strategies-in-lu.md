@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/729-implement-numeric-stability-tests-for-pivot-strategies-in-lu/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/729-implement-numeric-stability-tests-for-pivot-strategies-in-lu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/729-implement-numeric-stability-tests-for-pivot-strategies-in-lu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/729-implement-numeric-stability-tests-for-pivot-strategies-in-lu/Solution.cs)

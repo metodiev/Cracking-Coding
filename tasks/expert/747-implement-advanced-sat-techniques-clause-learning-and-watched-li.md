@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/747-implement-advanced-sat-techniques-clause-learning-and-watched-li/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/747-implement-advanced-sat-techniques-clause-learning-and-watched-li/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/747-implement-advanced-sat-techniques-clause-learning-and-watched-li/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/747-implement-advanced-sat-techniques-clause-learning-and-watched-li/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/723-implement-automatic-batching-microbatch-merging-skeleton/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/723-implement-automatic-batching-microbatch-merging-skeleton/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/723-implement-automatic-batching-microbatch-merging-skeleton/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/723-implement-automatic-batching-microbatch-merging-skeleton/Solution.cs)

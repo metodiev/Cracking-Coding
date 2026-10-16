@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/736-implement-intersection-detection-in-3d-using-bounding-volume-hie/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/736-implement-intersection-detection-in-3d-using-bounding-volume-hie/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/736-implement-intersection-detection-in-3d-using-bounding-volume-hie/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/736-implement-intersection-detection-in-3d-using-bounding-volume-hie/Solution.cs)

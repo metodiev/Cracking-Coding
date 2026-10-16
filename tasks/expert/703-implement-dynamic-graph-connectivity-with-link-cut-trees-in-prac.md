@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac/Solution.cs)

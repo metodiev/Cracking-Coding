@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/718-implement-gradient-compression-techniques-top-k-and-error-feedba/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/718-implement-gradient-compression-techniques-top-k-and-error-feedba/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/718-implement-gradient-compression-techniques-top-k-and-error-feedba/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/718-implement-gradient-compression-techniques-top-k-and-error-feedba/Solution.cs)

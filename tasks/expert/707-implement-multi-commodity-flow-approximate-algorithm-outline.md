@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/707-implement-multi-commodity-flow-approximate-algorithm-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/707-implement-multi-commodity-flow-approximate-algorithm-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/707-implement-multi-commodity-flow-approximate-algorithm-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/707-implement-multi-commodity-flow-approximate-algorithm-outline/Solution.cs)

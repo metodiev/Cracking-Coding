@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/717-implement-mixed-precision-training-utility-fp16-fp32-accumulator/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/717-implement-mixed-precision-training-utility-fp16-fp32-accumulator/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/717-implement-mixed-precision-training-utility-fp16-fp32-accumulator/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/717-implement-mixed-precision-training-utility-fp16-fp32-accumulator/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu/Solution.cs)

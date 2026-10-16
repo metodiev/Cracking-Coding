@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/728-implement-cache-oblivious-matrix-multiplication-idea-demo/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/728-implement-cache-oblivious-matrix-multiplication-idea-demo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/728-implement-cache-oblivious-matrix-multiplication-idea-demo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/728-implement-cache-oblivious-matrix-multiplication-idea-demo/Solution.cs)

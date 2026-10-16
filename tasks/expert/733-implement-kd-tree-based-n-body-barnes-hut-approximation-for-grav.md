@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav/Solution.cs)
