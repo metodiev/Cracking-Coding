@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/884-implement-autotuner-that-explores-kernel-block-grid-parameters-a/solution.py)
+- Java: [Solution.java](../../solutions/java/master/884-implement-autotuner-that-explores-kernel-block-grid-parameters-a/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/884-implement-autotuner-that-explores-kernel-block-grid-parameters-a/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/884-implement-autotuner-that-explores-kernel-block-grid-parameters-a/Solution.cs)

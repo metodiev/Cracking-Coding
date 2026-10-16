@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/881-implement-global-illumination-importance-sampling-techniques-in/solution.py)
+- Java: [Solution.java](../../solutions/java/master/881-implement-global-illumination-importance-sampling-techniques-in/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/881-implement-global-illumination-importance-sampling-techniques-in/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/881-implement-global-illumination-importance-sampling-techniques-in/Solution.cs)

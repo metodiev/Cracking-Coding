@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/859-implement-self-tuning-database-storage-layout-optimizer-auto-com/solution.py)
+- Java: [Solution.java](../../solutions/java/master/859-implement-self-tuning-database-storage-layout-optimizer-auto-com/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/859-implement-self-tuning-database-storage-layout-optimizer-auto-com/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/859-implement-self-tuning-database-storage-layout-optimizer-auto-com/Solution.cs)

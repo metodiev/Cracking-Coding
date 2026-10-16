@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/866-implement-feature-attribution-runtime-shap-like-scalable-for-tab/solution.py)
+- Java: [Solution.java](../../solutions/java/master/866-implement-feature-attribution-runtime-shap-like-scalable-for-tab/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/866-implement-feature-attribution-runtime-shap-like-scalable-for-tab/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/866-implement-feature-attribution-runtime-shap-like-scalable-for-tab/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/863-implement-large-scale-graph-embedding-training-with-negative-sam/solution.py)
+- Java: [Solution.java](../../solutions/java/master/863-implement-large-scale-graph-embedding-training-with-negative-sam/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/863-implement-large-scale-graph-embedding-training-with-negative-sam/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/863-implement-large-scale-graph-embedding-training-with-negative-sam/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/889-implement-secure-multiparty-computation-for-private-set-intersec/solution.py)
+- Java: [Solution.java](../../solutions/java/master/889-implement-secure-multiparty-computation-for-private-set-intersec/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/889-implement-secure-multiparty-computation-for-private-set-intersec/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/889-implement-secure-multiparty-computation-for-private-set-intersec/Solution.cs)

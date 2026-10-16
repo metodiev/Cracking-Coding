@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/878-implement-production-ready-collision-detection-and-physics-engin/solution.py)
+- Java: [Solution.java](../../solutions/java/master/878-implement-production-ready-collision-detection-and-physics-engin/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/878-implement-production-ready-collision-detection-and-physics-engin/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/878-implement-production-ready-collision-detection-and-physics-engin/Solution.cs)

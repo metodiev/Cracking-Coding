@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/869-implement-causality-identification-in-time-series-with-granger-c/solution.py)
+- Java: [Solution.java](../../solutions/java/master/869-implement-causality-identification-in-time-series-with-granger-c/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/869-implement-causality-identification-in-time-series-with-granger-c/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/869-implement-causality-identification-in-time-series-with-granger-c/Solution.cs)

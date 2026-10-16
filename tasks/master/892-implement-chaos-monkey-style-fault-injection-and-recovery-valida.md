@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/892-implement-chaos-monkey-style-fault-injection-and-recovery-valida/solution.py)
+- Java: [Solution.java](../../solutions/java/master/892-implement-chaos-monkey-style-fault-injection-and-recovery-valida/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/892-implement-chaos-monkey-style-fault-injection-and-recovery-valida/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/892-implement-chaos-monkey-style-fault-injection-and-recovery-valida/Solution.cs)

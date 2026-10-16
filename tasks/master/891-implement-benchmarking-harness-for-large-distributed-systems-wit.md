@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/891-implement-benchmarking-harness-for-large-distributed-systems-wit/solution.py)
+- Java: [Solution.java](../../solutions/java/master/891-implement-benchmarking-harness-for-large-distributed-systems-wit/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/891-implement-benchmarking-harness-for-large-distributed-systems-wit/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/891-implement-benchmarking-harness-for-large-distributed-systems-wit/Solution.cs)

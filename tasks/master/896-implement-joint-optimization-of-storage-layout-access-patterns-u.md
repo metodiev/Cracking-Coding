@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/896-implement-joint-optimization-of-storage-layout-access-patterns-u/solution.py)
+- Java: [Solution.java](../../solutions/java/master/896-implement-joint-optimization-of-storage-layout-access-patterns-u/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/896-implement-joint-optimization-of-storage-layout-access-patterns-u/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/896-implement-joint-optimization-of-storage-layout-access-patterns-u/Solution.cs)

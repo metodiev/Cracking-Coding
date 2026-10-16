@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/879-implement-high-performance-raytracer-with-bvh-build-and-traversa/solution.py)
+- Java: [Solution.java](../../solutions/java/master/879-implement-high-performance-raytracer-with-bvh-build-and-traversa/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/879-implement-high-performance-raytracer-with-bvh-build-and-traversa/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/879-implement-high-performance-raytracer-with-bvh-build-and-traversa/Solution.cs)

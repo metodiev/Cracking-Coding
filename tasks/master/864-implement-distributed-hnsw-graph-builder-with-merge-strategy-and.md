@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and/solution.py)
+- Java: [Solution.java](../../solutions/java/master/864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and/Solution.cs)

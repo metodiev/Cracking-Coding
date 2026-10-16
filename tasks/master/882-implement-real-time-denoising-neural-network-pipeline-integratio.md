@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/882-implement-real-time-denoising-neural-network-pipeline-integratio/solution.py)
+- Java: [Solution.java](../../solutions/java/master/882-implement-real-time-denoising-neural-network-pipeline-integratio/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/882-implement-real-time-denoising-neural-network-pipeline-integratio/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/882-implement-real-time-denoising-neural-network-pipeline-integratio/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/871-implement-reproducible-ml-experiments-registry-with-artifact-pro/solution.py)
+- Java: [Solution.java](../../solutions/java/master/871-implement-reproducible-ml-experiments-registry-with-artifact-pro/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/871-implement-reproducible-ml-experiments-registry-with-artifact-pro/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/871-implement-reproducible-ml-experiments-registry-with-artifact-pro/Solution.cs)

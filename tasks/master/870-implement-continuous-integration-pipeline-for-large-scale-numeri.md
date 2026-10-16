@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/870-implement-continuous-integration-pipeline-for-large-scale-numeri/solution.py)
+- Java: [Solution.java](../../solutions/java/master/870-implement-continuous-integration-pipeline-for-large-scale-numeri/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/870-implement-continuous-integration-pipeline-for-large-scale-numeri/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/870-implement-continuous-integration-pipeline-for-large-scale-numeri/Solution.cs)

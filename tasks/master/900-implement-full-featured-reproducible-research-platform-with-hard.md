@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/900-implement-full-featured-reproducible-research-platform-with-hard/solution.py)
+- Java: [Solution.java](../../solutions/java/master/900-implement-full-featured-reproducible-research-platform-with-hard/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/900-implement-full-featured-reproducible-research-platform-with-hard/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/900-implement-full-featured-reproducible-research-platform-with-hard/Solution.cs)

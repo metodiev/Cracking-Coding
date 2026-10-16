@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/883-implement-automatic-differentiation-for-gpu-kernels-across-fused/solution.py)
+- Java: [Solution.java](../../solutions/java/master/883-implement-automatic-differentiation-for-gpu-kernels-across-fused/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/883-implement-automatic-differentiation-for-gpu-kernels-across-fused/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/883-implement-automatic-differentiation-for-gpu-kernels-across-fused/Solution.cs)

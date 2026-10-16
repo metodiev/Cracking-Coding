@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/872-implement-differential-testing-harness-for-numerical-linear-alge/solution.py)
+- Java: [Solution.java](../../solutions/java/master/872-implement-differential-testing-harness-for-numerical-linear-alge/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/872-implement-differential-testing-harness-for-numerical-linear-alge/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/872-implement-differential-testing-harness-for-numerical-linear-alge/Solution.cs)

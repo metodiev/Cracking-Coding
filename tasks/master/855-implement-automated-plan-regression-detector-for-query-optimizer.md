@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/855-implement-automated-plan-regression-detector-for-query-optimizer/solution.py)
+- Java: [Solution.java](../../solutions/java/master/855-implement-automated-plan-regression-detector-for-query-optimizer/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/855-implement-automated-plan-regression-detector-for-query-optimizer/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/855-implement-automated-plan-regression-detector-for-query-optimizer/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/897-implement-compressed-neural-network-runtime-with-weight-sharing/solution.py)
+- Java: [Solution.java](../../solutions/java/master/897-implement-compressed-neural-network-runtime-with-weight-sharing/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/897-implement-compressed-neural-network-runtime-with-weight-sharing/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/897-implement-compressed-neural-network-runtime-with-weight-sharing/Solution.cs)

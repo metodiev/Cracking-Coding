@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke/solution.py)
+- Java: [Solution.java](../../solutions/java/master/885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke/Solution.cs)

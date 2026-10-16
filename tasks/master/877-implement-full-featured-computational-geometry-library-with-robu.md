@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/877-implement-full-featured-computational-geometry-library-with-robu/solution.py)
+- Java: [Solution.java](../../solutions/java/master/877-implement-full-featured-computational-geometry-library-with-robu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/877-implement-full-featured-computational-geometry-library-with-robu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/877-implement-full-featured-computational-geometry-library-with-robu/Solution.cs)

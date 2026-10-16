@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/master/868-implement-fairness-aware-training-loop-with-constraint-optimizat/solution.py)
+- Java: [Solution.java](../../solutions/java/master/868-implement-fairness-aware-training-loop-with-constraint-optimizat/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/master/868-implement-fairness-aware-training-loop-with-constraint-optimizat/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/master/868-implement-fairness-aware-training-loop-with-constraint-optimizat/Solution.cs)
