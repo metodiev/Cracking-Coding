@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/562-implement-mixed-integer-programming-small-model-using-branch-and/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/562-implement-mixed-integer-programming-small-model-using-branch-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/562-implement-mixed-integer-programming-small-model-using-branch-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/562-implement-mixed-integer-programming-small-model-using-branch-and/Solution.cs)

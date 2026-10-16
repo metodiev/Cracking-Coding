@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/582-implement-run-length-encoded-segment-tree-for-binary-string-oper/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/582-implement-run-length-encoded-segment-tree-for-binary-string-oper/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/582-implement-run-length-encoded-segment-tree-for-binary-string-oper/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/582-implement-run-length-encoded-segment-tree-for-binary-string-oper/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/554-implement-motif-counting-in-small-graphs-enumeration/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/554-implement-motif-counting-in-small-graphs-enumeration/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/554-implement-motif-counting-in-small-graphs-enumeration/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/554-implement-motif-counting-in-small-graphs-enumeration/Solution.cs)

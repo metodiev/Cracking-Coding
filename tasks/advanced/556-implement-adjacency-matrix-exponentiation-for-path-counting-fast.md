@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/556-implement-adjacency-matrix-exponentiation-for-path-counting-fast/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/556-implement-adjacency-matrix-exponentiation-for-path-counting-fast/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/556-implement-adjacency-matrix-exponentiation-for-path-counting-fast/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/556-implement-adjacency-matrix-exponentiation-for-path-counting-fast/Solution.cs)

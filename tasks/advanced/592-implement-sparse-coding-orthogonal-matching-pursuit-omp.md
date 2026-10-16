@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/592-implement-sparse-coding-orthogonal-matching-pursuit-omp/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/592-implement-sparse-coding-orthogonal-matching-pursuit-omp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/592-implement-sparse-coding-orthogonal-matching-pursuit-omp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/592-implement-sparse-coding-orthogonal-matching-pursuit-omp/Solution.cs)

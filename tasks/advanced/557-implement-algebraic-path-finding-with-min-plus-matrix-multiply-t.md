@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/557-implement-algebraic-path-finding-with-min-plus-matrix-multiply-t/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/557-implement-algebraic-path-finding-with-min-plus-matrix-multiply-t/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/557-implement-algebraic-path-finding-with-min-plus-matrix-multiply-t/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/557-implement-algebraic-path-finding-with-min-plus-matrix-multiply-t/Solution.cs)

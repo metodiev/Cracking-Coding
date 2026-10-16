@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co/Solution.cs)

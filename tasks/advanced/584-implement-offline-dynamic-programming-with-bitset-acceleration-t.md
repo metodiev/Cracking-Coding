@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/584-implement-offline-dynamic-programming-with-bitset-acceleration-t/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/584-implement-offline-dynamic-programming-with-bitset-acceleration-t/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/584-implement-offline-dynamic-programming-with-bitset-acceleration-t/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/584-implement-offline-dynamic-programming-with-bitset-acceleration-t/Solution.cs)

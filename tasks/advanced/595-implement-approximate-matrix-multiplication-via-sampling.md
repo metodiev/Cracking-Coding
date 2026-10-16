@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/595-implement-approximate-matrix-multiplication-via-sampling/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/595-implement-approximate-matrix-multiplication-via-sampling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/595-implement-approximate-matrix-multiplication-via-sampling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/595-implement-approximate-matrix-multiplication-via-sampling/Solution.cs)

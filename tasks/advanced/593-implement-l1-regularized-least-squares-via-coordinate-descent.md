@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/593-implement-l1-regularized-least-squares-via-coordinate-descent/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/593-implement-l1-regularized-least-squares-via-coordinate-descent/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/593-implement-l1-regularized-least-squares-via-coordinate-descent/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/593-implement-l1-regularized-least-squares-via-coordinate-descent/Solution.cs)

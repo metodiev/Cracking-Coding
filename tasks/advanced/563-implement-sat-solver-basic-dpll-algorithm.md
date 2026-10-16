@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/563-implement-sat-solver-basic-dpll-algorithm/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/563-implement-sat-solver-basic-dpll-algorithm/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/563-implement-sat-solver-basic-dpll-algorithm/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/563-implement-sat-solver-basic-dpll-algorithm/Solution.cs)

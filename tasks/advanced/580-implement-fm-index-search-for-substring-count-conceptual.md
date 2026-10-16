@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/580-implement-fm-index-search-for-substring-count-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/580-implement-fm-index-search-for-substring-count-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/580-implement-fm-index-search-for-substring-count-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/580-implement-fm-index-search-for-substring-count-conceptual/Solution.cs)

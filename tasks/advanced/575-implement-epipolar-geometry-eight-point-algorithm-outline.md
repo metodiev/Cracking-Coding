@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/575-implement-epipolar-geometry-eight-point-algorithm-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/575-implement-epipolar-geometry-eight-point-algorithm-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/575-implement-epipolar-geometry-eight-point-algorithm-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/575-implement-epipolar-geometry-eight-point-algorithm-outline/Solution.cs)

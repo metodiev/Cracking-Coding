@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/555-implement-dynamic-programming-for-counting-paths-of-length-k-in/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/555-implement-dynamic-programming-for-counting-paths-of-length-k-in/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/555-implement-dynamic-programming-for-counting-paths-of-length-k-in/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/555-implement-dynamic-programming-for-counting-paths-of-length-k-in/Solution.cs)

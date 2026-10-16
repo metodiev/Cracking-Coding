@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/561-implement-online-algorithm-for-sliding-window-distinct-count-hyp/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/561-implement-online-algorithm-for-sliding-window-distinct-count-hyp/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/561-implement-online-algorithm-for-sliding-window-distinct-count-hyp/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/561-implement-online-algorithm-for-sliding-window-distinct-count-hyp/Solution.cs)

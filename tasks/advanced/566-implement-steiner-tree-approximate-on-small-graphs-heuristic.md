@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/566-implement-steiner-tree-approximate-on-small-graphs-heuristic/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/566-implement-steiner-tree-approximate-on-small-graphs-heuristic/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/566-implement-steiner-tree-approximate-on-small-graphs-heuristic/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/566-implement-steiner-tree-approximate-on-small-graphs-heuristic/Solution.cs)

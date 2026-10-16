@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/591-implement-k-svd-sketch-for-dictionary-learning-outline/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/591-implement-k-svd-sketch-for-dictionary-learning-outline/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/591-implement-k-svd-sketch-for-dictionary-learning-outline/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/591-implement-k-svd-sketch-for-dictionary-learning-outline/Solution.cs)

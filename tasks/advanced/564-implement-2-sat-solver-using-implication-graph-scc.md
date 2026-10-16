@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/564-implement-2-sat-solver-using-implication-graph-scc/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/564-implement-2-sat-solver-using-implication-graph-scc/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/564-implement-2-sat-solver-using-implication-graph-scc/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/564-implement-2-sat-solver-using-implication-graph-scc/Solution.cs)

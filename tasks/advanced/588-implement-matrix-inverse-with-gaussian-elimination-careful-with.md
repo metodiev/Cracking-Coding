@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/588-implement-matrix-inverse-with-gaussian-elimination-careful-with/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/588-implement-matrix-inverse-with-gaussian-elimination-careful-with/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/588-implement-matrix-inverse-with-gaussian-elimination-careful-with/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/588-implement-matrix-inverse-with-gaussian-elimination-careful-with/Solution.cs)

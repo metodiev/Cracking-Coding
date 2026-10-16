@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept/Solution.cs)

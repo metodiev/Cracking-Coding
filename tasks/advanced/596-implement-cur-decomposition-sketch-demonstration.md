@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/596-implement-cur-decomposition-sketch-demonstration/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/596-implement-cur-decomposition-sketch-demonstration/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/596-implement-cur-decomposition-sketch-demonstration/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/596-implement-cur-decomposition-sketch-demonstration/Solution.cs)

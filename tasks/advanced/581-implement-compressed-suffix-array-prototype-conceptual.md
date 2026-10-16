@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/581-implement-compressed-suffix-array-prototype-conceptual/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/581-implement-compressed-suffix-array-prototype-conceptual/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/581-implement-compressed-suffix-array-prototype-conceptual/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/581-implement-compressed-suffix-array-prototype-conceptual/Solution.cs)

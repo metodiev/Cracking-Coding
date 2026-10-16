@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics/Solution.cs)

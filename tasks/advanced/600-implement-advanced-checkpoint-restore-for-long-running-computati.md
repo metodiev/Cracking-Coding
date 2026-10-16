@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/600-implement-advanced-checkpoint-restore-for-long-running-computati/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/600-implement-advanced-checkpoint-restore-for-long-running-computati/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/600-implement-advanced-checkpoint-restore-for-long-running-computati/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/600-implement-advanced-checkpoint-restore-for-long-running-computati/Solution.cs)

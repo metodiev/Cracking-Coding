@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/570-implement-linear-programming-simplex-pivot-demonstration/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/570-implement-linear-programming-simplex-pivot-demonstration/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/570-implement-linear-programming-simplex-pivot-demonstration/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/570-implement-linear-programming-simplex-pivot-demonstration/Solution.cs)

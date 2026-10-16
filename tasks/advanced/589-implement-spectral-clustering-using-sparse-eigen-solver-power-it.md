@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/589-implement-spectral-clustering-using-sparse-eigen-solver-power-it/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/589-implement-spectral-clustering-using-sparse-eigen-solver-power-it/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/589-implement-spectral-clustering-using-sparse-eigen-solver-power-it/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/589-implement-spectral-clustering-using-sparse-eigen-solver-power-it/Solution.cs)

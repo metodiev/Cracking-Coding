@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/558-implement-boolean-matrix-multiplication-optimization-using-bitse/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/558-implement-boolean-matrix-multiplication-optimization-using-bitse/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/558-implement-boolean-matrix-multiplication-optimization-using-bitse/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/558-implement-boolean-matrix-multiplication-optimization-using-bitse/Solution.cs)

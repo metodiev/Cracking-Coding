@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/579-implement-wavelet-tree-for-strings-rank-select/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/579-implement-wavelet-tree-for-strings-rank-select/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/579-implement-wavelet-tree-for-strings-rank-select/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/579-implement-wavelet-tree-for-strings-rank-select/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/583-implement-compressed-persistent-trie-for-integers-binary-trie-pe/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/583-implement-compressed-persistent-trie-for-integers-binary-trie-pe/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/583-implement-compressed-persistent-trie-for-integers-binary-trie-pe/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/583-implement-compressed-persistent-trie-for-integers-binary-trie-pe/Solution.cs)

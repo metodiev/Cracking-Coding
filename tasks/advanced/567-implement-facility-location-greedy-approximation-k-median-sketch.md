@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/advanced/567-implement-facility-location-greedy-approximation-k-median-sketch/solution.py)
+- Java: [Solution.java](../../solutions/java/advanced/567-implement-facility-location-greedy-approximation-k-median-sketch/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/advanced/567-implement-facility-location-greedy-approximation-k-median-sketch/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/advanced/567-implement-facility-location-greedy-approximation-k-median-sketch/Solution.cs)
