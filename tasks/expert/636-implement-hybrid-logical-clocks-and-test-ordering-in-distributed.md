@@ -3,6 +3,7 @@
 - **Number:** 636
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed.md](../../tutorials/tasks/expert/636-implement-hybrid-logical-clocks-and-test-ordering-in-distributed.md)
 
 ## Solutions
 

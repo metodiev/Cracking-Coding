@@ -3,6 +3,7 @@
 - **Number:** 688
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [688-implement-distance-vector-routing-rip-with-split-horizon.md](../../tutorials/tasks/expert/688-implement-distance-vector-routing-rip-with-split-horizon.md)
 
 ## Solutions
 

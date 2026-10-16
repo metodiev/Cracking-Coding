@@ -3,6 +3,7 @@
 - **Number:** 626
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [626-implement-work-stealing-deque-chase-lev-for-task-scheduler.md](../../tutorials/tasks/expert/626-implement-work-stealing-deque-chase-lev-for-task-scheduler.md)
 
 ## Solutions
 

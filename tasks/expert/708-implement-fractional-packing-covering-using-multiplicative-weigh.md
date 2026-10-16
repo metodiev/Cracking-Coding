@@ -3,6 +3,7 @@
 - **Number:** 708
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [708-implement-fractional-packing-covering-using-multiplicative-weigh.md](../../tutorials/tasks/expert/708-implement-fractional-packing-covering-using-multiplicative-weigh.md)
 
 ## Solutions
 

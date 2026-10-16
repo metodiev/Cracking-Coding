@@ -3,6 +3,7 @@
 - **Number:** 665
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [665-implement-operational-transform-with-intention-preservation-test.md](../../tutorials/tasks/expert/665-implement-operational-transform-with-intention-preservation-test.md)
 
 ## Solutions
 

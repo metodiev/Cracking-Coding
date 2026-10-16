@@ -3,6 +3,7 @@
 - **Number:** 768
 - **Tier:** Expert
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [768-implement-skyline-queries-in-multi-criteria-optimization-pareto.md](../../tutorials/tasks/expert/768-implement-skyline-queries-in-multi-criteria-optimization-pareto.md)
 
 ## Solutions
 

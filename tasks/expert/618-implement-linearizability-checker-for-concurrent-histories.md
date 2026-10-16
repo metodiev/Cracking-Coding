@@ -3,6 +3,7 @@
 - **Number:** 618
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [618-implement-linearizability-checker-for-concurrent-histories.md](../../tutorials/tasks/expert/618-implement-linearizability-checker-for-concurrent-histories.md)
 
 ## Solutions
 

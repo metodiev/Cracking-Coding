@@ -3,6 +3,7 @@
 - **Number:** 645
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [645-implement-materialized-view-maintenance-incremental-algorithm.md](../../tutorials/tasks/expert/645-implement-materialized-view-maintenance-incremental-algorithm.md)
 
 ## Solutions
 

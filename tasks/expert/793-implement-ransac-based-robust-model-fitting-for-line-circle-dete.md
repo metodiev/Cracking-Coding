@@ -3,6 +3,7 @@
 - **Number:** 793
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [793-implement-ransac-based-robust-model-fitting-for-line-circle-dete.md](../../tutorials/tasks/expert/793-implement-ransac-based-robust-model-fitting-for-line-circle-dete.md)
 
 ## Solutions
 

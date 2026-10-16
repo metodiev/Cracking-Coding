@@ -3,6 +3,7 @@
 - **Number:** 692
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [692-implement-reliable-ordered-multicast-with-failure-handling.md](../../tutorials/tasks/expert/692-implement-reliable-ordered-multicast-with-failure-handling.md)
 
 ## Solutions
 

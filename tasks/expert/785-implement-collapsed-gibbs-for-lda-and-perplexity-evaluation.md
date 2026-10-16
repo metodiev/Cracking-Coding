@@ -3,6 +3,7 @@
 - **Number:** 785
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation.md](../../tutorials/tasks/expert/785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation.md)
 
 ## Solutions
 

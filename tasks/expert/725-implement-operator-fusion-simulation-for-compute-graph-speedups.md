@@ -3,6 +3,7 @@
 - **Number:** 725
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [725-implement-operator-fusion-simulation-for-compute-graph-speedups.md](../../tutorials/tasks/expert/725-implement-operator-fusion-simulation-for-compute-graph-speedups.md)
 
 ## Solutions
 

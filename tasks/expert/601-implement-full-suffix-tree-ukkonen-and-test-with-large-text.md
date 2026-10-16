@@ -3,6 +3,7 @@
 - **Number:** 601
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [601-implement-full-suffix-tree-ukkonen-and-test-with-large-text.md](../../tutorials/tasks/expert/601-implement-full-suffix-tree-ukkonen-and-test-with-large-text.md)
 
 ## Solutions
 

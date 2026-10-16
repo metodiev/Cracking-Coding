@@ -3,6 +3,7 @@
 - **Number:** 763
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [763-implement-advanced-index-structures-for-full-text-search-inverte.md](../../tutorials/tasks/expert/763-implement-advanced-index-structures-for-full-text-search-inverte.md)
 
 ## Solutions
 

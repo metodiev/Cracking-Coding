@@ -3,6 +3,7 @@
 - **Number:** 648
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [648-implement-vectorized-execution-for-simple-sql-operators.md](../../tutorials/tasks/expert/648-implement-vectorized-execution-for-simple-sql-operators.md)
 
 ## Solutions
 

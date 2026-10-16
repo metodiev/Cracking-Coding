@@ -3,6 +3,7 @@
 - **Number:** 723
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [723-implement-automatic-batching-microbatch-merging-skeleton.md](../../tutorials/tasks/expert/723-implement-automatic-batching-microbatch-merging-skeleton.md)
 
 ## Solutions
 

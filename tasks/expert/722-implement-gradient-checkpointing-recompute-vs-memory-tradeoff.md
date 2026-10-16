@@ -3,6 +3,7 @@
 - **Number:** 722
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [722-implement-gradient-checkpointing-recompute-vs-memory-tradeoff.md](../../tutorials/tasks/expert/722-implement-gradient-checkpointing-recompute-vs-memory-tradeoff.md)
 
 ## Solutions
 

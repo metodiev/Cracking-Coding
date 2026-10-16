@@ -3,6 +3,7 @@
 - **Number:** 734
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [734-implement-fast-multipole-method-conceptual-small-demo.md](../../tutorials/tasks/expert/734-implement-fast-multipole-method-conceptual-small-demo.md)
 
 ## Solutions
 

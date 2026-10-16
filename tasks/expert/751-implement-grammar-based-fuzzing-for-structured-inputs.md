@@ -3,6 +3,7 @@
 - **Number:** 751
 - **Tier:** Expert
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [751-implement-grammar-based-fuzzing-for-structured-inputs.md](../../tutorials/tasks/expert/751-implement-grammar-based-fuzzing-for-structured-inputs.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 679
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [679-implement-transactional-memory-conflict-manager-and-bench.md](../../tutorials/tasks/expert/679-implement-transactional-memory-conflict-manager-and-bench.md)
 
 ## Solutions
 

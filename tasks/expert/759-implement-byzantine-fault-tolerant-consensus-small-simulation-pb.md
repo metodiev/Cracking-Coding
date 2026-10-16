@@ -3,6 +3,7 @@
 - **Number:** 759
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [759-implement-byzantine-fault-tolerant-consensus-small-simulation-pb.md](../../tutorials/tasks/expert/759-implement-byzantine-fault-tolerant-consensus-small-simulation-pb.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 770
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co.md](../../tutorials/tasks/expert/770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co.md)
 
 ## Solutions
 

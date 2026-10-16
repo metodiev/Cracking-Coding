@@ -3,6 +3,7 @@
 - **Number:** 699
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [699-implement-gpu-style-parallel-prefix-sum-algorithm-simulation.md](../../tutorials/tasks/expert/699-implement-gpu-style-parallel-prefix-sum-algorithm-simulation.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 664
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [664-implement-crdt-based-collaborative-editor-with-undo-support.md](../../tutorials/tasks/expert/664-implement-crdt-based-collaborative-editor-with-undo-support.md)
 
 ## Solutions
 

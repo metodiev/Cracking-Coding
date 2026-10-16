@@ -3,6 +3,7 @@
 - **Number:** 607
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [607-implement-external-memory-suffix-array-construction-disk-based.md](../../tutorials/tasks/expert/607-implement-external-memory-suffix-array-construction-disk-based.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 634
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [634-implement-crdt-sequence-rga-logoot-basics-for-collaborative-edit.md](../../tutorials/tasks/expert/634-implement-crdt-sequence-rga-logoot-basics-for-collaborative-edit.md)
 
 ## Solutions
 

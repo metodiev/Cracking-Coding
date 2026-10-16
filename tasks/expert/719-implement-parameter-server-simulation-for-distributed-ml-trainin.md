@@ -3,6 +3,7 @@
 - **Number:** 719
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [719-implement-parameter-server-simulation-for-distributed-ml-trainin.md](../../tutorials/tasks/expert/719-implement-parameter-server-simulation-for-distributed-ml-trainin.md)
 
 ## Solutions
 

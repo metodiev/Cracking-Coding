@@ -3,6 +3,7 @@
 - **Number:** 710
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [710-implement-private-count-sketches-with-laplace-mechanism-simulati.md](../../tutorials/tasks/expert/710-implement-private-count-sketches-with-laplace-mechanism-simulati.md)
 
 ## Solutions
 

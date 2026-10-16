@@ -3,6 +3,7 @@
 - **Number:** 673
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [673-implement-ssa-construction-and-basic-optimizations.md](../../tutorials/tasks/expert/673-implement-ssa-construction-and-basic-optimizations.md)
 
 ## Solutions
 

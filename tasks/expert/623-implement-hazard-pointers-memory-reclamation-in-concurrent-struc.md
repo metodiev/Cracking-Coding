@@ -3,6 +3,7 @@
 - **Number:** 623
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [623-implement-hazard-pointers-memory-reclamation-in-concurrent-struc.md](../../tutorials/tasks/expert/623-implement-hazard-pointers-memory-reclamation-in-concurrent-struc.md)
 
 ## Solutions
 

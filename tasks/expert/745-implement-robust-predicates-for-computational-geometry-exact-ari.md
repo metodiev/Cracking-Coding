@@ -3,6 +3,7 @@
 - **Number:** 745
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [745-implement-robust-predicates-for-computational-geometry-exact-ari.md](../../tutorials/tasks/expert/745-implement-robust-predicates-for-computational-geometry-exact-ari.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 657
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [657-implement-distributed-join-shuffle-simulation-in-map-reduce.md](../../tutorials/tasks/expert/657-implement-distributed-join-shuffle-simulation-in-map-reduce.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 619
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [619-implement-formal-model-for-happens-before-and-verify.md](../../tutorials/tasks/expert/619-implement-formal-model-for-happens-before-and-verify.md)
 
 ## Solutions
 

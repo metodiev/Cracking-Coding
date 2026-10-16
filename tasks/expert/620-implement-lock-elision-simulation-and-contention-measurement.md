@@ -3,6 +3,7 @@
 - **Number:** 620
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [620-implement-lock-elision-simulation-and-contention-measurement.md](../../tutorials/tasks/expert/620-implement-lock-elision-simulation-and-contention-measurement.md)
 
 ## Solutions
 

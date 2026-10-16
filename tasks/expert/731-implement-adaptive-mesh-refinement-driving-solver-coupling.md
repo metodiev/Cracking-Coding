@@ -3,6 +3,7 @@
 - **Number:** 731
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [731-implement-adaptive-mesh-refinement-driving-solver-coupling.md](../../tutorials/tasks/expert/731-implement-adaptive-mesh-refinement-driving-solver-coupling.md)
 
 ## Solutions
 

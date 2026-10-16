@@ -3,6 +3,7 @@
 - **Number:** 627
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [627-implement-transactional-key-value-store-with-two-phase-commit-si.md](../../tutorials/tasks/expert/627-implement-transactional-key-value-store-with-two-phase-commit-si.md)
 
 ## Solutions
 

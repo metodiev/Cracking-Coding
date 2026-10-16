@@ -3,6 +3,7 @@
 - **Number:** 647
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [647-implement-column-store-compressed-page-layout-and-predicate-push.md](../../tutorials/tasks/expert/647-implement-column-store-compressed-page-layout-and-predicate-push.md)
 
 ## Solutions
 

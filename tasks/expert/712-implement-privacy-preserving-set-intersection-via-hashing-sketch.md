@@ -3,6 +3,7 @@
 - **Number:** 712
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [712-implement-privacy-preserving-set-intersection-via-hashing-sketch.md](../../tutorials/tasks/expert/712-implement-privacy-preserving-set-intersection-via-hashing-sketch.md)
 
 ## Solutions
 

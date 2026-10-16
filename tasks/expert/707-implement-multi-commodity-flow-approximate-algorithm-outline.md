@@ -3,6 +3,7 @@
 - **Number:** 707
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [707-implement-multi-commodity-flow-approximate-algorithm-outline.md](../../tutorials/tasks/expert/707-implement-multi-commodity-flow-approximate-algorithm-outline.md)
 
 ## Solutions
 

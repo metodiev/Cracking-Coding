@@ -3,6 +3,7 @@
 - **Number:** 756
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [756-implement-side-channel-resistant-constant-time-modular-exponenti.md](../../tutorials/tasks/expert/756-implement-side-channel-resistant-constant-time-modular-exponenti.md)
 
 ## Solutions
 

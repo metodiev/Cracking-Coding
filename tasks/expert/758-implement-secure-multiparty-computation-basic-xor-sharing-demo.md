@@ -3,6 +3,7 @@
 - **Number:** 758
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [758-implement-secure-multiparty-computation-basic-xor-sharing-demo.md](../../tutorials/tasks/expert/758-implement-secure-multiparty-computation-basic-xor-sharing-demo.md)
 
 ## Solutions
 

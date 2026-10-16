@@ -3,6 +3,7 @@
 - **Number:** 683
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu.md](../../tutorials/tasks/expert/683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu.md)
 
 ## Solutions
 

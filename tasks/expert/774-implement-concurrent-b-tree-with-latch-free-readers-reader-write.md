@@ -3,6 +3,7 @@
 - **Number:** 774
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [774-implement-concurrent-b-tree-with-latch-free-readers-reader-write.md](../../tutorials/tasks/expert/774-implement-concurrent-b-tree-with-latch-free-readers-reader-write.md)
 
 ## Solutions
 

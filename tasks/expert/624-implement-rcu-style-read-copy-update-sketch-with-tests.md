@@ -3,6 +3,7 @@
 - **Number:** 624
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [624-implement-rcu-style-read-copy-update-sketch-with-tests.md](../../tutorials/tasks/expert/624-implement-rcu-style-read-copy-update-sketch-with-tests.md)
 
 ## Solutions
 

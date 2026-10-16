@@ -3,6 +3,7 @@
 - **Number:** 654
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [654-implement-workload-driven-index-selection-greedy-heuristic.md](../../tutorials/tasks/expert/654-implement-workload-driven-index-selection-greedy-heuristic.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 670
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [670-implement-resource-allocation-graph-and-banker-s-algorithm-simul.md](../../tutorials/tasks/expert/670-implement-resource-allocation-graph-and-banker-s-algorithm-simul.md)
 
 ## Solutions
 

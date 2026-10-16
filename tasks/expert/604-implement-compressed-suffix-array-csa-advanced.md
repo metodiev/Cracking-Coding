@@ -3,6 +3,7 @@
 - **Number:** 604
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [604-implement-compressed-suffix-array-csa-advanced.md](../../tutorials/tasks/expert/604-implement-compressed-suffix-array-csa-advanced.md)
 
 ## Solutions
 

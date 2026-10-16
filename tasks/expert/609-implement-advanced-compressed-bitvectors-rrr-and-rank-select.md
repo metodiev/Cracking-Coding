@@ -3,6 +3,7 @@
 - **Number:** 609
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [609-implement-advanced-compressed-bitvectors-rrr-and-rank-select.md](../../tutorials/tasks/expert/609-implement-advanced-compressed-bitvectors-rrr-and-rank-select.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 790
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg.md](../../tutorials/tasks/expert/790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg.md)
 
 ## Solutions
 

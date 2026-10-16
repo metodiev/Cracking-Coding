@@ -3,6 +3,7 @@
 - **Number:** 735
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [735-implement-advanced-geometric-data-structures-dynamic-convex-hull.md](../../tutorials/tasks/expert/735-implement-advanced-geometric-data-structures-dynamic-convex-hull.md)
 
 ## Solutions
 

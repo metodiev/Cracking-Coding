@@ -3,6 +3,7 @@
 - **Number:** 663
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [663-implement-snapshot-based-log-compaction-and-recovery-for-replica.md](../../tutorials/tasks/expert/663-implement-snapshot-based-log-compaction-and-recovery-for-replica.md)
 
 ## Solutions
 

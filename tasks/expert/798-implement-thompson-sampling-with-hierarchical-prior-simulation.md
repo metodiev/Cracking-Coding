@@ -3,6 +3,7 @@
 - **Number:** 798
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [798-implement-thompson-sampling-with-hierarchical-prior-simulation.md](../../tutorials/tasks/expert/798-implement-thompson-sampling-with-hierarchical-prior-simulation.md)
 
 ## Solutions
 

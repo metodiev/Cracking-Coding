@@ -3,6 +3,7 @@
 - **Number:** 628
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [628-implement-distributed-consensus-simulation-with-network-partitio.md](../../tutorials/tasks/expert/628-implement-distributed-consensus-simulation-with-network-partitio.md)
 
 ## Solutions
 

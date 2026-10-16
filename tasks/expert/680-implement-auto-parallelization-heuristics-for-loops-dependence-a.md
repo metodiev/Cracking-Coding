@@ -3,6 +3,7 @@
 - **Number:** 680
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [680-implement-auto-parallelization-heuristics-for-loops-dependence-a.md](../../tutorials/tasks/expert/680-implement-auto-parallelization-heuristics-for-loops-dependence-a.md)
 
 ## Solutions
 

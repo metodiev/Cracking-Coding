@@ -3,6 +3,7 @@
 - **Number:** 603
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of.md](../../tutorials/tasks/expert/603-implement-generalized-suffix-tree-for-multiple-texts-and-lcs-of.md)
 
 ## Solutions
 

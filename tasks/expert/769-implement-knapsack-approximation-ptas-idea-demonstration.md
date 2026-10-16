@@ -3,6 +3,7 @@
 - **Number:** 769
 - **Tier:** Expert
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [769-implement-knapsack-approximation-ptas-idea-demonstration.md](../../tutorials/tasks/expert/769-implement-knapsack-approximation-ptas-idea-demonstration.md)
 
 ## Solutions
 

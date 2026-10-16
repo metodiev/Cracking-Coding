@@ -3,6 +3,7 @@
 - **Number:** 606
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [606-implement-wavelet-matrix-for-large-alphabet-rank-select.md](../../tutorials/tasks/expert/606-implement-wavelet-matrix-for-large-alphabet-rank-select.md)
 
 ## Solutions
 

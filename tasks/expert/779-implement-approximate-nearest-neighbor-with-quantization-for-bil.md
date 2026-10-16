@@ -3,6 +3,7 @@
 - **Number:** 779
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [779-implement-approximate-nearest-neighbor-with-quantization-for-bil.md](../../tutorials/tasks/expert/779-implement-approximate-nearest-neighbor-with-quantization-for-bil.md)
 
 ## Solutions
 

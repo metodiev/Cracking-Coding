@@ -3,6 +3,7 @@
 - **Number:** 650
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [650-implement-online-aggregation-progressive-estimator.md](../../tutorials/tasks/expert/650-implement-online-aggregation-progressive-estimator.md)
 
 ## Solutions
 

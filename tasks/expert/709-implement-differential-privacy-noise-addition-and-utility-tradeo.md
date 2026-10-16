@@ -3,6 +3,7 @@
 - **Number:** 709
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [709-implement-differential-privacy-noise-addition-and-utility-tradeo.md](../../tutorials/tasks/expert/709-implement-differential-privacy-noise-addition-and-utility-tradeo.md)
 
 ## Solutions
 

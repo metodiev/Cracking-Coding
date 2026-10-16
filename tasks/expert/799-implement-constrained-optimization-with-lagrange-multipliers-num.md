@@ -3,6 +3,7 @@
 - **Number:** 799
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [799-implement-constrained-optimization-with-lagrange-multipliers-num.md](../../tutorials/tasks/expert/799-implement-constrained-optimization-with-lagrange-multipliers-num.md)
 
 ## Solutions
 

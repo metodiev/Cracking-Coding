@@ -3,6 +3,7 @@
 - **Number:** 782
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [782-implement-probabilistic-graphical-models-inference-belief-propag.md](../../tutorials/tasks/expert/782-implement-probabilistic-graphical-models-inference-belief-propag.md)
 
 ## Solutions
 

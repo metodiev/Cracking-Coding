@@ -3,6 +3,7 @@
 - **Number:** 729
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [729-implement-numeric-stability-tests-for-pivot-strategies-in-lu.md](../../tutorials/tasks/expert/729-implement-numeric-stability-tests-for-pivot-strategies-in-lu.md)
 
 ## Solutions
 

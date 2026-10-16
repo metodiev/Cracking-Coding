@@ -3,6 +3,7 @@
 - **Number:** 602
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [602-implement-compressed-suffix-automaton-with-substring-queries-opt.md](../../tutorials/tasks/expert/602-implement-compressed-suffix-automaton-with-substring-queries-opt.md)
 
 ## Solutions
 

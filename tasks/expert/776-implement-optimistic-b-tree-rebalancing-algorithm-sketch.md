@@ -3,6 +3,7 @@
 - **Number:** 776
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [776-implement-optimistic-b-tree-rebalancing-algorithm-sketch.md](../../tutorials/tasks/expert/776-implement-optimistic-b-tree-rebalancing-algorithm-sketch.md)
 
 ## Solutions
 

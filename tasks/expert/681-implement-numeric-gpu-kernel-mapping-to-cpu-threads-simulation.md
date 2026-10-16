@@ -3,6 +3,7 @@
 - **Number:** 681
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [681-implement-numeric-gpu-kernel-mapping-to-cpu-threads-simulation.md](../../tutorials/tasks/expert/681-implement-numeric-gpu-kernel-mapping-to-cpu-threads-simulation.md)
 
 ## Solutions
 

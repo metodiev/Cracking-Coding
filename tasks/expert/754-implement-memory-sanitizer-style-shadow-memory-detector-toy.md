@@ -3,6 +3,7 @@
 - **Number:** 754
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [754-implement-memory-sanitizer-style-shadow-memory-detector-toy.md](../../tutorials/tasks/expert/754-implement-memory-sanitizer-style-shadow-memory-detector-toy.md)
 
 ## Solutions
 

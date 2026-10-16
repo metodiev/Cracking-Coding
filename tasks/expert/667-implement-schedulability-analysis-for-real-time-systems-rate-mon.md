@@ -3,6 +3,7 @@
 - **Number:** 667
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [667-implement-schedulability-analysis-for-real-time-systems-rate-mon.md](../../tutorials/tasks/expert/667-implement-schedulability-analysis-for-real-time-systems-rate-mon.md)
 
 ## Solutions
 

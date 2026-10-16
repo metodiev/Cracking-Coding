@@ -3,6 +3,7 @@
 - **Number:** 764
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu.md](../../tutorials/tasks/expert/764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu.md)
 
 ## Solutions
 

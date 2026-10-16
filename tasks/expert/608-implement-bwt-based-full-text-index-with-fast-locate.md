@@ -3,6 +3,7 @@
 - **Number:** 608
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [608-implement-bwt-based-full-text-index-with-fast-locate.md](../../tutorials/tasks/expert/608-implement-bwt-based-full-text-index-with-fast-locate.md)
 
 ## Solutions
 

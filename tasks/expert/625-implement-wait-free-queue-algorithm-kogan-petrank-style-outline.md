@@ -3,6 +3,7 @@
 - **Number:** 625
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline.md](../../tutorials/tasks/expert/625-implement-wait-free-queue-algorithm-kogan-petrank-style-outline.md)
 
 ## Solutions
 

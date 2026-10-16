@@ -3,6 +3,7 @@
 - **Number:** 610
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [610-implement-succinct-tree-representations-dfuds-and-navigation-ops.md](../../tutorials/tasks/expert/610-implement-succinct-tree-representations-dfuds-and-navigation-ops.md)
 
 ## Solutions
 

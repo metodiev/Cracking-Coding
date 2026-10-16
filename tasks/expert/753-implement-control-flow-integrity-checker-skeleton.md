@@ -3,6 +3,7 @@
 - **Number:** 753
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [753-implement-control-flow-integrity-checker-skeleton.md](../../tutorials/tasks/expert/753-implement-control-flow-integrity-checker-skeleton.md)
 
 ## Solutions
 

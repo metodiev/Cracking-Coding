@@ -3,6 +3,7 @@
 - **Number:** 739
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [739-implement-prm-probabilistic-roadmap-for-motion-planning-small.md](../../tutorials/tasks/expert/739-implement-prm-probabilistic-roadmap-for-motion-planning-small.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 727
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu.md](../../tutorials/tasks/expert/727-implement-strassen-matrix-multiplication-and-recursion-cutoff-tu.md)
 
 ## Solutions
 

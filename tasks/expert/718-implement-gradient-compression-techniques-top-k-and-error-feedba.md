@@ -3,6 +3,7 @@
 - **Number:** 718
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [718-implement-gradient-compression-techniques-top-k-and-error-feedba.md](../../tutorials/tasks/expert/718-implement-gradient-compression-techniques-top-k-and-error-feedba.md)
 
 ## Solutions
 

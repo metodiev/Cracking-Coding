@@ -3,6 +3,7 @@
 - **Number:** 781
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [781-implement-distributed-join-planning-with-cardinality-estimation.md](../../tutorials/tasks/expert/781-implement-distributed-join-planning-with-cardinality-estimation.md)
 
 ## Solutions
 

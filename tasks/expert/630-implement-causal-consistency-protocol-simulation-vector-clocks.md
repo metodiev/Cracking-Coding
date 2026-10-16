@@ -3,6 +3,7 @@
 - **Number:** 630
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [630-implement-causal-consistency-protocol-simulation-vector-clocks.md](../../tutorials/tasks/expert/630-implement-causal-consistency-protocol-simulation-vector-clocks.md)
 
 ## Solutions
 

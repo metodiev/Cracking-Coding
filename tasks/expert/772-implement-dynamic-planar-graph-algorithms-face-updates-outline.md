@@ -3,6 +3,7 @@
 - **Number:** 772
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [772-implement-dynamic-planar-graph-algorithms-face-updates-outline.md](../../tutorials/tasks/expert/772-implement-dynamic-planar-graph-algorithms-face-updates-outline.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 748
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [748-implement-smt-solver-front-end-sketch-theory-combination-simple.md](../../tutorials/tasks/expert/748-implement-smt-solver-front-end-sketch-theory-combination-simple.md)
 
 ## Solutions
 

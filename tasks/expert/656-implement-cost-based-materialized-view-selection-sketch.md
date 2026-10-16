@@ -3,6 +3,7 @@
 - **Number:** 656
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [656-implement-cost-based-materialized-view-selection-sketch.md](../../tutorials/tasks/expert/656-implement-cost-based-materialized-view-selection-sketch.md)
 
 ## Solutions
 

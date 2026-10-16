@@ -3,6 +3,7 @@
 - **Number:** 684
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [684-implement-longest-prefix-match-lookup-optimized-binary-trie.md](../../tutorials/tasks/expert/684-implement-longest-prefix-match-lookup-optimized-binary-trie.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 721
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [721-implement-checkpoint-compression-and-incremental-checkpointing.md](../../tutorials/tasks/expert/721-implement-checkpoint-compression-and-incremental-checkpointing.md)
 
 ## Solutions
 

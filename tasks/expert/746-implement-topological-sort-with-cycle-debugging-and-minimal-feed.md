@@ -3,6 +3,7 @@
 - **Number:** 746
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [746-implement-topological-sort-with-cycle-debugging-and-minimal-feed.md](../../tutorials/tasks/expert/746-implement-topological-sort-with-cycle-debugging-and-minimal-feed.md)
 
 ## Solutions
 

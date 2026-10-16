@@ -3,6 +3,7 @@
 - **Number:** 652
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [652-implement-bitmap-index-and-fast-and-or-operations.md](../../tutorials/tasks/expert/652-implement-bitmap-index-and-fast-and-or-operations.md)
 
 ## Solutions
 

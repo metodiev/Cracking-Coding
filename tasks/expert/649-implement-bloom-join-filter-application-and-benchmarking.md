@@ -3,6 +3,7 @@
 - **Number:** 649
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [649-implement-bloom-join-filter-application-and-benchmarking.md](../../tutorials/tasks/expert/649-implement-bloom-join-filter-application-and-benchmarking.md)
 
 ## Solutions
 

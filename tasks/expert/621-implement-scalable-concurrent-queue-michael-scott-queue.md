@@ -3,6 +3,7 @@
 - **Number:** 621
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [621-implement-scalable-concurrent-queue-michael-scott-queue.md](../../tutorials/tasks/expert/621-implement-scalable-concurrent-queue-michael-scott-queue.md)
 
 ## Solutions
 

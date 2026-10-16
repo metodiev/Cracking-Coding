@@ -3,6 +3,7 @@
 - **Number:** 766
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [766-implement-dense-vector-index-with-hnsw-and-quantization-integrat.md](../../tutorials/tasks/expert/766-implement-dense-vector-index-with-hnsw-and-quantization-integrat.md)
 
 ## Solutions
 

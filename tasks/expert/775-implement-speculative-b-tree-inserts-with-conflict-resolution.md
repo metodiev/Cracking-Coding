@@ -3,6 +3,7 @@
 - **Number:** 775
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [775-implement-speculative-b-tree-inserts-with-conflict-resolution.md](../../tutorials/tasks/expert/775-implement-speculative-b-tree-inserts-with-conflict-resolution.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 682
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [682-implement-map-reduce-optimization-for-skewed-keys-combiner-parti.md](../../tutorials/tasks/expert/682-implement-map-reduce-optimization-for-skewed-keys-combiner-parti.md)
 
 ## Solutions
 

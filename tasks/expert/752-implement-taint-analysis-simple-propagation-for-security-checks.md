@@ -3,6 +3,7 @@
 - **Number:** 752
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [752-implement-taint-analysis-simple-propagation-for-security-checks.md](../../tutorials/tasks/expert/752-implement-taint-analysis-simple-propagation-for-security-checks.md)
 
 ## Solutions
 

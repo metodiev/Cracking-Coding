@@ -3,6 +3,7 @@
 - **Number:** 613
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [613-implement-fully-persistent-union-find-complex.md](../../tutorials/tasks/expert/613-implement-fully-persistent-union-find-complex.md)
 
 ## Solutions
 

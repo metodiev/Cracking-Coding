@@ -3,6 +3,7 @@
 - **Number:** 792
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [792-implement-particle-filter-localization-for-robot.md](../../tutorials/tasks/expert/792-implement-particle-filter-localization-for-robot.md)
 
 ## Solutions
 

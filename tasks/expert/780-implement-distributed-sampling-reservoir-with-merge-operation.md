@@ -3,6 +3,7 @@
 - **Number:** 780
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [780-implement-distributed-sampling-reservoir-with-merge-operation.md](../../tutorials/tasks/expert/780-implement-distributed-sampling-reservoir-with-merge-operation.md)
 
 ## Solutions
 

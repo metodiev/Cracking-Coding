@@ -3,6 +3,7 @@
 - **Number:** 700
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [700-implement-work-partitioning-heuristics-for-heterogeneous-cluster.md](../../tutorials/tasks/expert/700-implement-work-partitioning-heuristics-for-heterogeneous-cluster.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 669
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [669-implement-earliest-deadline-first-scheduler-simulator-and-feasib.md](../../tutorials/tasks/expert/669-implement-earliest-deadline-first-scheduler-simulator-and-feasib.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 615
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [615-implement-transactional-memory-simulator-basics.md](../../tutorials/tasks/expert/615-implement-transactional-memory-simulator-basics.md)
 
 ## Solutions
 

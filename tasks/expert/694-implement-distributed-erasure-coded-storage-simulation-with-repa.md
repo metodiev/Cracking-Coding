@@ -3,6 +3,7 @@
 - **Number:** 694
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [694-implement-distributed-erasure-coded-storage-simulation-with-repa.md](../../tutorials/tasks/expert/694-implement-distributed-erasure-coded-storage-simulation-with-repa.md)
 
 ## Solutions
 

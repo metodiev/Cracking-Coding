@@ -3,6 +3,7 @@
 - **Number:** 675
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [675-implement-instruction-scheduling-heuristics-for-pipelined-cpu-mo.md](../../tutorials/tasks/expert/675-implement-instruction-scheduling-heuristics-for-pipelined-cpu-mo.md)
 
 ## Solutions
 

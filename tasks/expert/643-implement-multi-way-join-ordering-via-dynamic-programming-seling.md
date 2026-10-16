@@ -3,6 +3,7 @@
 - **Number:** 643
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [643-implement-multi-way-join-ordering-via-dynamic-programming-seling.md](../../tutorials/tasks/expert/643-implement-multi-way-join-ordering-via-dynamic-programming-seling.md)
 
 ## Solutions
 

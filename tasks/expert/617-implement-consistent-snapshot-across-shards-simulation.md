@@ -3,6 +3,7 @@
 - **Number:** 617
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [617-implement-consistent-snapshot-across-shards-simulation.md](../../tutorials/tasks/expert/617-implement-consistent-snapshot-across-shards-simulation.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 797
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [797-implement-multi-armed-bandit-with-contextual-features-contextual.md](../../tutorials/tasks/expert/797-implement-multi-armed-bandit-with-contextual-features-contextual.md)
 
 ## Solutions
 

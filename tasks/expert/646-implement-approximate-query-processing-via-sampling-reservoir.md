@@ -3,6 +3,7 @@
 - **Number:** 646
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [646-implement-approximate-query-processing-via-sampling-reservoir.md](../../tutorials/tasks/expert/646-implement-approximate-query-processing-via-sampling-reservoir.md)
 
 ## Solutions
 

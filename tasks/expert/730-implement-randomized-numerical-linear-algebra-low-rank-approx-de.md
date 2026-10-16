@@ -3,6 +3,7 @@
 - **Number:** 730
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [730-implement-randomized-numerical-linear-algebra-low-rank-approx-de.md](../../tutorials/tasks/expert/730-implement-randomized-numerical-linear-algebra-low-rank-approx-de.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 632
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [632-implement-anti-entropy-merkle-tree-reconciliation-demo.md](../../tutorials/tasks/expert/632-implement-anti-entropy-merkle-tree-reconciliation-demo.md)
 
 ## Solutions
 

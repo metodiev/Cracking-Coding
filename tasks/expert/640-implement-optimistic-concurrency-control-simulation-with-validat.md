@@ -3,6 +3,7 @@
 - **Number:** 640
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [640-implement-optimistic-concurrency-control-simulation-with-validat.md](../../tutorials/tasks/expert/640-implement-optimistic-concurrency-control-simulation-with-validat.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 713
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [713-implement-secure-aggregation-protocol-sketch-for-federated-avera.md](../../tutorials/tasks/expert/713-implement-secure-aggregation-protocol-sketch-for-federated-avera.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 686
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [686-implement-bgp-path-vector-simplified-policy-simulation.md](../../tutorials/tasks/expert/686-implement-bgp-path-vector-simplified-policy-simulation.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 716
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [716-implement-quantized-neural-network-inference-simulation-8-bit.md](../../tutorials/tasks/expert/716-implement-quantized-neural-network-inference-simulation-8-bit.md)
 
 ## Solutions
 

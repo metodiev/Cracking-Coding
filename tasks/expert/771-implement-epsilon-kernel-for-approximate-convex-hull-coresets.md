@@ -3,6 +3,7 @@
 - **Number:** 771
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [771-implement-epsilon-kernel-for-approximate-convex-hull-coresets.md](../../tutorials/tasks/expert/771-implement-epsilon-kernel-for-approximate-convex-hull-coresets.md)
 
 ## Solutions
 

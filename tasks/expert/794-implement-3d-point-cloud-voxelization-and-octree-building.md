@@ -3,6 +3,7 @@
 - **Number:** 794
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [794-implement-3d-point-cloud-voxelization-and-octree-building.md](../../tutorials/tasks/expert/794-implement-3d-point-cloud-voxelization-and-octree-building.md)
 
 ## Solutions
 

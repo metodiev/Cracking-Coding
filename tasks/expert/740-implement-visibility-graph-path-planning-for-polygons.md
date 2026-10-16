@@ -3,6 +3,7 @@
 - **Number:** 740
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [740-implement-visibility-graph-path-planning-for-polygons.md](../../tutorials/tasks/expert/740-implement-visibility-graph-path-planning-for-polygons.md)
 
 ## Solutions
 

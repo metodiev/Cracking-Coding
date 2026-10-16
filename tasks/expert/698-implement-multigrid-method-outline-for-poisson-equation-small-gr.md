@@ -3,6 +3,7 @@
 - **Number:** 698
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [698-implement-multigrid-method-outline-for-poisson-equation-small-gr.md](../../tutorials/tasks/expert/698-implement-multigrid-method-outline-for-poisson-equation-small-gr.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 741
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [741-implement-art-gallery-problem-approximation-heuristics.md](../../tutorials/tasks/expert/741-implement-art-gallery-problem-approximation-heuristics.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 733
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav.md](../../tutorials/tasks/expert/733-implement-kd-tree-based-n-body-barnes-hut-approximation-for-grav.md)
 
 ## Solutions
 

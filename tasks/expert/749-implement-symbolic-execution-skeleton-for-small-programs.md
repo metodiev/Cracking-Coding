@@ -3,6 +3,7 @@
 - **Number:** 749
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [749-implement-symbolic-execution-skeleton-for-small-programs.md](../../tutorials/tasks/expert/749-implement-symbolic-execution-skeleton-for-small-programs.md)
 
 ## Solutions
 

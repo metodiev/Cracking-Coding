@@ -3,6 +3,7 @@
 - **Number:** 662
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [662-implement-paxos-multi-decree-long-running-simulation-with-leader.md](../../tutorials/tasks/expert/662-implement-paxos-multi-decree-long-running-simulation-with-leader.md)
 
 ## Solutions
 

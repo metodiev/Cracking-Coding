@@ -3,6 +3,7 @@
 - **Number:** 660
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [660-implement-quorum-consensus-read-write-latency-optimization-trade.md](../../tutorials/tasks/expert/660-implement-quorum-consensus-read-write-latency-optimization-trade.md)
 
 ## Solutions
 

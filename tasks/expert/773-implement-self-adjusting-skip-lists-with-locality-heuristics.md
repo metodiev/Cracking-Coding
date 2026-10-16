@@ -3,6 +3,7 @@
 - **Number:** 773
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [773-implement-self-adjusting-skip-lists-with-locality-heuristics.md](../../tutorials/tasks/expert/773-implement-self-adjusting-skip-lists-with-locality-heuristics.md)
 
 ## Solutions
 

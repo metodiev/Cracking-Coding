@@ -3,6 +3,7 @@
 - **Number:** 612
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [612-implement-advanced-persistent-data-structures-with-path-copying.md](../../tutorials/tasks/expert/612-implement-advanced-persistent-data-structures-with-path-copying.md)
 
 ## Solutions
 

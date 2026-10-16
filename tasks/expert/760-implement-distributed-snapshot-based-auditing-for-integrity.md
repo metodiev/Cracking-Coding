@@ -3,6 +3,7 @@
 - **Number:** 760
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [760-implement-distributed-snapshot-based-auditing-for-integrity.md](../../tutorials/tasks/expert/760-implement-distributed-snapshot-based-auditing-for-integrity.md)
 
 ## Solutions
 

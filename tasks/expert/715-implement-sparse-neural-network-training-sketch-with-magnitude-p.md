@@ -3,6 +3,7 @@
 - **Number:** 715
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [715-implement-sparse-neural-network-training-sketch-with-magnitude-p.md](../../tutorials/tasks/expert/715-implement-sparse-neural-network-training-sketch-with-magnitude-p.md)
 
 ## Solutions
 

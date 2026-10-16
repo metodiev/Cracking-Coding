@@ -3,6 +3,7 @@
 - **Number:** 711
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [711-implement-homomorphic-encryption-simple-operations-demo-paillier.md](../../tutorials/tasks/expert/711-implement-homomorphic-encryption-simple-operations-demo-paillier.md)
 
 ## Solutions
 

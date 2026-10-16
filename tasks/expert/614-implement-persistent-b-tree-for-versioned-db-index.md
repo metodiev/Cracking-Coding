@@ -3,6 +3,7 @@
 - **Number:** 614
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [614-implement-persistent-b-tree-for-versioned-db-index.md](../../tutorials/tasks/expert/614-implement-persistent-b-tree-for-versioned-db-index.md)
 
 ## Solutions
 

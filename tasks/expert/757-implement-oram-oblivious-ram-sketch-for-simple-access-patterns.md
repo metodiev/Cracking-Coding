@@ -3,6 +3,7 @@
 - **Number:** 757
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns.md](../../tutorials/tasks/expert/757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns.md)
 
 ## Solutions
 

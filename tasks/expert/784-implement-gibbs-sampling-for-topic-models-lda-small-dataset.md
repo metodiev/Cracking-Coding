@@ -3,6 +3,7 @@
 - **Number:** 784
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [784-implement-gibbs-sampling-for-topic-models-lda-small-dataset.md](../../tutorials/tasks/expert/784-implement-gibbs-sampling-for-topic-models-lda-small-dataset.md)
 
 ## Solutions
 

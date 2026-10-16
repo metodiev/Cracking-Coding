@@ -3,6 +3,7 @@
 - **Number:** 616
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [616-implement-distributed-snapshot-algorithm-chandy-lamport.md](../../tutorials/tasks/expert/616-implement-distributed-snapshot-algorithm-chandy-lamport.md)
 
 ## Solutions
 

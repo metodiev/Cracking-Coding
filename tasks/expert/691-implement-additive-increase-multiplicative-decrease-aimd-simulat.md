@@ -3,6 +3,7 @@
 - **Number:** 691
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [691-implement-additive-increase-multiplicative-decrease-aimd-simulat.md](../../tutorials/tasks/expert/691-implement-additive-increase-multiplicative-decrease-aimd-simulat.md)
 
 ## Solutions
 

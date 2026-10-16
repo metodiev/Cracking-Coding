@@ -3,6 +3,7 @@
 - **Number:** 765
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [765-implement-approximate-nearest-neighbor-for-embeddings-at-scale-w.md](../../tutorials/tasks/expert/765-implement-approximate-nearest-neighbor-for-embeddings-at-scale-w.md)
 
 ## Solutions
 

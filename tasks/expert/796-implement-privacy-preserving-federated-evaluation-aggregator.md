@@ -3,6 +3,7 @@
 - **Number:** 796
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [796-implement-privacy-preserving-federated-evaluation-aggregator.md](../../tutorials/tasks/expert/796-implement-privacy-preserving-federated-evaluation-aggregator.md)
 
 ## Solutions
 

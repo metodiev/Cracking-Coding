@@ -3,6 +3,7 @@
 - **Number:** 777
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [777-implement-write-optimized-lsm-tuning-simulation-for-read-write-t.md](../../tutorials/tasks/expert/777-implement-write-optimized-lsm-tuning-simulation-for-read-write-t.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 655
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [655-implement-query-rewriter-for-simple-view-unfolding.md](../../tutorials/tasks/expert/655-implement-query-rewriter-for-simple-view-unfolding.md)
 
 ## Solutions
 

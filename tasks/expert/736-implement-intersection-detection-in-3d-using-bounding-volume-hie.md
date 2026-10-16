@@ -3,6 +3,7 @@
 - **Number:** 736
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [736-implement-intersection-detection-in-3d-using-bounding-volume-hie.md](../../tutorials/tasks/expert/736-implement-intersection-detection-in-3d-using-bounding-volume-hie.md)
 
 ## Solutions
 

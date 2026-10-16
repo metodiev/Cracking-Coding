@@ -3,6 +3,7 @@
 - **Number:** 728
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [728-implement-cache-oblivious-matrix-multiplication-idea-demo.md](../../tutorials/tasks/expert/728-implement-cache-oblivious-matrix-multiplication-idea-demo.md)
 
 ## Solutions
 

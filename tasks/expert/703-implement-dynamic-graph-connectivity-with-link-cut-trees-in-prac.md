@@ -3,6 +3,7 @@
 - **Number:** 703
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac.md](../../tutorials/tasks/expert/703-implement-dynamic-graph-connectivity-with-link-cut-trees-in-prac.md)
 
 ## Solutions
 

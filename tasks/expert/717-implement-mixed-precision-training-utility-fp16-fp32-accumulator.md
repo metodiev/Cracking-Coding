@@ -3,6 +3,7 @@
 - **Number:** 717
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [717-implement-mixed-precision-training-utility-fp16-fp32-accumulator.md](../../tutorials/tasks/expert/717-implement-mixed-precision-training-utility-fp16-fp32-accumulator.md)
 
 ## Solutions
 

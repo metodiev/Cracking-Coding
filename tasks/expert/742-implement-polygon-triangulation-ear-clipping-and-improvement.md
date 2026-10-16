@@ -3,6 +3,7 @@
 - **Number:** 742
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [742-implement-polygon-triangulation-ear-clipping-and-improvement.md](../../tutorials/tasks/expert/742-implement-polygon-triangulation-ear-clipping-and-improvement.md)
 
 ## Solutions
 

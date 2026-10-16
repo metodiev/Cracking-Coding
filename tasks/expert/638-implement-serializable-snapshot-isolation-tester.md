@@ -3,6 +3,7 @@
 - **Number:** 638
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [638-implement-serializable-snapshot-isolation-tester.md](../../tutorials/tasks/expert/638-implement-serializable-snapshot-isolation-tester.md)
 
 ## Solutions
 

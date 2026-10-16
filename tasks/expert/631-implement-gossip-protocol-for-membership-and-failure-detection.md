@@ -3,6 +3,7 @@
 - **Number:** 631
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [631-implement-gossip-protocol-for-membership-and-failure-detection.md](../../tutorials/tasks/expert/631-implement-gossip-protocol-for-membership-and-failure-detection.md)
 
 ## Solutions
 

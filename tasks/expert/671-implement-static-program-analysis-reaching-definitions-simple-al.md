@@ -3,6 +3,7 @@
 - **Number:** 671
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [671-implement-static-program-analysis-reaching-definitions-simple-al.md](../../tutorials/tasks/expert/671-implement-static-program-analysis-reaching-definitions-simple-al.md)
 
 ## Solutions
 

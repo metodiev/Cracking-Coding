@@ -3,6 +3,7 @@
 - **Number:** 639
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [639-implement-two-phase-locking-simulator-with-deadlock-detection.md](../../tutorials/tasks/expert/639-implement-two-phase-locking-simulator-with-deadlock-detection.md)
 
 ## Solutions
 

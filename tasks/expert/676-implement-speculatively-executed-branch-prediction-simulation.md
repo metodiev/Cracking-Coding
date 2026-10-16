@@ -3,6 +3,7 @@
 - **Number:** 676
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [676-implement-speculatively-executed-branch-prediction-simulation.md](../../tutorials/tasks/expert/676-implement-speculatively-executed-branch-prediction-simulation.md)
 
 ## Solutions
 

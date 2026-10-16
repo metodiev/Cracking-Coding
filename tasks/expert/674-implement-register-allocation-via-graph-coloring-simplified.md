@@ -3,6 +3,7 @@
 - **Number:** 674
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [674-implement-register-allocation-via-graph-coloring-simplified.md](../../tutorials/tasks/expert/674-implement-register-allocation-via-graph-coloring-simplified.md)
 
 ## Solutions
 

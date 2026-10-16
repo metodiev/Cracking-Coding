@@ -3,6 +3,7 @@
 - **Number:** 633
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [633-implement-crdt-counter-and-set-examples-operation-based-and-stat.md](../../tutorials/tasks/expert/633-implement-crdt-counter-and-set-examples-operation-based-and-stat.md)
 
 ## Solutions
 

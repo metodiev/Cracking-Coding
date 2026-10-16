@@ -3,6 +3,7 @@
 - **Number:** 658
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [658-implement-straggler-mitigation-via-speculative-execution-simulat.md](../../tutorials/tasks/expert/658-implement-straggler-mitigation-via-speculative-execution-simulat.md)
 
 ## Solutions
 

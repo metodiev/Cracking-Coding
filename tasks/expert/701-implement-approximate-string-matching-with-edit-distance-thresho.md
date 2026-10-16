@@ -3,6 +3,7 @@
 - **Number:** 701
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [701-implement-approximate-string-matching-with-edit-distance-thresho.md](../../tutorials/tasks/expert/701-implement-approximate-string-matching-with-edit-distance-thresho.md)
 
 ## Solutions
 

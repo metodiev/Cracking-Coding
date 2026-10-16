@@ -3,6 +3,7 @@
 - **Number:** 714
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [714-implement-federated-averaging-simulation-with-stragglers-and-com.md](../../tutorials/tasks/expert/714-implement-federated-averaging-simulation-with-stragglers-and-com.md)
 
 ## Solutions
 

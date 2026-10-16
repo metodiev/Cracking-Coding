@@ -3,6 +3,7 @@
 - **Number:** 791
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [791-implement-slam-small-demo-with-extended-kalman-filter-ekf-slam.md](../../tutorials/tasks/expert/791-implement-slam-small-demo-with-extended-kalman-filter-ekf-slam.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 637
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [637-implement-snapshot-isolation-anomalies-demonstrator-write-skew.md](../../tutorials/tasks/expert/637-implement-snapshot-isolation-anomalies-demonstrator-write-skew.md)
 
 ## Solutions
 

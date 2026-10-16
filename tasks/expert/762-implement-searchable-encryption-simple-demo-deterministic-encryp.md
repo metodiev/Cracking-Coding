@@ -3,6 +3,7 @@
 - **Number:** 762
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [762-implement-searchable-encryption-simple-demo-deterministic-encryp.md](../../tutorials/tasks/expert/762-implement-searchable-encryption-simple-demo-deterministic-encryp.md)
 
 ## Solutions
 

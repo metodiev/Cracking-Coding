@@ -3,6 +3,7 @@
 - **Number:** 635
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [635-implement-operational-transform-simplified-for-collaborative-tex.md](../../tutorials/tasks/expert/635-implement-operational-transform-simplified-for-collaborative-tex.md)
 
 ## Solutions
 

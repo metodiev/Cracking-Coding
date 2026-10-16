@@ -3,6 +3,7 @@
 - **Number:** 661
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [661-implement-chain-replication-simulation-for-strong-consistency.md](../../tutorials/tasks/expert/661-implement-chain-replication-simulation-for-strong-consistency.md)
 
 ## Solutions
 

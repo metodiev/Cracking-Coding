@@ -3,6 +3,7 @@
 - **Number:** 685
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [685-implement-fast-ip-routing-simulation-with-tcam-like-behavior-bit.md](../../tutorials/tasks/expert/685-implement-fast-ip-routing-simulation-with-tcam-like-behavior-bit.md)
 
 ## Solutions
 

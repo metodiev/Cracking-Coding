@@ -3,6 +3,7 @@
 - **Number:** 641
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [641-implement-advanced-query-planner-cost-model-stub-and-plan-enumer.md](../../tutorials/tasks/expert/641-implement-advanced-query-planner-cost-model-stub-and-plan-enumer.md)
 
 ## Solutions
 

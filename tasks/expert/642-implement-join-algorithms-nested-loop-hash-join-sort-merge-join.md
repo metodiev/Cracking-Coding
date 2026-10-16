@@ -3,6 +3,7 @@
 - **Number:** 642
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [642-implement-join-algorithms-nested-loop-hash-join-sort-merge-join.md](../../tutorials/tasks/expert/642-implement-join-algorithms-nested-loop-hash-join-sort-merge-join.md)
 
 ## Solutions
 

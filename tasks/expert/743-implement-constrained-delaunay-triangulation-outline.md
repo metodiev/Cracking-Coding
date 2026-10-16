@@ -3,6 +3,7 @@
 - **Number:** 743
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [743-implement-constrained-delaunay-triangulation-outline.md](../../tutorials/tasks/expert/743-implement-constrained-delaunay-triangulation-outline.md)
 
 ## Solutions
 

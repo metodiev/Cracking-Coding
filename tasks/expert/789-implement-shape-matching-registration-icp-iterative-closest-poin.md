@@ -3,6 +3,7 @@
 - **Number:** 789
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [789-implement-shape-matching-registration-icp-iterative-closest-poin.md](../../tutorials/tasks/expert/789-implement-shape-matching-registration-icp-iterative-closest-poin.md)
 
 ## Solutions
 

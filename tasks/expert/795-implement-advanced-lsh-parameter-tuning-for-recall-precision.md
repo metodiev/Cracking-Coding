@@ -3,6 +3,7 @@
 - **Number:** 795
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [795-implement-advanced-lsh-parameter-tuning-for-recall-precision.md](../../tutorials/tasks/expert/795-implement-advanced-lsh-parameter-tuning-for-recall-precision.md)
 
 ## Solutions
 

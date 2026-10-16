@@ -3,6 +3,7 @@
 - **Number:** 666
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [666-implement-conflict-free-replicated-json-structure-complex-crdt.md](../../tutorials/tasks/expert/666-implement-conflict-free-replicated-json-structure-complex-crdt.md)
 
 ## Solutions
 

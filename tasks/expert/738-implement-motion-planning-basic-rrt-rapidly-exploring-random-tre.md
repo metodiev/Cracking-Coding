@@ -3,6 +3,7 @@
 - **Number:** 738
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [738-implement-motion-planning-basic-rrt-rapidly-exploring-random-tre.md](../../tutorials/tasks/expert/738-implement-motion-planning-basic-rrt-rapidly-exploring-random-tre.md)
 
 ## Solutions
 

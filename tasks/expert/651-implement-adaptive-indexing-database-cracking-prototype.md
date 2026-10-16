@@ -3,6 +3,7 @@
 - **Number:** 651
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [651-implement-adaptive-indexing-database-cracking-prototype.md](../../tutorials/tasks/expert/651-implement-adaptive-indexing-database-cracking-prototype.md)
 
 ## Solutions
 

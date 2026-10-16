@@ -3,6 +3,7 @@
 - **Number:** 690
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [690-implement-rate-based-congestion-control-bbr-outline.md](../../tutorials/tasks/expert/690-implement-rate-based-congestion-control-bbr-outline.md)
 
 ## Solutions
 

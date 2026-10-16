@@ -3,6 +3,7 @@
 - **Number:** 747
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [747-implement-advanced-sat-techniques-clause-learning-and-watched-li.md](../../tutorials/tasks/expert/747-implement-advanced-sat-techniques-clause-learning-and-watched-li.md)
 
 ## Solutions
 

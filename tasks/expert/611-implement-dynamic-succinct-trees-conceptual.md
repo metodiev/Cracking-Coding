@@ -3,6 +3,7 @@
 - **Number:** 611
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [611-implement-dynamic-succinct-trees-conceptual.md](../../tutorials/tasks/expert/611-implement-dynamic-succinct-trees-conceptual.md)
 
 ## Solutions
 

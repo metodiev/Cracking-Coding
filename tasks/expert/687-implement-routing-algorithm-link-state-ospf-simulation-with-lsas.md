@@ -3,6 +3,7 @@
 - **Number:** 687
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [687-implement-routing-algorithm-link-state-ospf-simulation-with-lsas.md](../../tutorials/tasks/expert/687-implement-routing-algorithm-link-state-ospf-simulation-with-lsas.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 750
 - **Tier:** Expert
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [750-implement-fuzzing-harness-with-coverage-guided-mutation-afl-like.md](../../tutorials/tasks/expert/750-implement-fuzzing-harness-with-coverage-guided-mutation-afl-like.md)
 
 ## Solutions
 

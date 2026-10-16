@@ -3,6 +3,7 @@
 - **Number:** 705
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [705-implement-steiner-forest-approximations-large-graphs.md](../../tutorials/tasks/expert/705-implement-steiner-forest-approximations-large-graphs.md)
 
 ## Solutions
 

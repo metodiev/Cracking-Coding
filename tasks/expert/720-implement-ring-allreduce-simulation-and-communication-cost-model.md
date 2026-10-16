@@ -3,6 +3,7 @@
 - **Number:** 720
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [720-implement-ring-allreduce-simulation-and-communication-cost-model.md](../../tutorials/tasks/expert/720-implement-ring-allreduce-simulation-and-communication-cost-model.md)
 
 ## Solutions
 

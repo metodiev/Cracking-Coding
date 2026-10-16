@@ -3,6 +3,7 @@
 - **Number:** 653
 - **Tier:** Expert
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [653-implement-compressed-column-encoding-schemes-rle-dictionary-and.md](../../tutorials/tasks/expert/653-implement-compressed-column-encoding-schemes-rle-dictionary-and.md)
 
 ## Solutions
 

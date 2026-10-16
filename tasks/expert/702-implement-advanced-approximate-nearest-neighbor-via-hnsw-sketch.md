@@ -3,6 +3,7 @@
 - **Number:** 702
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [702-implement-advanced-approximate-nearest-neighbor-via-hnsw-sketch.md](../../tutorials/tasks/expert/702-implement-advanced-approximate-nearest-neighbor-via-hnsw-sketch.md)
 
 ## Solutions
 

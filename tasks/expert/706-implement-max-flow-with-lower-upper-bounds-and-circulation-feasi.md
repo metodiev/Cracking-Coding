@@ -3,6 +3,7 @@
 - **Number:** 706
 - **Tier:** Expert
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [706-implement-max-flow-with-lower-upper-bounds-and-circulation-feasi.md](../../tutorials/tasks/expert/706-implement-max-flow-with-lower-upper-bounds-and-circulation-feasi.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 696
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [696-implement-compensated-arithmetic-for-numerical-stability-kahan.md](../../tutorials/tasks/expert/696-implement-compensated-arithmetic-for-numerical-stability-kahan.md)
 
 ## Solutions
 

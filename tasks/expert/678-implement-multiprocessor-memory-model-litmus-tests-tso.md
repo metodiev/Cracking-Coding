@@ -3,6 +3,7 @@
 - **Number:** 678
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [678-implement-multiprocessor-memory-model-litmus-tests-tso.md](../../tutorials/tasks/expert/678-implement-multiprocessor-memory-model-litmus-tests-tso.md)
 
 ## Solutions
 

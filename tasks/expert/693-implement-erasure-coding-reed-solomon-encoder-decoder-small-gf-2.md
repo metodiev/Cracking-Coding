@@ -3,6 +3,7 @@
 - **Number:** 693
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [693-implement-erasure-coding-reed-solomon-encoder-decoder-small-gf-2.md](../../tutorials/tasks/expert/693-implement-erasure-coding-reed-solomon-encoder-decoder-small-gf-2.md)
 
 ## Solutions
 

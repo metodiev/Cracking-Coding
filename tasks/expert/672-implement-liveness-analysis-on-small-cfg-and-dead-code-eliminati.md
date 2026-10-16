@@ -3,6 +3,7 @@
 - **Number:** 672
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati.md](../../tutorials/tasks/expert/672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati.md)
 
 ## Solutions
 

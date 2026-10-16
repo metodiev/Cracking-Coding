@@ -3,6 +3,7 @@
 - **Number:** 737
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [737-implement-oriented-bounding-box-tree-building-obb-tree-outline.md](../../tutorials/tasks/expert/737-implement-oriented-bounding-box-tree-building-obb-tree-outline.md)
 
 ## Solutions
 

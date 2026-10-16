@@ -3,6 +3,7 @@
 - **Number:** 783
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [783-implement-variational-inference-simple-mean-field-for-mixture-mo.md](../../tutorials/tasks/expert/783-implement-variational-inference-simple-mean-field-for-mixture-mo.md)
 
 ## Solutions
 

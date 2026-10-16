@@ -3,6 +3,7 @@
 - **Number:** 787
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli.md](../../tutorials/tasks/expert/787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli.md)
 
 ## Solutions
 

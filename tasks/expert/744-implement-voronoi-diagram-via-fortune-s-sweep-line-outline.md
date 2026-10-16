@@ -3,6 +3,7 @@
 - **Number:** 744
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [744-implement-voronoi-diagram-via-fortune-s-sweep-line-outline.md](../../tutorials/tasks/expert/744-implement-voronoi-diagram-via-fortune-s-sweep-line-outline.md)
 
 ## Solutions
 

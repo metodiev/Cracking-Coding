@@ -3,6 +3,7 @@
 - **Number:** 695
 - **Tier:** Expert
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds.md](../../tutorials/tasks/expert/695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 755
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [755-implement-timing-attack-resistant-comparison-function-and-test.md](../../tutorials/tasks/expert/755-implement-timing-attack-resistant-comparison-function-and-test.md)
 
 ## Solutions
 

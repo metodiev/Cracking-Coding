@@ -3,6 +3,7 @@
 - **Number:** 697
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [697-implement-iterative-linear-solver-cg-with-preconditioning-demo.md](../../tutorials/tasks/expert/697-implement-iterative-linear-solver-cg-with-preconditioning-demo.md)
 
 ## Solutions
 

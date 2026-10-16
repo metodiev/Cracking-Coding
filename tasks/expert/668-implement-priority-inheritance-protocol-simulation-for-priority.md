@@ -3,6 +3,7 @@
 - **Number:** 668
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [668-implement-priority-inheritance-protocol-simulation-for-priority.md](../../tutorials/tasks/expert/668-implement-priority-inheritance-protocol-simulation-for-priority.md)
 
 ## Solutions
 

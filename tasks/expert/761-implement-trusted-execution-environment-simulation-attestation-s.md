@@ -3,6 +3,7 @@
 - **Number:** 761
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [761-implement-trusted-execution-environment-simulation-attestation-s.md](../../tutorials/tasks/expert/761-implement-trusted-execution-environment-simulation-attestation-s.md)
 
 ## Solutions
 

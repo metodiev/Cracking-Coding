@@ -3,6 +3,7 @@
 - **Number:** 788
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [788-implement-stiff-ode-solver-l-stable-method-concept.md](../../tutorials/tasks/expert/788-implement-stiff-ode-solver-l-stable-method-concept.md)
 
 ## Solutions
 

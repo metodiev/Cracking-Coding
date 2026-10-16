@@ -3,6 +3,7 @@
 - **Number:** 767
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [767-implement-online-re-ranking-with-features-and-click-simulation-l.md](../../tutorials/tasks/expert/767-implement-online-re-ranking-with-features-and-click-simulation-l.md)
 
 ## Solutions
 

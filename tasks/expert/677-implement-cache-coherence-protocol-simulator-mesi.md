@@ -3,6 +3,7 @@
 - **Number:** 677
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [677-implement-cache-coherence-protocol-simulator-mesi.md](../../tutorials/tasks/expert/677-implement-cache-coherence-protocol-simulator-mesi.md)
 
 ## Solutions
 

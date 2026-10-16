@@ -3,6 +3,7 @@
 - **Number:** 605
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [605-implement-fm-index-full-search-with-rank-select-structures.md](../../tutorials/tasks/expert/605-implement-fm-index-full-search-with-rank-select-structures.md)
 
 ## Solutions
 

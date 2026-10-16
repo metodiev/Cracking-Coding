@@ -3,6 +3,7 @@
 - **Number:** 726
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [726-implement-sparse-dense-matrix-multiply-block-algorithm-optimizat.md](../../tutorials/tasks/expert/726-implement-sparse-dense-matrix-multiply-block-algorithm-optimizat.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 622
 - **Tier:** Expert
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [622-implement-non-blocking-hash-table-split-ordered-lists.md](../../tutorials/tasks/expert/622-implement-non-blocking-hash-table-split-ordered-lists.md)
 
 ## Solutions
 

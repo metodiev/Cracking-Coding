@@ -3,6 +3,7 @@
 - **Number:** 786
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil.md](../../tutorials/tasks/expert/786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil.md)
 
 ## Solutions
 

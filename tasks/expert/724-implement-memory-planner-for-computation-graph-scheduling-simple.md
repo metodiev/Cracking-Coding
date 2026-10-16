@@ -3,6 +3,7 @@
 - **Number:** 724
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [724-implement-memory-planner-for-computation-graph-scheduling-simple.md](../../tutorials/tasks/expert/724-implement-memory-planner-for-computation-graph-scheduling-simple.md)
 
 ## Solutions
 

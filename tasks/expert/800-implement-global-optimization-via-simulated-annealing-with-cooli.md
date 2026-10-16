@@ -3,6 +3,7 @@
 - **Number:** 800
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [800-implement-global-optimization-via-simulated-annealing-with-cooli.md](../../tutorials/tasks/expert/800-implement-global-optimization-via-simulated-annealing-with-cooli.md)
 
 ## Solutions
 

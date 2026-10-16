@@ -3,6 +3,7 @@
 - **Number:** 732
 - **Tier:** Expert
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [732-implement-particle-in-cell-simplified-simulation-outline.md](../../tutorials/tasks/expert/732-implement-particle-in-cell-simplified-simulation-outline.md)
 
 ## Solutions
 
