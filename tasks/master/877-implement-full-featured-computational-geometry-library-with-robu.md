@@ -3,6 +3,7 @@
 - **Number:** 877
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [877-implement-full-featured-computational-geometry-library-with-robu.md](../../tutorials/tasks/master/877-implement-full-featured-computational-geometry-library-with-robu.md)
 
 ## Solutions
 

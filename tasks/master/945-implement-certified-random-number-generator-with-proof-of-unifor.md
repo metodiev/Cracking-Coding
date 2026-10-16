@@ -3,6 +3,7 @@
 - **Number:** 945
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [945-implement-certified-random-number-generator-with-proof-of-unifor.md](../../tutorials/tasks/master/945-implement-certified-random-number-generator-with-proof-of-unifor.md)
 
 ## Solutions
 

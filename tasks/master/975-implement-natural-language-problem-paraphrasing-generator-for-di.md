@@ -3,6 +3,7 @@
 - **Number:** 975
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [975-implement-natural-language-problem-paraphrasing-generator-for-di.md](../../tutorials/tasks/master/975-implement-natural-language-problem-paraphrasing-generator-for-di.md)
 
 ## Solutions
 

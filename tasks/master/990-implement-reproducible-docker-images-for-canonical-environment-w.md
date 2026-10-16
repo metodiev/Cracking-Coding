@@ -3,6 +3,7 @@
 - **Number:** 990
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [990-implement-reproducible-docker-images-for-canonical-environment-w.md](../../tutorials/tasks/master/990-implement-reproducible-docker-images-for-canonical-environment-w.md)
 
 ## Solutions
 

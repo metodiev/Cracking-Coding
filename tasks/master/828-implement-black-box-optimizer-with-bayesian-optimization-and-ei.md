@@ -3,6 +3,7 @@
 - **Number:** 828
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [828-implement-black-box-optimizer-with-bayesian-optimization-and-ei.md](../../tutorials/tasks/master/828-implement-black-box-optimizer-with-bayesian-optimization-and-ei.md)
 
 ## Solutions
 

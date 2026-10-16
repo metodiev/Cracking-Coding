@@ -3,6 +3,7 @@
 - **Number:** 892
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [892-implement-chaos-monkey-style-fault-injection-and-recovery-valida.md](../../tutorials/tasks/master/892-implement-chaos-monkey-style-fault-injection-and-recovery-valida.md)
 
 ## Solutions
 

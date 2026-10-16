@@ -3,6 +3,7 @@
 - **Number:** 989
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [989-implement-offline-mode-packaging-so-learners-can-download-proble.md](../../tutorials/tasks/master/989-implement-offline-mode-packaging-so-learners-can-download-proble.md)
 
 ## Solutions
 

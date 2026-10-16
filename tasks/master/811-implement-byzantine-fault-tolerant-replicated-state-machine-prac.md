@@ -3,6 +3,7 @@
 - **Number:** 811
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [811-implement-byzantine-fault-tolerant-replicated-state-machine-prac.md](../../tutorials/tasks/master/811-implement-byzantine-fault-tolerant-replicated-state-machine-prac.md)
 
 ## Solutions
 

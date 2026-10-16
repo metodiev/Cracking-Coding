@@ -3,6 +3,7 @@
 - **Number:** 869
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [869-implement-causality-identification-in-time-series-with-granger-c.md](../../tutorials/tasks/master/869-implement-causality-identification-in-time-series-with-granger-c.md)
 
 ## Solutions
 

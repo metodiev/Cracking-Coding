@@ -3,6 +3,7 @@
 - **Number:** 937
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [937-implement-deployment-pipeline-with-canary-analysis-using-online.md](../../tutorials/tasks/master/937-implement-deployment-pipeline-with-canary-analysis-using-online.md)
 
 ## Solutions
 

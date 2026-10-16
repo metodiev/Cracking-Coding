@@ -3,6 +3,7 @@
 - **Number:** 897
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [897-implement-compressed-neural-network-runtime-with-weight-sharing.md](../../tutorials/tasks/master/897-implement-compressed-neural-network-runtime-with-weight-sharing.md)
 
 ## Solutions
 

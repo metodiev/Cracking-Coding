@@ -3,6 +3,7 @@
 - **Number:** 810
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [810-implement-cross-datacenter-replication-with-causal-consistency-g.md](../../tutorials/tasks/master/810-implement-cross-datacenter-replication-with-causal-consistency-g.md)
 
 ## Solutions
 

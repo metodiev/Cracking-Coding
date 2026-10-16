@@ -3,6 +3,7 @@
 - **Number:** 872
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [872-implement-differential-testing-harness-for-numerical-linear-alge.md](../../tutorials/tasks/master/872-implement-differential-testing-harness-for-numerical-linear-alge.md)
 
 ## Solutions
 

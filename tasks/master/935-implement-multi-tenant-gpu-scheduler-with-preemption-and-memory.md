@@ -3,6 +3,7 @@
 - **Number:** 935
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory.md](../../tutorials/tasks/master/935-implement-multi-tenant-gpu-scheduler-with-preemption-and-memory.md)
 
 ## Solutions
 

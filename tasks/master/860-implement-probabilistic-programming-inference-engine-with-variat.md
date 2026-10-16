@@ -3,6 +3,7 @@
 - **Number:** 860
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [860-implement-probabilistic-programming-inference-engine-with-variat.md](../../tutorials/tasks/master/860-implement-probabilistic-programming-inference-engine-with-variat.md)
 
 ## Solutions
 

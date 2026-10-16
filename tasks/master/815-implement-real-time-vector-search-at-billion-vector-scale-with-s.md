@@ -3,6 +3,7 @@
 - **Number:** 815
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [815-implement-real-time-vector-search-at-billion-vector-scale-with-s.md](../../tutorials/tasks/master/815-implement-real-time-vector-search-at-billion-vector-scale-with-s.md)
 
 ## Solutions
 

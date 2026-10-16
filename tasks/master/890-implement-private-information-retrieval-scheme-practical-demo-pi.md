@@ -3,6 +3,7 @@
 - **Number:** 890
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [890-implement-private-information-retrieval-scheme-practical-demo-pi.md](../../tutorials/tasks/master/890-implement-private-information-retrieval-scheme-practical-demo-pi.md)
 
 ## Solutions
 

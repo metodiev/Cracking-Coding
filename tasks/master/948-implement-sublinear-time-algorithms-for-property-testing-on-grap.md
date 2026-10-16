@@ -3,6 +3,7 @@
 - **Number:** 948
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [948-implement-sublinear-time-algorithms-for-property-testing-on-grap.md](../../tutorials/tasks/master/948-implement-sublinear-time-algorithms-for-property-testing-on-grap.md)
 
 ## Solutions
 

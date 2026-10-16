@@ -3,6 +3,7 @@
 - **Number:** 952
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [952-implement-autograder-that-runs-tests-measures-complexity-and-rep.md](../../tutorials/tasks/master/952-implement-autograder-that-runs-tests-measures-complexity-and-rep.md)
 
 ## Solutions
 

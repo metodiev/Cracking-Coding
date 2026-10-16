@@ -3,6 +3,7 @@
 - **Number:** 963
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [963-implement-docs-site-generator-that-publishes-exercises-editorial.md](../../tutorials/tasks/master/963-implement-docs-site-generator-that-publishes-exercises-editorial.md)
 
 ## Solutions
 

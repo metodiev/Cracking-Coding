@@ -3,6 +3,7 @@
 - **Number:** 850
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [850-implement-monetizable-feature-store-with-lineage-versioning-and.md](../../tutorials/tasks/master/850-implement-monetizable-feature-store-with-lineage-versioning-and.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 841
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [841-implement-secure-enclaves-chain-of-trust-verification-demo.md](../../tutorials/tasks/master/841-implement-secure-enclaves-chain-of-trust-verification-demo.md)
 
 ## Solutions
 

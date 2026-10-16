@@ -3,6 +3,7 @@
 - **Number:** 898
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [898-implement-neural-architecture-search-pipeline-with-resource-cons.md](../../tutorials/tasks/master/898-implement-neural-architecture-search-pipeline-with-resource-cons.md)
 
 ## Solutions
 

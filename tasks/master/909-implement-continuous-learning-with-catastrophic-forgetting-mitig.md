@@ -3,6 +3,7 @@
 - **Number:** 909
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [909-implement-continuous-learning-with-catastrophic-forgetting-mitig.md](../../tutorials/tasks/master/909-implement-continuous-learning-with-catastrophic-forgetting-mitig.md)
 
 ## Solutions
 

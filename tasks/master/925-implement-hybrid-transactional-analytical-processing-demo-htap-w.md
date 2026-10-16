@@ -3,6 +3,7 @@
 - **Number:** 925
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [925-implement-hybrid-transactional-analytical-processing-demo-htap-w.md](../../tutorials/tasks/master/925-implement-hybrid-transactional-analytical-processing-demo-htap-w.md)
 
 ## Solutions
 

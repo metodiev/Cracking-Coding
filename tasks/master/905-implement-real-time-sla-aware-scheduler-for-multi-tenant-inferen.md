@@ -3,6 +3,7 @@
 - **Number:** 905
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [905-implement-real-time-sla-aware-scheduler-for-multi-tenant-inferen.md](../../tutorials/tasks/master/905-implement-real-time-sla-aware-scheduler-for-multi-tenant-inferen.md)
 
 ## Solutions
 

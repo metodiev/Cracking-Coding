@@ -3,6 +3,7 @@
 - **Number:** 840
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [840-implement-fully-homomorphic-encryption-demo-simple-arithmetic-to.md](../../tutorials/tasks/master/840-implement-fully-homomorphic-encryption-demo-simple-arithmetic-to.md)
 
 ## Solutions
 

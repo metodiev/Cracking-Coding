@@ -3,6 +3,7 @@
 - **Number:** 864
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and.md](../../tutorials/tasks/master/864-implement-distributed-hnsw-graph-builder-with-merge-strategy-and.md)
 
 ## Solutions
 

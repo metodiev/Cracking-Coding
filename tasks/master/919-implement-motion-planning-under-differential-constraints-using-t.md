@@ -3,6 +3,7 @@
 - **Number:** 919
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [919-implement-motion-planning-under-differential-constraints-using-t.md](../../tutorials/tasks/master/919-implement-motion-planning-under-differential-constraints-using-t.md)
 
 ## Solutions
 

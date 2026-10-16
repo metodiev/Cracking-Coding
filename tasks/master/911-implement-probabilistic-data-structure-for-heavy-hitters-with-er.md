@@ -3,6 +3,7 @@
 - **Number:** 911
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [911-implement-probabilistic-data-structure-for-heavy-hitters-with-er.md](../../tutorials/tasks/master/911-implement-probabilistic-data-structure-for-heavy-hitters-with-er.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 974
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [974-implement-step-by-step-solution-explainer-generator-using-ast-of.md](../../tutorials/tasks/master/974-implement-step-by-step-solution-explainer-generator-using-ast-of.md)
 
 ## Solutions
 

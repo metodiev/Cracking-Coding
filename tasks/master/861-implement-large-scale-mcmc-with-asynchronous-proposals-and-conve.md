@@ -3,6 +3,7 @@
 - **Number:** 861
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [861-implement-large-scale-mcmc-with-asynchronous-proposals-and-conve.md](../../tutorials/tasks/master/861-implement-large-scale-mcmc-with-asynchronous-proposals-and-conve.md)
 
 ## Solutions
 

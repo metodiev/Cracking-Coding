@@ -3,6 +3,7 @@
 - **Number:** 927
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [927-implement-model-backed-materialized-views-updating-with-streamin.md](../../tutorials/tasks/master/927-implement-model-backed-materialized-views-updating-with-streamin.md)
 
 ## Solutions
 

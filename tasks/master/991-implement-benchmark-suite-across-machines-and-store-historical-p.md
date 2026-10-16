@@ -3,6 +3,7 @@
 - **Number:** 991
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [991-implement-benchmark-suite-across-machines-and-store-historical-p.md](../../tutorials/tasks/master/991-implement-benchmark-suite-across-machines-and-store-historical-p.md)
 
 ## Solutions
 

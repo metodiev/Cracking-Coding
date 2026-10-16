@@ -3,6 +3,7 @@
 - **Number:** 838
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [838-implement-secure-multi-party-aggregation-for-machine-learning-ad.md](../../tutorials/tasks/master/838-implement-secure-multi-party-aggregation-for-machine-learning-ad.md)
 
 ## Solutions
 

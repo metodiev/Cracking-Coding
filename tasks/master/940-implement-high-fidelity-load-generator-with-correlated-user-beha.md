@@ -3,6 +3,7 @@
 - **Number:** 940
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [940-implement-high-fidelity-load-generator-with-correlated-user-beha.md](../../tutorials/tasks/master/940-implement-high-fidelity-load-generator-with-correlated-user-beha.md)
 
 ## Solutions
 

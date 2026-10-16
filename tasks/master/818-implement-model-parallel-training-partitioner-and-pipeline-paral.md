@@ -3,6 +3,7 @@
 - **Number:** 818
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [818-implement-model-parallel-training-partitioner-and-pipeline-paral.md](../../tutorials/tasks/master/818-implement-model-parallel-training-partitioner-and-pipeline-paral.md)
 
 ## Solutions
 

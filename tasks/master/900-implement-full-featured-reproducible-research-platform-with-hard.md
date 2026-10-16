@@ -3,6 +3,7 @@
 - **Number:** 900
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [900-implement-full-featured-reproducible-research-platform-with-hard.md](../../tutorials/tasks/master/900-implement-full-featured-reproducible-research-platform-with-hard.md)
 
 ## Solutions
 

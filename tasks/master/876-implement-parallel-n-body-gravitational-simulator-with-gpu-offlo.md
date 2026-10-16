@@ -3,6 +3,7 @@
 - **Number:** 876
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [876-implement-parallel-n-body-gravitational-simulator-with-gpu-offlo.md](../../tutorials/tasks/master/876-implement-parallel-n-body-gravitational-simulator-with-gpu-offlo.md)
 
 ## Solutions
 

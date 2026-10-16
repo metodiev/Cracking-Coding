@@ -3,6 +3,7 @@
 - **Number:** 849
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [849-implement-scalable-approximate-joins-in-streaming-sketch-based.md](../../tutorials/tasks/master/849-implement-scalable-approximate-joins-in-streaming-sketch-based.md)
 
 ## Solutions
 

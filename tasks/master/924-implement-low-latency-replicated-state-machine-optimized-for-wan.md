@@ -3,6 +3,7 @@
 - **Number:** 924
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [924-implement-low-latency-replicated-state-machine-optimized-for-wan.md](../../tutorials/tasks/master/924-implement-low-latency-replicated-state-machine-optimized-for-wan.md)
 
 ## Solutions
 

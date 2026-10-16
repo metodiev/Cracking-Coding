@@ -3,6 +3,7 @@
 - **Number:** 903
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [903-implement-adaptive-replication-factoring-hot-keys-and-node-load.md](../../tutorials/tasks/master/903-implement-adaptive-replication-factoring-hot-keys-and-node-load.md)
 
 ## Solutions
 

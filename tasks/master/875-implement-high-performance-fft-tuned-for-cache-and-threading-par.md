@@ -3,6 +3,7 @@
 - **Number:** 875
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [875-implement-high-performance-fft-tuned-for-cache-and-threading-par.md](../../tutorials/tasks/master/875-implement-high-performance-fft-tuned-for-cache-and-threading-par.md)
 
 ## Solutions
 

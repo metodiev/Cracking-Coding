@@ -3,6 +3,7 @@
 - **Number:** 835
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [835-implement-recursive-snark-composition-outline-conceptual.md](../../tutorials/tasks/master/835-implement-recursive-snark-composition-outline-conceptual.md)
 
 ## Solutions
 

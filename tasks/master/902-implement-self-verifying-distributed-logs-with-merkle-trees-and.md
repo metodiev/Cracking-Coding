@@ -3,6 +3,7 @@
 - **Number:** 902
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [902-implement-self-verifying-distributed-logs-with-merkle-trees-and.md](../../tutorials/tasks/master/902-implement-self-verifying-distributed-logs-with-merkle-trees-and.md)
 
 ## Solutions
 

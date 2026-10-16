@@ -3,6 +3,7 @@
 - **Number:** 934
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [934-implement-distributed-gradient-compression-with-error-correction.md](../../tutorials/tasks/master/934-implement-distributed-gradient-compression-with-error-correction.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 996
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [996-implement-layer-that-converts-problems-into-contest-ready-format.md](../../tutorials/tasks/master/996-implement-layer-that-converts-problems-into-contest-ready-format.md)
 
 ## Solutions
 

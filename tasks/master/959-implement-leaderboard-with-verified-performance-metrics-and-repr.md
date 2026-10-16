@@ -3,6 +3,7 @@
 - **Number:** 959
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [959-implement-leaderboard-with-verified-performance-metrics-and-repr.md](../../tutorials/tasks/master/959-implement-leaderboard-with-verified-performance-metrics-and-repr.md)
 
 ## Solutions
 

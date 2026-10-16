@@ -3,6 +3,7 @@
 - **Number:** 904
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [904-implement-automated-slo-driven-tiered-storage-migration-with-saf.md](../../tutorials/tasks/master/904-implement-automated-slo-driven-tiered-storage-migration-with-saf.md)
 
 ## Solutions
 

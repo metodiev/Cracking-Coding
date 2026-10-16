@@ -3,6 +3,7 @@
 - **Number:** 923
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [923-implement-distributed-ledger-with-privacy-preserving-transaction.md](../../tutorials/tasks/master/923-implement-distributed-ledger-with-privacy-preserving-transaction.md)
 
 ## Solutions
 

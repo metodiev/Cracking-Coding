@@ -3,6 +3,7 @@
 - **Number:** 807
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [807-implement-global-scale-consistent-snapshot-across-geographically.md](../../tutorials/tasks/master/807-implement-global-scale-consistent-snapshot-across-geographically.md)
 
 ## Solutions
 

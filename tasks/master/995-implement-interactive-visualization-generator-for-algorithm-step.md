@@ -3,6 +3,7 @@
 - **Number:** 995
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [995-implement-interactive-visualization-generator-for-algorithm-step.md](../../tutorials/tasks/master/995-implement-interactive-visualization-generator-for-algorithm-step.md)
 
 ## Solutions
 

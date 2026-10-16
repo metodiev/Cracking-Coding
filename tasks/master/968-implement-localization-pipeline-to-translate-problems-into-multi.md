@@ -3,6 +3,7 @@
 - **Number:** 968
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [968-implement-localization-pipeline-to-translate-problems-into-multi.md](../../tutorials/tasks/master/968-implement-localization-pipeline-to-translate-problems-into-multi.md)
 
 ## Solutions
 

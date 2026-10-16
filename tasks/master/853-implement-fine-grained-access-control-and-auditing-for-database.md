@@ -3,6 +3,7 @@
 - **Number:** 853
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [853-implement-fine-grained-access-control-and-auditing-for-database.md](../../tutorials/tasks/master/853-implement-fine-grained-access-control-and-auditing-for-database.md)
 
 ## Solutions
 

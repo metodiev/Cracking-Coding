@@ -3,6 +3,7 @@
 - **Number:** 955
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [955-implement-canonical-solution-repository-with-multiple-language-s.md](../../tutorials/tasks/master/955-implement-canonical-solution-repository-with-multiple-language-s.md)
 
 ## Solutions
 

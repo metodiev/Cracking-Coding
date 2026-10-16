@@ -3,6 +3,7 @@
 - **Number:** 809
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [809-implement-elastic-autoscaling-policy-with-predictive-forecasting.md](../../tutorials/tasks/master/809-implement-elastic-autoscaling-policy-with-predictive-forecasting.md)
 
 ## Solutions
 

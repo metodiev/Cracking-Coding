@@ -3,6 +3,7 @@
 - **Number:** 851
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [851-implement-latency-slash-throughput-tradeoff-benchmarks-for-vario.md](../../tutorials/tasks/master/851-implement-latency-slash-throughput-tradeoff-benchmarks-for-vario.md)
 
 ## Solutions
 

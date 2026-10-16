@@ -3,6 +3,7 @@
 - **Number:** 802
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [802-implement-fully-acid-transactional-key-value-store-with-mvcc-and.md](../../tutorials/tasks/master/802-implement-fully-acid-transactional-key-value-store-with-mvcc-and.md)
 
 ## Solutions
 

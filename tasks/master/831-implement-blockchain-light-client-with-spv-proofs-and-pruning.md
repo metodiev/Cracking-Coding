@@ -3,6 +3,7 @@
 - **Number:** 831
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [831-implement-blockchain-light-client-with-spv-proofs-and-pruning.md](../../tutorials/tasks/master/831-implement-blockchain-light-client-with-spv-proofs-and-pruning.md)
 
 ## Solutions
 

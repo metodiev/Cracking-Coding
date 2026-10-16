@@ -3,6 +3,7 @@
 - **Number:** 819
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [819-implement-memory-efficient-checkpointing-for-massive-models-bloc.md](../../tutorials/tasks/master/819-implement-memory-efficient-checkpointing-for-massive-models-bloc.md)
 
 ## Solutions
 

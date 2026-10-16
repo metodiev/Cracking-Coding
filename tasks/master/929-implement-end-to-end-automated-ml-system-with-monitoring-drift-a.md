@@ -3,6 +3,7 @@
 - **Number:** 929
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a.md](../../tutorials/tasks/master/929-implement-end-to-end-automated-ml-system-with-monitoring-drift-a.md)
 
 ## Solutions
 

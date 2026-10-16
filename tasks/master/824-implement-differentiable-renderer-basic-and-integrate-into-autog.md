@@ -3,6 +3,7 @@
 - **Number:** 824
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [824-implement-differentiable-renderer-basic-and-integrate-into-autog.md](../../tutorials/tasks/master/824-implement-differentiable-renderer-basic-and-integrate-into-autog.md)
 
 ## Solutions
 

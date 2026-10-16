@@ -3,6 +3,7 @@
 - **Number:** 992
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [992-implement-reproducible-random-seed-protocol-for-benchmarking-fai.md](../../tutorials/tasks/master/992-implement-reproducible-random-seed-protocol-for-benchmarking-fai.md)
 
 ## Solutions
 

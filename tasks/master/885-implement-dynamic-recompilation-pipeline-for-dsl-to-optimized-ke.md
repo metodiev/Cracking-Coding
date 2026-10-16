@@ -3,6 +3,7 @@
 - **Number:** 885
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke.md](../../tutorials/tasks/master/885-implement-dynamic-recompilation-pipeline-for-dsl-to-optimized-ke.md)
 
 ## Solutions
 

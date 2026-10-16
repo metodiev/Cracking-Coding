@@ -3,6 +3,7 @@
 - **Number:** 921
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco.md](../../tutorials/tasks/master/921-implement-robot-manipulation-planner-with-grasp-sampling-and-sco.md)
 
 ## Solutions
 

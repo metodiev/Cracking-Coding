@@ -3,6 +3,7 @@
 - **Number:** 805
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [805-implement-eventual-consistent-multi-master-datastore-with-confli.md](../../tutorials/tasks/master/805-implement-eventual-consistent-multi-master-datastore-with-confli.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 994
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [994-implement-editorial-writing-assistant-that-drafts-explanations-p.md](../../tutorials/tasks/master/994-implement-editorial-writing-assistant-that-drafts-explanations-p.md)
 
 ## Solutions
 

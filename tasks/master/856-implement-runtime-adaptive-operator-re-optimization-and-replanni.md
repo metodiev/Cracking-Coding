@@ -3,6 +3,7 @@
 - **Number:** 856
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [856-implement-runtime-adaptive-operator-re-optimization-and-replanni.md](../../tutorials/tasks/master/856-implement-runtime-adaptive-operator-re-optimization-and-replanni.md)
 
 ## Solutions
 

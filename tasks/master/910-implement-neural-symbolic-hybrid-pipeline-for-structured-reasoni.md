@@ -3,6 +3,7 @@
 - **Number:** 910
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [910-implement-neural-symbolic-hybrid-pipeline-for-structured-reasoni.md](../../tutorials/tasks/master/910-implement-neural-symbolic-hybrid-pipeline-for-structured-reasoni.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 852
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [852-implement-global-snapshotting-for-distributed-streaming-pipeline.md](../../tutorials/tasks/master/852-implement-global-snapshotting-for-distributed-streaming-pipeline.md)
 
 ## Solutions
 

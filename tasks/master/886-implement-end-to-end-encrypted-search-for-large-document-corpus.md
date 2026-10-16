@@ -3,6 +3,7 @@
 - **Number:** 886
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [886-implement-end-to-end-encrypted-search-for-large-document-corpus.md](../../tutorials/tasks/master/886-implement-end-to-end-encrypted-search-for-large-document-corpus.md)
 
 ## Solutions
 

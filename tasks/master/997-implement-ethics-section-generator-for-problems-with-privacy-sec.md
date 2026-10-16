@@ -3,6 +3,7 @@
 - **Number:** 997
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [997-implement-ethics-section-generator-for-problems-with-privacy-sec.md](../../tutorials/tasks/master/997-implement-ethics-section-generator-for-problems-with-privacy-sec.md)
 
 ## Solutions
 

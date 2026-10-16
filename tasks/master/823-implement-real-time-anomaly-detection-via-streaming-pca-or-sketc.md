@@ -3,6 +3,7 @@
 - **Number:** 823
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [823-implement-real-time-anomaly-detection-via-streaming-pca-or-sketc.md](../../tutorials/tasks/master/823-implement-real-time-anomaly-detection-via-streaming-pca-or-sketc.md)
 
 ## Solutions
 

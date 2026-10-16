@@ -3,6 +3,7 @@
 - **Number:** 950
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and.md](../../tutorials/tasks/master/950-implement-scalable-nearest-neighbor-with-multi-index-hashing-and.md)
 
 ## Solutions
 

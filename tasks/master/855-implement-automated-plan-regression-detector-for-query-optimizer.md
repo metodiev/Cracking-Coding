@@ -3,6 +3,7 @@
 - **Number:** 855
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [855-implement-automated-plan-regression-detector-for-query-optimizer.md](../../tutorials/tasks/master/855-implement-automated-plan-regression-detector-for-query-optimizer.md)
 
 ## Solutions
 

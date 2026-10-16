@@ -3,6 +3,7 @@
 - **Number:** 970
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [970-implement-analytics-dashboard-tracking-learner-progress-and-drop.md](../../tutorials/tasks/master/970-implement-analytics-dashboard-tracking-learner-progress-and-drop.md)
 
 ## Solutions
 

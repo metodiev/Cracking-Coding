@@ -3,6 +3,7 @@
 - **Number:** 953
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [953-implement-contributor-guide-and-templates-for-new-problems-tests.md](../../tutorials/tasks/master/953-implement-contributor-guide-and-templates-for-new-problems-tests.md)
 
 ## Solutions
 

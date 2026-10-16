@@ -3,6 +3,7 @@
 - **Number:** 932
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [932-implement-differential-testing-between-cpu-gpu-implementations-f.md](../../tutorials/tasks/master/932-implement-differential-testing-between-cpu-gpu-implementations-f.md)
 
 ## Solutions
 

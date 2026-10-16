@@ -3,6 +3,7 @@
 - **Number:** 951
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [951-implement-end-to-end-reproducible-benchmarking-harness-for-all-e.md](../../tutorials/tasks/master/951-implement-end-to-end-reproducible-benchmarking-harness-for-all-e.md)
 
 ## Solutions
 

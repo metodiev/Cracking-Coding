@@ -3,6 +3,7 @@
 - **Number:** 821
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [821-implement-revenue-optimized-bidding-engine-with-real-time-constr.md](../../tutorials/tasks/master/821-implement-revenue-optimized-bidding-engine-with-real-time-constr.md)
 
 ## Solutions
 

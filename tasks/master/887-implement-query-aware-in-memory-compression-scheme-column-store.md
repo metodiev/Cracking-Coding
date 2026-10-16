@@ -3,6 +3,7 @@
 - **Number:** 887
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [887-implement-query-aware-in-memory-compression-scheme-column-store.md](../../tutorials/tasks/master/887-implement-query-aware-in-memory-compression-scheme-column-store.md)
 
 ## Solutions
 

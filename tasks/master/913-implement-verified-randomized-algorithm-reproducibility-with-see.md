@@ -3,6 +3,7 @@
 - **Number:** 913
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [913-implement-verified-randomized-algorithm-reproducibility-with-see.md](../../tutorials/tasks/master/913-implement-verified-randomized-algorithm-reproducibility-with-see.md)
 
 ## Solutions
 

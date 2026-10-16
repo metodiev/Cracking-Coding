@@ -3,6 +3,7 @@
 - **Number:** 926
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h.md](../../tutorials/tasks/master/926-implement-query-aware-caching-for-oltp-workloads-with-eviction-h.md)
 
 ## Solutions
 

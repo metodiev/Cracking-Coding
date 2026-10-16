@@ -3,6 +3,7 @@
 - **Number:** 859
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [859-implement-self-tuning-database-storage-layout-optimizer-auto-com.md](../../tutorials/tasks/master/859-implement-self-tuning-database-storage-layout-optimizer-auto-com.md)
 
 ## Solutions
 

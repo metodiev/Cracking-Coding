@@ -3,6 +3,7 @@
 - **Number:** 879
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [879-implement-high-performance-raytracer-with-bvh-build-and-traversa.md](../../tutorials/tasks/master/879-implement-high-performance-raytracer-with-bvh-build-and-traversa.md)
 
 ## Solutions
 

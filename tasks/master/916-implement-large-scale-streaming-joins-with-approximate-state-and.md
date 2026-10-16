@@ -3,6 +3,7 @@
 - **Number:** 916
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [916-implement-large-scale-streaming-joins-with-approximate-state-and.md](../../tutorials/tasks/master/916-implement-large-scale-streaming-joins-with-approximate-state-and.md)
 
 ## Solutions
 

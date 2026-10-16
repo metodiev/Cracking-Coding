@@ -3,6 +3,7 @@
 - **Number:** 982
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [982-implement-monitoring-and-alerting-playbooks-for-platform-inciden.md](../../tutorials/tasks/master/982-implement-monitoring-and-alerting-playbooks-for-platform-inciden.md)
 
 ## Solutions
 

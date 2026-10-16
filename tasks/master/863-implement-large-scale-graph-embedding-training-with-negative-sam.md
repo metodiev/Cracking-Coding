@@ -3,6 +3,7 @@
 - **Number:** 863
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [863-implement-large-scale-graph-embedding-training-with-negative-sam.md](../../tutorials/tasks/master/863-implement-large-scale-graph-embedding-training-with-negative-sam.md)
 
 ## Solutions
 

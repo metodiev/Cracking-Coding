@@ -3,6 +3,7 @@
 - **Number:** 901
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [901-implement-provable-bounds-for-randomized-algorithms-used-in-your.md](../../tutorials/tasks/master/901-implement-provable-bounds-for-randomized-algorithms-used-in-your.md)
 
 ## Solutions
 

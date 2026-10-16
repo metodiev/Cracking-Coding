@@ -3,6 +3,7 @@
 - **Number:** 806
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c.md](../../tutorials/tasks/master/806-implement-fully-persistent-b-tree-with-copy-on-write-pages-and-c.md)
 
 ## Solutions
 

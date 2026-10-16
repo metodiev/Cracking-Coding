@@ -3,6 +3,7 @@
 - **Number:** 899
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [899-implement-end-to-end-encrypted-collaborative-machine-learning-wi.md](../../tutorials/tasks/master/899-implement-end-to-end-encrypted-collaborative-machine-learning-wi.md)
 
 ## Solutions
 

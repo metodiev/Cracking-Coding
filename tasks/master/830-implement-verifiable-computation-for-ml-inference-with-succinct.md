@@ -3,6 +3,7 @@
 - **Number:** 830
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [830-implement-verifiable-computation-for-ml-inference-with-succinct.md](../../tutorials/tasks/master/830-implement-verifiable-computation-for-ml-inference-with-succinct.md)
 
 ## Solutions
 

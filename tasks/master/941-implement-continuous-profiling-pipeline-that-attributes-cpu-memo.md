@@ -3,6 +3,7 @@
 - **Number:** 941
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [941-implement-continuous-profiling-pipeline-that-attributes-cpu-memo.md](../../tutorials/tasks/master/941-implement-continuous-profiling-pipeline-that-attributes-cpu-memo.md)
 
 ## Solutions
 

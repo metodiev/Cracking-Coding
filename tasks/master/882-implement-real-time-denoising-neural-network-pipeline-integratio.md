@@ -3,6 +3,7 @@
 - **Number:** 882
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [882-implement-real-time-denoising-neural-network-pipeline-integratio.md](../../tutorials/tasks/master/882-implement-real-time-denoising-neural-network-pipeline-integratio.md)
 
 ## Solutions
 

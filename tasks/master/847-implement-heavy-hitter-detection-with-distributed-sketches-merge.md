@@ -3,6 +3,7 @@
 - **Number:** 847
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [847-implement-heavy-hitter-detection-with-distributed-sketches-merge.md](../../tutorials/tasks/master/847-implement-heavy-hitter-detection-with-distributed-sketches-merge.md)
 
 ## Solutions
 

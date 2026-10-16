@@ -3,6 +3,7 @@
 - **Number:** 922
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [922-implement-multi-robot-coordination-with-conflict-resolution-and.md](../../tutorials/tasks/master/922-implement-multi-robot-coordination-with-conflict-resolution-and.md)
 
 ## Solutions
 

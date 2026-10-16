@@ -3,6 +3,7 @@
 - **Number:** 836
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [836-implement-verifiable-delay-function-small-prototype-vdf.md](../../tutorials/tasks/master/836-implement-verifiable-delay-function-small-prototype-vdf.md)
 
 ## Solutions
 

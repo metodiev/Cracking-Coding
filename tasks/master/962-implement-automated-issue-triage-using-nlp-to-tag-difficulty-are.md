@@ -3,6 +3,7 @@
 - **Number:** 962
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are.md](../../tutorials/tasks/master/962-implement-automated-issue-triage-using-nlp-to-tag-difficulty-are.md)
 
 ## Solutions
 

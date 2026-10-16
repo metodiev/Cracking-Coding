@@ -3,6 +3,7 @@
 - **Number:** 896
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [896-implement-joint-optimization-of-storage-layout-access-patterns-u.md](../../tutorials/tasks/master/896-implement-joint-optimization-of-storage-layout-access-patterns-u.md)
 
 ## Solutions
 

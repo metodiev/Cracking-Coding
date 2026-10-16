@@ -3,6 +3,7 @@
 - **Number:** 854
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [854-implement-system-for-differential-testing-and-fuzzing-of-databas.md](../../tutorials/tasks/master/854-implement-system-for-differential-testing-and-fuzzing-of-databas.md)
 
 ## Solutions
 

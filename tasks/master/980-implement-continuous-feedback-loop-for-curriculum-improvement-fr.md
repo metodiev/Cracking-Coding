@@ -3,6 +3,7 @@
 - **Number:** 980
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [980-implement-continuous-feedback-loop-for-curriculum-improvement-fr.md](../../tutorials/tasks/master/980-implement-continuous-feedback-loop-for-curriculum-improvement-fr.md)
 
 ## Solutions
 

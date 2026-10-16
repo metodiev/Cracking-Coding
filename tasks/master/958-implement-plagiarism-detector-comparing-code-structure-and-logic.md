@@ -3,6 +3,7 @@
 - **Number:** 958
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [958-implement-plagiarism-detector-comparing-code-structure-and-logic.md](../../tutorials/tasks/master/958-implement-plagiarism-detector-comparing-code-structure-and-logic.md)
 
 ## Solutions
 

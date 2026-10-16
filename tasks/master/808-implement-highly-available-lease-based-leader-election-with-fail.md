@@ -3,6 +3,7 @@
 - **Number:** 808
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [808-implement-highly-available-lease-based-leader-election-with-fail.md](../../tutorials/tasks/master/808-implement-highly-available-lease-based-leader-election-with-fail.md)
 
 ## Solutions
 

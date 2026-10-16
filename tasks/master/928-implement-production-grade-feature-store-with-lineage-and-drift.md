@@ -3,6 +3,7 @@
 - **Number:** 928
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [928-implement-production-grade-feature-store-with-lineage-and-drift.md](../../tutorials/tasks/master/928-implement-production-grade-feature-store-with-lineage-and-drift.md)
 
 ## Solutions
 

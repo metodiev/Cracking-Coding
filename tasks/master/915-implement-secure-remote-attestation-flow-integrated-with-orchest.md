@@ -3,6 +3,7 @@
 - **Number:** 915
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [915-implement-secure-remote-attestation-flow-integrated-with-orchest.md](../../tutorials/tasks/master/915-implement-secure-remote-attestation-flow-integrated-with-orchest.md)
 
 ## Solutions
 

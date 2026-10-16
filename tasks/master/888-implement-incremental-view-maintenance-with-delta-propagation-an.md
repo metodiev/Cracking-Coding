@@ -3,6 +3,7 @@
 - **Number:** 888
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [888-implement-incremental-view-maintenance-with-delta-propagation-an.md](../../tutorials/tasks/master/888-implement-incremental-view-maintenance-with-delta-propagation-an.md)
 
 ## Solutions
 

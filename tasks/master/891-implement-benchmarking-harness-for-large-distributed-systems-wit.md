@@ -3,6 +3,7 @@
 - **Number:** 891
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [891-implement-benchmarking-harness-for-large-distributed-systems-wit.md](../../tutorials/tasks/master/891-implement-benchmarking-harness-for-large-distributed-systems-wit.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 969
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge.md](../../tutorials/tasks/master/969-implement-curriculum-mapping-to-academic-topics-and-pacing-sugge.md)
 
 ## Solutions
 

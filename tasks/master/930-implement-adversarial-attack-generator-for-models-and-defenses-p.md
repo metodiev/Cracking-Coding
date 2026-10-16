@@ -3,6 +3,7 @@
 - **Number:** 930
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [930-implement-adversarial-attack-generator-for-models-and-defenses-p.md](../../tutorials/tasks/master/930-implement-adversarial-attack-generator-for-models-and-defenses-p.md)
 
 ## Solutions
 

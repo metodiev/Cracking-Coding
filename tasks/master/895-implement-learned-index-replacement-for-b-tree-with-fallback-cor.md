@@ -3,6 +3,7 @@
 - **Number:** 895
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [895-implement-learned-index-replacement-for-b-tree-with-fallback-cor.md](../../tutorials/tasks/master/895-implement-learned-index-replacement-for-b-tree-with-fallback-cor.md)
 
 ## Solutions
 

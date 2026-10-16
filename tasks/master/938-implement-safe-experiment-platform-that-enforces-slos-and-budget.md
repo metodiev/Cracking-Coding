@@ -3,6 +3,7 @@
 - **Number:** 938
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [938-implement-safe-experiment-platform-that-enforces-slos-and-budget.md](../../tutorials/tasks/master/938-implement-safe-experiment-platform-that-enforces-slos-and-budget.md)
 
 ## Solutions
 

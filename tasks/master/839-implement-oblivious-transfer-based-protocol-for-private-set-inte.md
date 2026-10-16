@@ -3,6 +3,7 @@
 - **Number:** 839
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [839-implement-oblivious-transfer-based-protocol-for-private-set-inte.md](../../tutorials/tasks/master/839-implement-oblivious-transfer-based-protocol-for-private-set-inte.md)
 
 ## Solutions
 

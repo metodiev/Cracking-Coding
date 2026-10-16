@@ -3,6 +3,7 @@
 - **Number:** 813
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [813-implement-end-to-end-encrypted-collaborative-editor-with-operati.md](../../tutorials/tasks/master/813-implement-end-to-end-encrypted-collaborative-editor-with-operati.md)
 
 ## Solutions
 

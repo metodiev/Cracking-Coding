@@ -3,6 +3,7 @@
 - **Number:** 971
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [971-implement-spaced-repetition-scheduling-for-problem-revisit-recom.md](../../tutorials/tasks/master/971-implement-spaced-repetition-scheduling-for-problem-revisit-recom.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 985
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [985-implement-contribution-recognition-system-with-verified-citation.md](../../tutorials/tasks/master/985-implement-contribution-recognition-system-with-verified-citation.md)
 
 ## Solutions
 

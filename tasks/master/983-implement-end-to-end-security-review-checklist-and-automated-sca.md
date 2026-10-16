@@ -3,6 +3,7 @@
 - **Number:** 983
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [983-implement-end-to-end-security-review-checklist-and-automated-sca.md](../../tutorials/tasks/master/983-implement-end-to-end-security-review-checklist-and-automated-sca.md)
 
 ## Solutions
 

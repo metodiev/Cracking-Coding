@@ -3,6 +3,7 @@
 - **Number:** 889
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [889-implement-secure-multiparty-computation-for-private-set-intersec.md](../../tutorials/tasks/master/889-implement-secure-multiparty-computation-for-private-set-intersec.md)
 
 ## Solutions
 

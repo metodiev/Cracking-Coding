@@ -3,6 +3,7 @@
 - **Number:** 957
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [957-implement-randomized-test-case-generator-with-oracle-checker-for.md](../../tutorials/tasks/master/957-implement-randomized-test-case-generator-with-oracle-checker-for.md)
 
 ## Solutions
 

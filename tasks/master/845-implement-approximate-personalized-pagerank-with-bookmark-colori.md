@@ -3,6 +3,7 @@
 - **Number:** 845
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [845-implement-approximate-personalized-pagerank-with-bookmark-colori.md](../../tutorials/tasks/master/845-implement-approximate-personalized-pagerank-with-bookmark-colori.md)
 
 ## Solutions
 

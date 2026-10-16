@@ -3,6 +3,7 @@
 - **Number:** 914
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [914-implement-cross-language-optimized-rpc-with-zero-copy-serializat.md](../../tutorials/tasks/master/914-implement-cross-language-optimized-rpc-with-zero-copy-serializat.md)
 
 ## Solutions
 

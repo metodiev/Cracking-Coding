@@ -3,6 +3,7 @@
 - **Number:** 843
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [843-implement-large-scale-graph-processing-pipeline-pregel-like-with.md](../../tutorials/tasks/master/843-implement-large-scale-graph-processing-pipeline-pregel-like-with.md)
 
 ## Solutions
 

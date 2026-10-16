@@ -3,6 +3,7 @@
 - **Number:** 984
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [984-implement-legal-privacy-compliance-checks-for-user-data-handling.md](../../tutorials/tasks/master/984-implement-legal-privacy-compliance-checks-for-user-data-handling.md)
 
 ## Solutions
 

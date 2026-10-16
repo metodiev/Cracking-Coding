@@ -3,6 +3,7 @@
 - **Number:** 848
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [848-implement-distributed-sampling-with-global-randomness-coordinati.md](../../tutorials/tasks/master/848-implement-distributed-sampling-with-global-randomness-coordinati.md)
 
 ## Solutions
 

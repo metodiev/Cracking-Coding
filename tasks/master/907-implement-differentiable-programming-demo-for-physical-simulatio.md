@@ -3,6 +3,7 @@
 - **Number:** 907
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [907-implement-differentiable-programming-demo-for-physical-simulatio.md](../../tutorials/tasks/master/907-implement-differentiable-programming-demo-for-physical-simulatio.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 964
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [964-implement-interactive-repl-web-ui-for-running-and-testing-proble.md](../../tutorials/tasks/master/964-implement-interactive-repl-web-ui-for-running-and-testing-proble.md)
 
 ## Solutions
 

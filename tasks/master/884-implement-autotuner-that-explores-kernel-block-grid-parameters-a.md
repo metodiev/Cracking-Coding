@@ -3,6 +3,7 @@
 - **Number:** 884
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [884-implement-autotuner-that-explores-kernel-block-grid-parameters-a.md](../../tutorials/tasks/master/884-implement-autotuner-that-explores-kernel-block-grid-parameters-a.md)
 
 ## Solutions
 

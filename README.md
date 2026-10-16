@@ -1032,7 +1032,7 @@ This README is the master task list (998 tasks across 5 tiers). The repository a
 flowchart LR
     R["Cracking-Coding"] --> T["tasks/ — 998 task specs"]
     R --> S["solutions/ — Java · Python · JavaScript · C#"]
-    R --> TU["tutorials/ — CTCI chapter tutorials (Markdown + Mermaid)"]
+    R --> TU["tutorials/ — CTCI chapter tutorials + 998 per-task tutorials"]
     R --> D["docs/ — TASK-INDEX.md, ctcI-mapping.json"]
     R --> TO["tools/ — generators & runners"]
 ```
@@ -1040,6 +1040,15 @@ flowchart LR
 - 📖 **Tutorials** start at [`tutorials/README.md`](tutorials/README.md) — every CTCI 6th-edition chapter
   (Big-O, Ch 1–11, 14–15, 16–17, §X Advanced Topics) explained with Mermaid diagrams and code in
   Java, Python, C# and JavaScript, plus per-language companion guides.
+- 📓 **Per-task tutorials** — *one walkthrough for each of the 998 tasks*:
+  [`tutorials/tasks/<tier>/<NNN-slug>.md`](tutorials/tasks). Each starts from a restatement with
+  concrete input/output examples, contrasts the naive idea with the key insight, gives numbered
+  algorithm steps plus language-agnostic pseudocode, traces a real worked example on one input, and
+  closes with a complexity table, the pitfalls the shipped code actually guards against, variant and
+  follow-up links, and self-check questions. Every tutorial carries 3–4 Mermaid diagrams (concept,
+  control flow and a sequence or state trace) and links to the task spec and all four solutions.
+  The mapping runs both ways: each spec in `tasks/` carries a `- **Tutorial:**` line and
+  [`docs/TASK-INDEX.md`](docs/TASK-INDEX.md) has a 📓 Tutorial column.
 - 🗺️ **Task → chapter mapping** for all 998 tasks: [`tutorials/ctci-mapping.md`](tutorials/ctci-mapping.md).
   The mapping follows *Cracking the Coding Interview, 6th Edition* (189 Programming Questions &
   Solutions) and tags beyond-book work (distributed systems, ML, graphics, security, …) explicitly.
@@ -1047,12 +1056,18 @@ flowchart LR
   four languages** — 998/998 tasks × 4 languages = **3992 self-checking solutions**, tier by tier:
   **Beginner (001–200)**, **Intermediate (201–400)**, **Advanced (401–600)**, **Expert (601–800)**
   and **Master / Challenge (801–998)**.
-  Every solution self-checks: `python3 tools/run_solutions.py`.
+  Every solution self-checks: `python3 tools/run_solutions.py`, and every task is also covered by a
+  per-task 📓 tutorial under [`tutorials/tasks/<tier>/`](tutorials/tasks).
 - ▶️ **Run everything**: `python3 tools/run_solutions.py` (add `python`, `java`, `javascript` or `csharp`).
   All four languages are validated, C# included: each `Solution.cs` is compiled straight against the
   SDK's targeting pack by [`tools/csbuild.py`](tools/csbuild.py), which is ~10x faster than a
   `dotnet build` per file. `--jobs N` runs solutions in parallel, `--range 601-650` restricts the run
   to a task range and `--filter`/`[tier]` narrow it further.
+- 🧪 **Validate the docs**: `python3 tools/check_links.py` fails on any relative link that does not
+  resolve — *case-sensitively*, which is what Linux CI requires — and `python3 tools/check_mermaid.py`
+  enforces the diagram rules (fences, keywords, escaping, and the sequence-diagram traps: no HTML
+  entities, `;` or reserved actor names). `node tools/check_mermaid_render.mjs` is the authoritative
+  check: it parses every diagram with the real mermaid parser.
 
 ```bash
 # run the full solution suite in one language

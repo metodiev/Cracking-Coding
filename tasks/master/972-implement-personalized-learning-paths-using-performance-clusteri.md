@@ -3,6 +3,7 @@
 - **Number:** 972
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [972-implement-personalized-learning-paths-using-performance-clusteri.md](../../tutorials/tasks/master/972-implement-personalized-learning-paths-using-performance-clusteri.md)
 
 ## Solutions
 

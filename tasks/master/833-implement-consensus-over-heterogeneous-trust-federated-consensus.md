@@ -3,6 +3,7 @@
 - **Number:** 833
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [833-implement-consensus-over-heterogeneous-trust-federated-consensus.md](../../tutorials/tasks/master/833-implement-consensus-over-heterogeneous-trust-federated-consensus.md)
 
 ## Solutions
 

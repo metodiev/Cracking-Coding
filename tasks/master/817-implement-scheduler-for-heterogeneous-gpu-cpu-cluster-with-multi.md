@@ -3,6 +3,7 @@
 - **Number:** 817
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi.md](../../tutorials/tasks/master/817-implement-scheduler-for-heterogeneous-gpu-cpu-cluster-with-multi.md)
 
 ## Solutions
 

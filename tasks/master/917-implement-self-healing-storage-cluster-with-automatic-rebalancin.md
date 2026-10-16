@@ -3,6 +3,7 @@
 - **Number:** 917
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [917-implement-self-healing-storage-cluster-with-automatic-rebalancin.md](../../tutorials/tasks/master/917-implement-self-healing-storage-cluster-with-automatic-rebalancin.md)
 
 ## Solutions
 

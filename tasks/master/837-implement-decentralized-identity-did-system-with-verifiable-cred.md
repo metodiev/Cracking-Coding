@@ -3,6 +3,7 @@
 - **Number:** 837
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [837-implement-decentralized-identity-did-system-with-verifiable-cred.md](../../tutorials/tasks/master/837-implement-decentralized-identity-did-system-with-verifiable-cred.md)
 
 ## Solutions
 

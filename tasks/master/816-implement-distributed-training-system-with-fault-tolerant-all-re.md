@@ -3,6 +3,7 @@
 - **Number:** 816
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [816-implement-distributed-training-system-with-fault-tolerant-all-re.md](../../tutorials/tasks/master/816-implement-distributed-training-system-with-fault-tolerant-all-re.md)
 
 ## Solutions
 

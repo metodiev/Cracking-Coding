@@ -3,6 +3,7 @@
 - **Number:** 857
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [857-implement-ml-based-cost-model-for-query-planner-with-online-lear.md](../../tutorials/tasks/master/857-implement-ml-based-cost-model-for-query-planner-with-online-lear.md)
 
 ## Solutions
 

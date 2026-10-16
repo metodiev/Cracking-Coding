@@ -3,6 +3,7 @@
 - **Number:** 878
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [878-implement-production-ready-collision-detection-and-physics-engin.md](../../tutorials/tasks/master/878-implement-production-ready-collision-detection-and-physics-engin.md)
 
 ## Solutions
 

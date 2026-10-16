@@ -3,6 +3,7 @@
 - **Number:** 908
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [908-implement-certified-ml-predictions-with-conformal-prediction-int.md](../../tutorials/tasks/master/908-implement-certified-ml-predictions-with-conformal-prediction-int.md)
 
 ## Solutions
 

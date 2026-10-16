@@ -3,6 +3,7 @@
 - **Number:** 846
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [846-implement-subgraph-centric-distributed-processing-framework-and.md](../../tutorials/tasks/master/846-implement-subgraph-centric-distributed-processing-framework-and.md)
 
 ## Solutions
 

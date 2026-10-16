@@ -3,6 +3,7 @@
 - **Number:** 947
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu.md](../../tutorials/tasks/master/947-implement-large-scale-graph-partitioner-with-balance-and-cut-heu.md)
 
 ## Solutions
 

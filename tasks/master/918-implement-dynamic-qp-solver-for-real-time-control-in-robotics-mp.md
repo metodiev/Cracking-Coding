@@ -3,6 +3,7 @@
 - **Number:** 918
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [918-implement-dynamic-qp-solver-for-real-time-control-in-robotics-mp.md](../../tutorials/tasks/master/918-implement-dynamic-qp-solver-for-real-time-control-in-robotics-mp.md)
 
 ## Solutions
 

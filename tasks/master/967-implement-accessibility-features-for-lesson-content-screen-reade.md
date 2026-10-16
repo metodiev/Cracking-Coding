@@ -3,6 +3,7 @@
 - **Number:** 967
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [967-implement-accessibility-features-for-lesson-content-screen-reade.md](../../tutorials/tasks/master/967-implement-accessibility-features-for-lesson-content-screen-reade.md)
 
 ## Solutions
 

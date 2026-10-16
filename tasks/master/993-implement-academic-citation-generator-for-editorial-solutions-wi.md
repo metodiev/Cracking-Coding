@@ -3,6 +3,7 @@
 - **Number:** 993
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [993-implement-academic-citation-generator-for-editorial-solutions-wi.md](../../tutorials/tasks/master/993-implement-academic-citation-generator-for-editorial-solutions-wi.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 865
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [865-implement-transparent-model-serving-with-versioning-canary-shado.md](../../tutorials/tasks/master/865-implement-transparent-model-serving-with-versioning-canary-shado.md)
 
 ## Solutions
 

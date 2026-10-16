@@ -3,6 +3,7 @@
 - **Number:** 834
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [834-implement-zk-snark-circuit-for-a-simple-arithmetic-program-toy.md](../../tutorials/tasks/master/834-implement-zk-snark-circuit-for-a-simple-arithmetic-program-toy.md)
 
 ## Solutions
 

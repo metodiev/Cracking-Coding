@@ -3,6 +3,7 @@
 - **Number:** 912
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [912-implement-end-to-end-pipeline-for-privacy-preserving-analytics-w.md](../../tutorials/tasks/master/912-implement-end-to-end-pipeline-for-privacy-preserving-analytics-w.md)
 
 ## Solutions
 

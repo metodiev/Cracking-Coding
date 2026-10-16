@@ -3,6 +3,7 @@
 - **Number:** 960
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [960-implement-gamification-layer-with-badges-for-completing-tiers-an.md](../../tutorials/tasks/master/960-implement-gamification-layer-with-badges-for-completing-tiers-an.md)
 
 ## Solutions
 

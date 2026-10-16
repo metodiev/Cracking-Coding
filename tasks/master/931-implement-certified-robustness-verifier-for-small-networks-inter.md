@@ -3,6 +3,7 @@
 - **Number:** 931
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [931-implement-certified-robustness-verifier-for-small-networks-inter.md](../../tutorials/tasks/master/931-implement-certified-robustness-verifier-for-small-networks-inter.md)
 
 ## Solutions
 

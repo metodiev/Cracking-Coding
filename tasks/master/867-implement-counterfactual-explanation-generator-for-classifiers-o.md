@@ -3,6 +3,7 @@
 - **Number:** 867
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [867-implement-counterfactual-explanation-generator-for-classifiers-o.md](../../tutorials/tasks/master/867-implement-counterfactual-explanation-generator-for-classifiers-o.md)
 
 ## Solutions
 

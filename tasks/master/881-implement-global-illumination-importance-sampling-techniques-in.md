@@ -3,6 +3,7 @@
 - **Number:** 881
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [881-implement-global-illumination-importance-sampling-techniques-in.md](../../tutorials/tasks/master/881-implement-global-illumination-importance-sampling-techniques-in.md)
 
 ## Solutions
 

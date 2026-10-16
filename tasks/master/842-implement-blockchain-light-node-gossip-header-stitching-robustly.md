@@ -3,6 +3,7 @@
 - **Number:** 842
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [842-implement-blockchain-light-node-gossip-header-stitching-robustly.md](../../tutorials/tasks/master/842-implement-blockchain-light-node-gossip-header-stitching-robustly.md)
 
 ## Solutions
 

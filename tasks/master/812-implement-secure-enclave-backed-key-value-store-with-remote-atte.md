@@ -3,6 +3,7 @@
 - **Number:** 812
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [812-implement-secure-enclave-backed-key-value-store-with-remote-atte.md](../../tutorials/tasks/master/812-implement-secure-enclave-backed-key-value-store-with-remote-atte.md)
 
 ## Solutions
 

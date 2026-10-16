@@ -3,6 +3,7 @@
 - **Number:** 973
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [973-implement-automated-hint-generator-using-solved-solution-decompo.md](../../tutorials/tasks/master/973-implement-automated-hint-generator-using-solved-solution-decompo.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 870
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [870-implement-continuous-integration-pipeline-for-large-scale-numeri.md](../../tutorials/tasks/master/870-implement-continuous-integration-pipeline-for-large-scale-numeri.md)
 
 ## Solutions
 

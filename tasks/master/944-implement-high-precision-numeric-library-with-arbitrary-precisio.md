@@ -3,6 +3,7 @@
 - **Number:** 944
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [944-implement-high-precision-numeric-library-with-arbitrary-precisio.md](../../tutorials/tasks/master/944-implement-high-precision-numeric-library-with-arbitrary-precisio.md)
 
 ## Solutions
 

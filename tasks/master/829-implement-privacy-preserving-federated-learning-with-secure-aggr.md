@@ -3,6 +3,7 @@
 - **Number:** 829
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [829-implement-privacy-preserving-federated-learning-with-secure-aggr.md](../../tutorials/tasks/master/829-implement-privacy-preserving-federated-learning-with-secure-aggr.md)
 
 ## Solutions
 

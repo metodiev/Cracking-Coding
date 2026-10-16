@@ -3,6 +3,7 @@
 - **Number:** 946
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [946-implement-high-performance-external-memory-graph-traversal-with.md](../../tutorials/tasks/master/946-implement-high-performance-external-memory-graph-traversal-with.md)
 
 ## Solutions
 

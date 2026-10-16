@@ -3,6 +3,7 @@
 - **Number:** 868
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [868-implement-fairness-aware-training-loop-with-constraint-optimizat.md](../../tutorials/tasks/master/868-implement-fairness-aware-training-loop-with-constraint-optimizat.md)
 
 ## Solutions
 

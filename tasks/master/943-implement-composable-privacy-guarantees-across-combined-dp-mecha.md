@@ -3,6 +3,7 @@
 - **Number:** 943
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [943-implement-composable-privacy-guarantees-across-combined-dp-mecha.md](../../tutorials/tasks/master/943-implement-composable-privacy-guarantees-across-combined-dp-mecha.md)
 
 ## Solutions
 

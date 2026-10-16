@@ -3,6 +3,7 @@
 - **Number:** 883
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [883-implement-automatic-differentiation-for-gpu-kernels-across-fused.md](../../tutorials/tasks/master/883-implement-automatic-differentiation-for-gpu-kernels-across-fused.md)
 
 ## Solutions
 

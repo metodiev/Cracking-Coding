@@ -3,6 +3,7 @@
 - **Number:** 825
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [825-implement-end-to-end-differentiable-physics-simulation-toy.md](../../tutorials/tasks/master/825-implement-end-to-end-differentiable-physics-simulation-toy.md)
 
 ## Solutions
 

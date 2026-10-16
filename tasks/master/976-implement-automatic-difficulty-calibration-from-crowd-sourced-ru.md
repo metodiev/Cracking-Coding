@@ -3,6 +3,7 @@
 - **Number:** 976
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [976-implement-automatic-difficulty-calibration-from-crowd-sourced-ru.md](../../tutorials/tasks/master/976-implement-automatic-difficulty-calibration-from-crowd-sourced-ru.md)
 
 ## Solutions
 

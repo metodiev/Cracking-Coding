@@ -3,6 +3,7 @@
 - **Number:** 979
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [979-implement-certification-exam-generator-and-proctoring-integratio.md](../../tutorials/tasks/master/979-implement-certification-exam-generator-and-proctoring-integratio.md)
 
 ## Solutions
 

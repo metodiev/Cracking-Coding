@@ -3,6 +3,7 @@
 - **Number:** 880
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [880-implement-distributed-rendering-coordinator-with-tile-based-sche.md](../../tutorials/tasks/master/880-implement-distributed-rendering-coordinator-with-tile-based-sche.md)
 
 ## Solutions
 

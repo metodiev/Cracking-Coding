@@ -3,6 +3,7 @@
 - **Number:** 987
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [987-implement-migration-tools-for-older-problem-formats-to-new-canon.md](../../tutorials/tasks/master/987-implement-migration-tools-for-older-problem-formats-to-new-canon.md)
 
 ## Solutions
 

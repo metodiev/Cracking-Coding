@@ -3,6 +3,7 @@
 - **Number:** 986
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [986-implement-open-dataset-packaging-and-licensing-automation-for-pr.md](../../tutorials/tasks/master/986-implement-open-dataset-packaging-and-licensing-automation-for-pr.md)
 
 ## Solutions
 

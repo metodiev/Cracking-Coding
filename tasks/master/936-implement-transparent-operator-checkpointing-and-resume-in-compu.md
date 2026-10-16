@@ -3,6 +3,7 @@
 - **Number:** 936
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [936-implement-transparent-operator-checkpointing-and-resume-in-compu.md](../../tutorials/tasks/master/936-implement-transparent-operator-checkpointing-and-resume-in-compu.md)
 
 ## Solutions
 

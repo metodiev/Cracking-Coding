@@ -3,6 +3,7 @@
 - **Number:** 942
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [942-implement-hot-path-optimization-analyzer-that-suggests-inline-an.md](../../tutorials/tasks/master/942-implement-hot-path-optimization-analyzer-that-suggests-inline-an.md)
 
 ## Solutions
 

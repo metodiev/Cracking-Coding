@@ -3,6 +3,7 @@
 - **Number:** 871
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [871-implement-reproducible-ml-experiments-registry-with-artifact-pro.md](../../tutorials/tasks/master/871-implement-reproducible-ml-experiments-registry-with-artifact-pro.md)
 
 ## Solutions
 

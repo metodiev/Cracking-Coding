@@ -3,6 +3,7 @@
 - **Number:** 949
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [949-implement-approximate-maximum-matching-in-huge-graphs-with-strea.md](../../tutorials/tasks/master/949-implement-approximate-maximum-matching-in-huge-graphs-with-strea.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 894
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [894-implement-automated-root-cause-analysis-heuristics-using-depende.md](../../tutorials/tasks/master/894-implement-automated-root-cause-analysis-heuristics-using-depende.md)
 
 ## Solutions
 

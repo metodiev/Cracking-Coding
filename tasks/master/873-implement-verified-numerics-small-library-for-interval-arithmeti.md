@@ -3,6 +3,7 @@
 - **Number:** 873
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [873-implement-verified-numerics-small-library-for-interval-arithmeti.md](../../tutorials/tasks/master/873-implement-verified-numerics-small-library-for-interval-arithmeti.md)
 
 ## Solutions
 

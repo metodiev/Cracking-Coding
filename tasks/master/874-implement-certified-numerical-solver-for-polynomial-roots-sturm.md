@@ -3,6 +3,7 @@
 - **Number:** 874
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [874-implement-certified-numerical-solver-for-polynomial-roots-sturm.md](../../tutorials/tasks/master/874-implement-certified-numerical-solver-for-polynomial-roots-sturm.md)
 
 ## Solutions
 

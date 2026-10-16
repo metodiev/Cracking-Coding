@@ -3,6 +3,7 @@
 - **Number:** 820
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [820-implement-sparse-embedding-table-sharding-and-warm-up-strategies.md](../../tutorials/tasks/master/820-implement-sparse-embedding-table-sharding-and-warm-up-strategies.md)
 
 ## Solutions
 

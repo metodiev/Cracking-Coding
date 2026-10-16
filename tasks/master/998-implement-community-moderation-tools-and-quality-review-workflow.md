@@ -3,6 +3,7 @@
 - **Number:** 998
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [998-implement-community-moderation-tools-and-quality-review-workflow.md](../../tutorials/tasks/master/998-implement-community-moderation-tools-and-quality-review-workflow.md)
 
 ## Solutions
 

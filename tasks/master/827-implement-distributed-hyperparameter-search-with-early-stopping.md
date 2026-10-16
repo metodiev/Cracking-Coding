@@ -3,6 +3,7 @@
 - **Number:** 827
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [827-implement-distributed-hyperparameter-search-with-early-stopping.md](../../tutorials/tasks/master/827-implement-distributed-hyperparameter-search-with-early-stopping.md)
 
 ## Solutions
 

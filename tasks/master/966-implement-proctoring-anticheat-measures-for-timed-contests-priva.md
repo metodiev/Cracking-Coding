@@ -3,6 +3,7 @@
 - **Number:** 966
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [966-implement-proctoring-anticheat-measures-for-timed-contests-priva.md](../../tutorials/tasks/master/966-implement-proctoring-anticheat-measures-for-timed-contests-priva.md)
 
 ## Solutions
 

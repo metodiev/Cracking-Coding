@@ -3,6 +3,7 @@
 - **Number:** 844
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [844-implement-streaming-graph-processing-with-windowed-aggregations.md](../../tutorials/tasks/master/844-implement-streaming-graph-processing-with-windowed-aggregations.md)
 
 ## Solutions
 

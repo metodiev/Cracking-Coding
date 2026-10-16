@@ -3,6 +3,7 @@
 - **Number:** 862
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [862-implement-approximate-bayesian-computation-pipeline-for-simulato.md](../../tutorials/tasks/master/862-implement-approximate-bayesian-computation-pipeline-for-simulato.md)
 
 ## Solutions
 

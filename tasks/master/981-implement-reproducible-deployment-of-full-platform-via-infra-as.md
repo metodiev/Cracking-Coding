@@ -3,6 +3,7 @@
 - **Number:** 981
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [981-implement-reproducible-deployment-of-full-platform-via-infra-as.md](../../tutorials/tasks/master/981-implement-reproducible-deployment-of-full-platform-via-infra-as.md)
 
 ## Solutions
 

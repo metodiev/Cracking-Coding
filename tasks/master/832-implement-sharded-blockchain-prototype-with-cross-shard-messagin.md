@@ -3,6 +3,7 @@
 - **Number:** 832
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [832-implement-sharded-blockchain-prototype-with-cross-shard-messagin.md](../../tutorials/tasks/master/832-implement-sharded-blockchain-prototype-with-cross-shard-messagin.md)
 
 ## Solutions
 

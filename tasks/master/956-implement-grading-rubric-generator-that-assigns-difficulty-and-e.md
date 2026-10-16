@@ -3,6 +3,7 @@
 - **Number:** 956
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [956-implement-grading-rubric-generator-that-assigns-difficulty-and-e.md](../../tutorials/tasks/master/956-implement-grading-rubric-generator-that-assigns-difficulty-and-e.md)
 
 ## Solutions
 

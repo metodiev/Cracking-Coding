@@ -3,6 +3,7 @@
 - **Number:** 961
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo.md](../../tutorials/tasks/master/961-implement-mentoring-workflow-pairing-novices-with-maintainers-fo.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 939
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [939-implement-trace-based-replay-system-for-production-debugging.md](../../tutorials/tasks/master/939-implement-trace-based-replay-system-for-production-debugging.md)
 
 ## Solutions
 

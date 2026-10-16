@@ -3,6 +3,7 @@
 - **Number:** 965
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [965-implement-secure-sandbox-to-run-untrusted-student-submissions-wi.md](../../tutorials/tasks/master/965-implement-secure-sandbox-to-run-untrusted-student-submissions-wi.md)
 
 ## Solutions
 

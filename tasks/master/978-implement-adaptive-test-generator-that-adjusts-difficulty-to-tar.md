@@ -3,6 +3,7 @@
 - **Number:** 978
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar.md](../../tutorials/tasks/master/978-implement-adaptive-test-generator-that-adjusts-difficulty-to-tar.md)
 
 ## Solutions
 

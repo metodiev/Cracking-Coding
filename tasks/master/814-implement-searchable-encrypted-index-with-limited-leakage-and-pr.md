@@ -3,6 +3,7 @@
 - **Number:** 814
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [814-implement-searchable-encrypted-index-with-limited-leakage-and-pr.md](../../tutorials/tasks/master/814-implement-searchable-encrypted-index-with-limited-leakage-and-pr.md)
 
 ## Solutions
 

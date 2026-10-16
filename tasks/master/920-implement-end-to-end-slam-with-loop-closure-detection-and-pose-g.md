@@ -3,6 +3,7 @@
 - **Number:** 920
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [920-implement-end-to-end-slam-with-loop-closure-detection-and-pose-g.md](../../tutorials/tasks/master/920-implement-end-to-end-slam-with-loop-closure-detection-and-pose-g.md)
 
 ## Solutions
 

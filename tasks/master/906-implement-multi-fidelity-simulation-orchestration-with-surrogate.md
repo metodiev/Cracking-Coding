@@ -3,6 +3,7 @@
 - **Number:** 906
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [906-implement-multi-fidelity-simulation-orchestration-with-surrogate.md](../../tutorials/tasks/master/906-implement-multi-fidelity-simulation-orchestration-with-surrogate.md)
 
 ## Solutions
 

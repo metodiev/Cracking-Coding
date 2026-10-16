@@ -3,6 +3,7 @@
 - **Number:** 804
 - **Tier:** Master / Challenge
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [804-implement-distributed-sql-with-sharding-routing-and-distributed.md](../../tutorials/tasks/master/804-implement-distributed-sql-with-sharding-routing-and-distributed.md)
 
 ## Solutions
 
