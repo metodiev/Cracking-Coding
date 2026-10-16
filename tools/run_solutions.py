@@ -15,7 +15,9 @@ Usage:
 `tier` is one of beginner, intermediate, advanced, expert, master and is matched
 against any path component, so it works on Windows as well as POSIX.
 
-Every solution must exit 0 and print `PASS`. Exits non-zero when any solution fails.
+Every solution must exit 0 and print `PASS`. A solution is only *skipped* when the
+language toolchain itself is missing (no python/java/node/dotnet) — never because
+of anything a solution prints. Exits non-zero when any solution fails.
 """
 from __future__ import annotations
 
@@ -44,6 +46,11 @@ LANG_FILES = {
 }
 
 
+PASS = "pass"
+FAIL = "fail"
+SKIP = "skip"
+
+
 def base_env() -> dict:
     env = os.environ.copy()
     if FALLBACK.exists():
@@ -51,29 +58,34 @@ def base_env() -> dict:
     return env
 
 
-def run_python(folder: Path) -> tuple[bool, str]:
+def run_python(folder: Path) -> tuple[str, str]:
     r = subprocess.run([sys.executable, "solution.py"], cwd=folder,
                        capture_output=True, text=True, timeout=300)
-    return r.returncode == 0 and "PASS" in r.stdout, (r.stdout + r.stderr).strip()
+    out = (r.stdout + r.stderr).strip()
+    return (PASS if r.returncode == 0 and "PASS" in r.stdout else FAIL), out
 
 
-def run_java(folder: Path) -> tuple[bool, str]:
+def run_java(folder: Path) -> tuple[str, str]:
+    if shutil.which("javac") is None or shutil.which("java") is None:
+        return SKIP, "java not found — skipped"
     with tempfile.TemporaryDirectory() as tmp:
         r = subprocess.run(["javac", "-d", tmp, "Solution.java"], cwd=folder,
                            capture_output=True, text=True, timeout=300)
         if r.returncode != 0:
-            return False, r.stderr.strip()
+            return FAIL, r.stderr.strip()
         r = subprocess.run(["java", "-cp", tmp, "Solution"], cwd=folder,
                            capture_output=True, text=True, timeout=300)
-        return r.returncode == 0 and "PASS" in r.stdout, (r.stdout + r.stderr).strip()
+        out = (r.stdout + r.stderr).strip()
+        return (PASS if r.returncode == 0 and "PASS" in r.stdout else FAIL), out
 
 
-def run_node(folder: Path) -> tuple[bool, str]:
+def run_node(folder: Path) -> tuple[str, str]:
     if shutil.which("node") is None:
-        return True, "node not found — skipped"
+        return SKIP, "node not found — skipped"
     r = subprocess.run(["node", "solution.js"], cwd=folder, env=base_env(),
                        capture_output=True, text=True, timeout=300)
-    return r.returncode == 0 and "PASS" in r.stdout, (r.stdout + r.stderr).strip()
+    out = (r.stdout + r.stderr).strip()
+    return (PASS if r.returncode == 0 and "PASS" in r.stdout else FAIL), out
 
 
 class CSharpRunner:
@@ -97,19 +109,21 @@ class CSharpRunner:
             self.local.work = work
         return work
 
-    def __call__(self, folder: Path) -> tuple[bool, str]:
+    def __call__(self, folder: Path) -> tuple[str, str]:
         if self.dotnet is None:
-            return True, "dotnet not available — skipped"
+            return SKIP, "dotnet not available — skipped"
         source = folder / "Solution.cs"
         try:
             if self.toolchain is not None:
                 csc, ref_dir, tfm = self.toolchain
-                return csbuild.run_direct(csc, ref_dir, tfm, source, self.work_dir(),
-                                          self.dotnet, self.env)
-            return csbuild.run_with_msbuild(self.dotnet, "net8.0", source,
-                                            self.work_dir(), self.env)
+                ok, out = csbuild.run_direct(csc, ref_dir, tfm, source, self.work_dir(),
+                                             self.dotnet, self.env)
+            else:
+                ok, out = csbuild.run_with_msbuild(self.dotnet, "net8.0", source,
+                                                   self.work_dir(), self.env)
         except subprocess.TimeoutExpired:
-            return False, "timed out"
+            return FAIL, "timed out"
+        return (PASS if ok else FAIL), out
 
 
 def build_runners() -> dict:
@@ -157,18 +171,16 @@ def main(argv: list[str]) -> int:
     def execute(job: tuple[str, Path]) -> tuple[str, Path, str, str]:
         lang, folder = job
         try:
-            ok, out = runners[lang](folder)
+            status, out = runners[lang](folder)
         except Exception as exc:  # noqa: BLE001 - a runner crash is a failure
-            return lang, folder, "fail", f"{type(exc).__name__}: {exc}"
-        if "skipped" in out:
-            return lang, folder, "skip", out
-        return lang, folder, "pass" if ok else "fail", out
+            return lang, folder, FAIL, f"{type(exc).__name__}: {exc}"
+        return lang, folder, status, out
 
     with ThreadPoolExecutor(max_workers=max(1, args.jobs)) as pool:
         for lang, folder, status, out in pool.map(execute, jobs):
             with lock:
                 stats[status] += 1
-            if status == "fail":
+            if status == FAIL:
                 print(f"FAILED [{lang}] {folder.relative_to(ROOT)}")
                 print("  " + out.replace("\n", "\n  ")[:4000])
 
