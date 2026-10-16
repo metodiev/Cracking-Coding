@@ -10,7 +10,14 @@ Checks, per file under the given paths (files or directories, recursively):
   * no tab characters (tabs break mermaid parsing in some renderers)
   * raw '<' or '>' outside of HTML-ish tags inside a label (must be &lt; / &gt;)
   * node ids do not collide with mermaid keywords (end, class, style, ...)
+  * sequence diagrams: actor names may not be reserved words; message and note text may
+    not contain HTML entities, ';', or any angle bracket at all
+  * state diagrams: state ids may not be reserved words, and may not be quoted
+  * class diagrams: labels may not contain ';'
   * (for tutorials/tasks/**) the required section headings, the link block and 3+ diagrams
+
+These rules are the ones tools/check_mermaid_render.mjs (the real mermaid parser) rejects;
+keeping them here lets the cheap check catch them without a Node toolchain.
 
 Exits non-zero and prints every problem.
 """
@@ -31,6 +38,14 @@ DIAGRAM_KEYWORDS = (
 
 RESERVED_IDS = {"end", "class", "classDef", "style", "click", "subgraph", "direction",
                 "linkStyle", "default", "graph", "flowchart", "sequenceDiagram"}
+
+# Sequence diagrams parse their message/note text with their own lexer, which is why
+# these words cannot be used as actor names and why '&lt;' (but not '<') is a parse error.
+SEQ_RESERVED_IDS = {"loop", "end", "opt", "alt", "else", "par", "and", "rect", "critical",
+                    "option", "break", "note", "over", "activate", "deactivate",
+                    "autonumber", "participant", "actor", "box", "destroy", "create",
+                    "link", "links", "properties", "details", "off"}
+STATE_RESERVED_IDS = {"state", "class", "note", "style", "classdef", "click", "scale"}
 
 REQUIRED_SECTIONS = (
     "## 1. Problem restatement",
@@ -58,6 +73,23 @@ LINK_RE = re.compile(
 # Class-diagram annotations such as <<abstract>> / <<interface>> are valid mermaid.
 ANNOTATION_RE = re.compile(r"<<[^<>\n]*>>")
 
+# Sequence-diagram actor names, message text and notes.
+SEQ_ACTOR_RE = re.compile(r"(?:^|\s)(?:participant|actor)\s+([A-Za-z_][A-Za-z0-9_]*)")
+SEQ_ARROW_ACTOR_RE = re.compile(
+    r"(?:^|\s)([A-Za-z_][A-Za-z0-9_]*)\s*(?:-->>|->>|-->|->|--x|--\)|-\))")
+SEQ_TEXT_RE = re.compile(
+    r"^\s*(?:"
+    r"[A-Za-z_][A-Za-z0-9_]*\s*(?:-->>|->>|-->|->|--x|--\)|-\))[^:]*"
+    r"|[Nn]ote\s+(?:over|left of|right of)\s+[^:]*"
+    r"):(.*)$")
+ENTITY_RE = re.compile(r"&[A-Za-z][A-Za-z0-9]*;")
+
+# State-diagram transitions: both the source and the target must be plain ids.
+_STATE_TOKEN = r'"[^"]*"|[A-Za-z_][A-Za-z0-9_]*|\[\*\]'
+STATE_TRANSITION_RE = re.compile(r"^\s*(" + _STATE_TOKEN + r")\s*-->\s*(" + _STATE_TOKEN + r")")
+# Class-diagram relation labels use ':' and cannot contain ';'.
+CLASS_LABEL_RE = re.compile(r":.*;")
+
 
 def iter_markdown(paths: list[Path]) -> list[Path]:
     files: list[Path] = []
@@ -80,10 +112,10 @@ class Report:
         where = f"{md}:{lineno}" if lineno else str(md)
         entry = f"{where}: {message}"
         try:
-            is_tutorial = str(md.relative_to(ROOT)).replace("\\", "/").startswith("tutorials/tasks/")
+            rel = md.resolve().relative_to(ROOT).as_posix()
         except ValueError:
-            is_tutorial = False
-        (self.errors if is_tutorial else self.warnings).append(entry)
+            rel = md.as_posix()
+        (self.errors if rel.startswith("tutorials/tasks/") else self.warnings).append(entry)
 
 
 def check_mermaid_blocks(md: Path, text: str, report: Report) -> int:
@@ -134,22 +166,47 @@ def _check_block(md: Path, start: int, body: list[str], report: Report) -> None:
     if keyword not in DIAGRAM_KEYWORDS:
         report.add(md, start, f"first line is not a diagram keyword: {first[:60]!r}")
 
+    in_sequence = keyword == "sequenceDiagram"
+    in_state = keyword in ("stateDiagram", "stateDiagram-v2")
+    in_class = keyword in ("classDiagram", "classDiagram-v2")
+
     for offset, line in enumerate(body):
         lineno = start + 1 + offset
         if "\t" in line:
             report.add(md, lineno, "tab character inside a mermaid block")
         code = line.split("%%")[0] if line.strip().startswith("%%") else line
-        code = LINK_RE.sub(" ", code)
-        code = ANNOTATION_RE.sub(" ", code)
-        if RAW_ANGLE_RE.search(code):
-            leftover = ALLOWED_ANGLE_RE.sub("", code)
+        if in_sequence:
+            _check_sequence_line(md, lineno, code, report)
+
+        labelled = LINK_RE.sub(" ", code)
+        labelled = ANNOTATION_RE.sub(" ", labelled)
+        # Sequence message text is the one place where '<' and '>' are legal and '&lt;'
+        # is not, so it is checked separately (above) instead of by the generic rule.
+        if not in_sequence and RAW_ANGLE_RE.search(labelled):
+            leftover = ALLOWED_ANGLE_RE.sub("", labelled)
             if RAW_ANGLE_RE.search(leftover):
                 report.add(md, lineno, "raw '<' or '>' - escape as &lt; / &gt;")
-        for m in NODE_ID_RE.finditer(code):
+        for m in NODE_ID_RE.finditer(labelled):
             if m.group(1) in RESERVED_IDS:
                 report.add(md, lineno, f"node id {m.group(1)!r} collides with a mermaid keyword")
+
+        if in_state:
+            m = STATE_TRANSITION_RE.match(code)
+            for side in (m.group(1), m.group(2)) if m else ():
+                if side.startswith('"'):
+                    report.add(md, lineno,
+                               'quoted state id - declare it as: state "Label" as s0')
+                elif side.lower() in STATE_RESERVED_IDS:
+                    report.add(md, lineno,
+                               f"state id {side!r} collides with a mermaid keyword")
+
+        if in_class and CLASS_LABEL_RE.search(code):
+            report.add(md, lineno, "';' inside a class-diagram label is a parse error")
+
         # unquoted labels with punctuation are the most common parse failure
-        for m in LABEL_RE.finditer(code):
+        if in_sequence:
+            continue
+        for m in LABEL_RE.finditer(labelled):
             quoted, bracket, brace, paren = m.groups()
             if quoted or brace is None:
                 continue
@@ -158,6 +215,35 @@ def _check_block(md: Path, start: int, body: list[str], report: Report) -> None:
             if core and not (core[0] == '"' and core[-1] == '"'):
                 if any(ch in core for ch in ",;:(){}[]"):
                     report.add(md, lineno, f"unquoted label with punctuation: {inner!r}")
+
+
+def _check_sequence_line(md: Path, lineno: int, code: str, report: Report) -> None:
+    """Sequence diagrams have their own lexer, so they have their own traps.
+
+    Reserved words cannot be actor names, and message/note text may not contain ';',
+    HTML entities, or any angle bracket at all (mermaid accepts a raw '<' here but the
+    renderer may swallow it, and the natural "fix" of escaping it is a parse error).
+    """
+    for pattern in (SEQ_ACTOR_RE, SEQ_ARROW_ACTOR_RE):
+        for m in pattern.finditer(code):
+            if m.group(1).lower() in SEQ_RESERVED_IDS:
+                report.add(md, lineno,
+                           f"actor name {m.group(1)!r} collides with a mermaid keyword")
+
+    m = SEQ_TEXT_RE.match(code)
+    if not m:
+        return
+    text = m.group(1)
+    if ENTITY_RE.search(text):
+        report.add(md, lineno,
+                   "named HTML entity in sequence message text is a parse error - "
+                   "use a tag such as <br/> or plain words")
+    if ";" in text:
+        report.add(md, lineno, "';' in sequence message text is a parse error - use a comma")
+    if RAW_ANGLE_RE.search(ALLOWED_ANGLE_RE.sub("", text)):
+        report.add(md, lineno,
+                   "avoid '<' and '>' in sequence message text - write 'less than' / "
+                   "'at least' (only HTML tags such as <br/> may use them)")
 
 
 def check_tutorial_structure(md: Path, text: str, blocks: int, report: Report) -> None:
