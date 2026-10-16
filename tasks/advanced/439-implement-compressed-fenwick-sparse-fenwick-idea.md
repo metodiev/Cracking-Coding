@@ -3,6 +3,7 @@
 - **Number:** 439
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [439-implement-compressed-fenwick-sparse-fenwick-idea.md](../../tutorials/tasks/advanced/439-implement-compressed-fenwick-sparse-fenwick-idea.md)
 
 ## Solutions
 

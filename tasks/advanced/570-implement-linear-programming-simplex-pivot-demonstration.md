@@ -3,6 +3,7 @@
 - **Number:** 570
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [570-implement-linear-programming-simplex-pivot-demonstration.md](../../tutorials/tasks/advanced/570-implement-linear-programming-simplex-pivot-demonstration.md)
 
 ## Solutions
 

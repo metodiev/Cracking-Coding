@@ -3,6 +3,7 @@
 - **Number:** 516
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [516-implement-sgd-with-learning-rate-schedule-decay.md](../../tutorials/tasks/advanced/516-implement-sgd-with-learning-rate-schedule-decay.md)
 
 ## Solutions
 

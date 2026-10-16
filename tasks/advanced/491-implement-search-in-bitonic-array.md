@@ -3,6 +3,7 @@
 - **Number:** 491
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [491-implement-search-in-bitonic-array.md](../../tutorials/tasks/advanced/491-implement-search-in-bitonic-array.md)
 
 ## Solutions
 

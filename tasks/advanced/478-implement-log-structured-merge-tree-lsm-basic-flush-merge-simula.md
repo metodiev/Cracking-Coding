@@ -3,6 +3,7 @@
 - **Number:** 478
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [478-implement-log-structured-merge-tree-lsm-basic-flush-merge-simula.md](../../tutorials/tasks/advanced/478-implement-log-structured-merge-tree-lsm-basic-flush-merge-simula.md)
 
 ## Solutions
 

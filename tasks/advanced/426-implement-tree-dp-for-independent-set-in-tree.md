@@ -3,6 +3,7 @@
 - **Number:** 426
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [426-implement-tree-dp-for-independent-set-in-tree.md](../../tutorials/tasks/advanced/426-implement-tree-dp-for-independent-set-in-tree.md)
 
 ## Solutions
 

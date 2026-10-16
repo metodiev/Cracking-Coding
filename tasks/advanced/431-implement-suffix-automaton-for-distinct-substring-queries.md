@@ -3,6 +3,7 @@
 - **Number:** 431
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [431-implement-suffix-automaton-for-distinct-substring-queries.md](../../tutorials/tasks/advanced/431-implement-suffix-automaton-for-distinct-substring-queries.md)
 
 ## Solutions
 

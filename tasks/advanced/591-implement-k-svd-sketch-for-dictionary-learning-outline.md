@@ -3,6 +3,7 @@
 - **Number:** 591
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [591-implement-k-svd-sketch-for-dictionary-learning-outline.md](../../tutorials/tasks/advanced/591-implement-k-svd-sketch-for-dictionary-learning-outline.md)
 
 ## Solutions
 

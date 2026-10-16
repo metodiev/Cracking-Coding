@@ -3,6 +3,7 @@
 - **Number:** 566
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [566-implement-steiner-tree-approximate-on-small-graphs-heuristic.md](../../tutorials/tasks/advanced/566-implement-steiner-tree-approximate-on-small-graphs-heuristic.md)
 
 ## Solutions
 

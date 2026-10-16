@@ -3,6 +3,7 @@
 - **Number:** 537
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [537-implement-approximate-tsp-heuristics-2-opt-3-opt.md](../../tutorials/tasks/advanced/537-implement-approximate-tsp-heuristics-2-opt-3-opt.md)
 
 ## Solutions
 

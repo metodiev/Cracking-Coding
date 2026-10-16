@@ -3,6 +3,7 @@
 - **Number:** 511
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [511-implement-checkpointed-parallel-map-reduce-worker-for-crash-reco.md](../../tutorials/tasks/advanced/511-implement-checkpointed-parallel-map-reduce-worker-for-crash-reco.md)
 
 ## Solutions
 

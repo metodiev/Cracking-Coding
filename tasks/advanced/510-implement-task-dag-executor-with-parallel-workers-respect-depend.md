@@ -3,6 +3,7 @@
 - **Number:** 510
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [510-implement-task-dag-executor-with-parallel-workers-respect-depend.md](../../tutorials/tasks/advanced/510-implement-task-dag-executor-with-parallel-workers-respect-depend.md)
 
 ## Solutions
 

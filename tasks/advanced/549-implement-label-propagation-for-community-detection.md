@@ -3,6 +3,7 @@
 - **Number:** 549
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [549-implement-label-propagation-for-community-detection.md](../../tutorials/tasks/advanced/549-implement-label-propagation-for-community-detection.md)
 
 ## Solutions
 

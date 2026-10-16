@@ -3,6 +3,7 @@
 - **Number:** 528
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [528-implement-karp-rabin-for-many-patterns-with-automaton.md](../../tutorials/tasks/advanced/528-implement-karp-rabin-for-many-patterns-with-automaton.md)
 
 ## Solutions
 

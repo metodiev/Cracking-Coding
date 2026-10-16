@@ -3,6 +3,7 @@
 - **Number:** 538
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [538-implement-christofides-algorithm-outline-for-metric-tsp.md](../../tutorials/tasks/advanced/538-implement-christofides-algorithm-outline-for-metric-tsp.md)
 
 ## Solutions
 

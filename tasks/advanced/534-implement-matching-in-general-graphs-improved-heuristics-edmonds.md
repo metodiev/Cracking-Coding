@@ -3,6 +3,7 @@
 - **Number:** 534
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [534-implement-matching-in-general-graphs-improved-heuristics-edmonds.md](../../tutorials/tasks/advanced/534-implement-matching-in-general-graphs-improved-heuristics-edmonds.md)
 
 ## Solutions
 

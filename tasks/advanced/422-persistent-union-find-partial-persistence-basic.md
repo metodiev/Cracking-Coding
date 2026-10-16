@@ -3,6 +3,7 @@
 - **Number:** 422
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [422-persistent-union-find-partial-persistence-basic.md](../../tutorials/tasks/advanced/422-persistent-union-find-partial-persistence-basic.md)
 
 ## Solutions
 

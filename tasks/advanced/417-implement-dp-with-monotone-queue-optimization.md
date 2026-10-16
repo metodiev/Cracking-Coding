@@ -3,6 +3,7 @@
 - **Number:** 417
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [417-implement-dp-with-monotone-queue-optimization.md](../../tutorials/tasks/advanced/417-implement-dp-with-monotone-queue-optimization.md)
 
 ## Solutions
 

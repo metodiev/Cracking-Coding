@@ -3,6 +3,7 @@
 - **Number:** 536
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [536-implement-constrained-shortest-path-resource-constrained-dp.md](../../tutorials/tasks/advanced/536-implement-constrained-shortest-path-resource-constrained-dp.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 521
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [521-implement-reservoir-sampling-based-stratified-sampling.md](../../tutorials/tasks/advanced/521-implement-reservoir-sampling-based-stratified-sampling.md)
 
 ## Solutions
 

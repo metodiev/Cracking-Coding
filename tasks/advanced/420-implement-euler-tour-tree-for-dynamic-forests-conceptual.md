@@ -3,6 +3,7 @@
 - **Number:** 420
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [420-implement-euler-tour-tree-for-dynamic-forests-conceptual.md](../../tutorials/tasks/advanced/420-implement-euler-tour-tree-for-dynamic-forests-conceptual.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 569
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [569-implement-maximum-coverage-greedy-approximation.md](../../tutorials/tasks/advanced/569-implement-maximum-coverage-greedy-approximation.md)
 
 ## Solutions
 

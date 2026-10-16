@@ -3,6 +3,7 @@
 - **Number:** 577
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics.md](../../tutorials/tasks/advanced/577-implement-k-d-tree-with-bulk-insertion-balancing-heuristics.md)
 
 ## Solutions
 

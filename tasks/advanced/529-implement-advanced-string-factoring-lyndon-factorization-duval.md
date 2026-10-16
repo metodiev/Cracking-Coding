@@ -3,6 +3,7 @@
 - **Number:** 529
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [529-implement-advanced-string-factoring-lyndon-factorization-duval.md](../../tutorials/tasks/advanced/529-implement-advanced-string-factoring-lyndon-factorization-duval.md)
 
 ## Solutions
 

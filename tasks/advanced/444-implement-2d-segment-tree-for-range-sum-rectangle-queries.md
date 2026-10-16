@@ -3,6 +3,7 @@
 - **Number:** 444
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [444-implement-2d-segment-tree-for-range-sum-rectangle-queries.md](../../tutorials/tasks/advanced/444-implement-2d-segment-tree-for-range-sum-rectangle-queries.md)
 
 ## Solutions
 

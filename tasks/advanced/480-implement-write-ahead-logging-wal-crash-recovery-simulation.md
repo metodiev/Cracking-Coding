@@ -3,6 +3,7 @@
 - **Number:** 480
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [480-implement-write-ahead-logging-wal-crash-recovery-simulation.md](../../tutorials/tasks/advanced/480-implement-write-ahead-logging-wal-crash-recovery-simulation.md)
 
 ## Solutions
 

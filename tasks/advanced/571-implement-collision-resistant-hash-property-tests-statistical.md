@@ -3,6 +3,7 @@
 - **Number:** 571
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [571-implement-collision-resistant-hash-property-tests-statistical.md](../../tutorials/tasks/advanced/571-implement-collision-resistant-hash-property-tests-statistical.md)
 
 ## Solutions
 

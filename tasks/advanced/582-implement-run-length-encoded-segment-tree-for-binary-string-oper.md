@@ -3,6 +3,7 @@
 - **Number:** 582
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [582-implement-run-length-encoded-segment-tree-for-binary-string-oper.md](../../tutorials/tasks/advanced/582-implement-run-length-encoded-segment-tree-for-binary-string-oper.md)
 
 ## Solutions
 

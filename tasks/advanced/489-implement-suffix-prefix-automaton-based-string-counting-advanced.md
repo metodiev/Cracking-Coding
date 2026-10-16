@@ -3,6 +3,7 @@
 - **Number:** 489
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [489-implement-suffix-prefix-automaton-based-string-counting-advanced.md](../../tutorials/tasks/advanced/489-implement-suffix-prefix-automaton-based-string-counting-advanced.md)
 
 ## Solutions
 

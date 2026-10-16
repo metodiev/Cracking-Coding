@@ -3,6 +3,7 @@
 - **Number:** 461
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics.md](../../tutorials/tasks/advanced/461-implement-kd-tree-nearest-neighbor-with-pruning-heuristics.md)
 
 ## Solutions
 

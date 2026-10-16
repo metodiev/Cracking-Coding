@@ -3,6 +3,7 @@
 - **Number:** 470
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [470-implement-consistent-hashing-ring-virtual-nodes.md](../../tutorials/tasks/advanced/470-implement-consistent-hashing-ring-virtual-nodes.md)
 
 ## Solutions
 

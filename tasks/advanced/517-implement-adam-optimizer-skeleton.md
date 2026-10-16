@@ -3,6 +3,7 @@
 - **Number:** 517
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [517-implement-adam-optimizer-skeleton.md](../../tutorials/tasks/advanced/517-implement-adam-optimizer-skeleton.md)
 
 ## Solutions
 

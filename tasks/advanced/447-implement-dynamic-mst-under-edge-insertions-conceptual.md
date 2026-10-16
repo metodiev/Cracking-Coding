@@ -3,6 +3,7 @@
 - **Number:** 447
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [447-implement-dynamic-mst-under-edge-insertions-conceptual.md](../../tutorials/tasks/advanced/447-implement-dynamic-mst-under-edge-insertions-conceptual.md)
 
 ## Solutions
 

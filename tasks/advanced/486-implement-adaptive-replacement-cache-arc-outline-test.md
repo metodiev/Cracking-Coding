@@ -3,6 +3,7 @@
 - **Number:** 486
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [486-implement-adaptive-replacement-cache-arc-outline-test.md](../../tutorials/tasks/advanced/486-implement-adaptive-replacement-cache-arc-outline-test.md)
 
 ## Solutions
 

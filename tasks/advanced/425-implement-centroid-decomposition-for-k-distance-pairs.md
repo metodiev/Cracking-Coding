@@ -3,6 +3,7 @@
 - **Number:** 425
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [425-implement-centroid-decomposition-for-k-distance-pairs.md](../../tutorials/tasks/advanced/425-implement-centroid-decomposition-for-k-distance-pairs.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 427
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [427-implement-rerooting-dp-technique-on-trees.md](../../tutorials/tasks/advanced/427-implement-rerooting-dp-technique-on-trees.md)
 
 ## Solutions
 

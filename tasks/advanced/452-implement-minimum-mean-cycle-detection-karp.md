@@ -3,6 +3,7 @@
 - **Number:** 452
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [452-implement-minimum-mean-cycle-detection-karp.md](../../tutorials/tasks/advanced/452-implement-minimum-mean-cycle-detection-karp.md)
 
 ## Solutions
 

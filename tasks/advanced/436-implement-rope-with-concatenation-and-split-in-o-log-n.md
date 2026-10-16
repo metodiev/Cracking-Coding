@@ -3,6 +3,7 @@
 - **Number:** 436
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [436-implement-rope-with-concatenation-and-split-in-o-log-n.md](../../tutorials/tasks/advanced/436-implement-rope-with-concatenation-and-split-in-o-log-n.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 428
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [428-implement-binary-lifting-for-lca-and-ancestor-queries.md](../../tutorials/tasks/advanced/428-implement-binary-lifting-for-lca-and-ancestor-queries.md)
 
 ## Solutions
 

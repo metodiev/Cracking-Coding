@@ -3,6 +3,7 @@
 - **Number:** 414
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [414-implement-edit-distance-with-low-memory-hirschberg.md](../../tutorials/tasks/advanced/414-implement-edit-distance-with-low-memory-hirschberg.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 592
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [592-implement-sparse-coding-orthogonal-matching-pursuit-omp.md](../../tutorials/tasks/advanced/592-implement-sparse-coding-orthogonal-matching-pursuit-omp.md)
 
 ## Solutions
 

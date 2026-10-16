@@ -3,6 +3,7 @@
 - **Number:** 588
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [588-implement-matrix-inverse-with-gaussian-elimination-careful-with.md](../../tutorials/tasks/advanced/588-implement-matrix-inverse-with-gaussian-elimination-careful-with.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 438
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [438-implement-external-memory-sort-outline-multiway-merge.md](../../tutorials/tasks/advanced/438-implement-external-memory-sort-outline-multiway-merge.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 450
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [450-implement-stoer-wagner-minimum-cut-algorithm.md](../../tutorials/tasks/advanced/450-implement-stoer-wagner-minimum-cut-algorithm.md)
 
 ## Solutions
 

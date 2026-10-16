@@ -3,6 +3,7 @@
 - **Number:** 586
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [586-implement-chirp-z-transform-outline-for-non-power-of-two-convolu.md](../../tutorials/tasks/advanced/586-implement-chirp-z-transform-outline-for-non-power-of-two-convolu.md)
 
 ## Solutions
 

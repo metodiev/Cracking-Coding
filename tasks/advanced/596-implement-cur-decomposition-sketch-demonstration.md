@@ -3,6 +3,7 @@
 - **Number:** 596
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [596-implement-cur-decomposition-sketch-demonstration.md](../../tutorials/tasks/advanced/596-implement-cur-decomposition-sketch-demonstration.md)
 
 ## Solutions
 

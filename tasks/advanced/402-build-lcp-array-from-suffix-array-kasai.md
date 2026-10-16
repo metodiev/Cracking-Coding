@@ -3,6 +3,7 @@
 - **Number:** 402
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [402-build-lcp-array-from-suffix-array-kasai.md](../../tutorials/tasks/advanced/402-build-lcp-array-from-suffix-array-kasai.md)
 
 ## Solutions
 

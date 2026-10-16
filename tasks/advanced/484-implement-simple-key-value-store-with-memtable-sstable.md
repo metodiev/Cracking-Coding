@@ -3,6 +3,7 @@
 - **Number:** 484
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [484-implement-simple-key-value-store-with-memtable-sstable.md](../../tutorials/tasks/advanced/484-implement-simple-key-value-store-with-memtable-sstable.md)
 
 ## Solutions
 

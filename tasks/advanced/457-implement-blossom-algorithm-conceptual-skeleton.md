@@ -3,6 +3,7 @@
 - **Number:** 457
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [457-implement-blossom-algorithm-conceptual-skeleton.md](../../tutorials/tasks/advanced/457-implement-blossom-algorithm-conceptual-skeleton.md)
 
 ## Solutions
 

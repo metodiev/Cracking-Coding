@@ -3,6 +3,7 @@
 - **Number:** 455
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [455-implement-capacity-scaling-for-max-flow.md](../../tutorials/tasks/advanced/455-implement-capacity-scaling-for-max-flow.md)
 
 ## Solutions
 

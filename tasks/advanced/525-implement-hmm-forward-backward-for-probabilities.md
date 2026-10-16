@@ -3,6 +3,7 @@
 - **Number:** 525
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [525-implement-hmm-forward-backward-for-probabilities.md](../../tutorials/tasks/advanced/525-implement-hmm-forward-backward-for-probabilities.md)
 
 ## Solutions
 

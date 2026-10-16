@@ -3,6 +3,7 @@
 - **Number:** 522
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [522-implement-bootstrap-sampling-estimator-for-mean-ci.md](../../tutorials/tasks/advanced/522-implement-bootstrap-sampling-estimator-for-mean-ci.md)
 
 ## Solutions
 

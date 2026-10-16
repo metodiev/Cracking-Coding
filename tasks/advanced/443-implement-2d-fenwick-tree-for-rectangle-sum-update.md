@@ -3,6 +3,7 @@
 - **Number:** 443
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [443-implement-2d-fenwick-tree-for-rectangle-sum-update.md](../../tutorials/tasks/advanced/443-implement-2d-fenwick-tree-for-rectangle-sum-update.md)
 
 ## Solutions
 

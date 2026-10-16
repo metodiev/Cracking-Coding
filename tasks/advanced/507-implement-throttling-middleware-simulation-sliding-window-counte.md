@@ -3,6 +3,7 @@
 - **Number:** 507
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [507-implement-throttling-middleware-simulation-sliding-window-counte.md](../../tutorials/tasks/advanced/507-implement-throttling-middleware-simulation-sliding-window-counte.md)
 
 ## Solutions
 

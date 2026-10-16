@@ -3,6 +3,7 @@
 - **Number:** 515
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [515-implement-minibatch-gradient-descent-training-loop-for-logistic.md](../../tutorials/tasks/advanced/515-implement-minibatch-gradient-descent-training-loop-for-logistic.md)
 
 ## Solutions
 

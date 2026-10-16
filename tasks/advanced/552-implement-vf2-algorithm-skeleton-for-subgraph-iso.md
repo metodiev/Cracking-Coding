@@ -3,6 +3,7 @@
 - **Number:** 552
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [552-implement-vf2-algorithm-skeleton-for-subgraph-iso.md](../../tutorials/tasks/advanced/552-implement-vf2-algorithm-skeleton-for-subgraph-iso.md)
 
 ## Solutions
 

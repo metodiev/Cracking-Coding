@@ -3,6 +3,7 @@
 - **Number:** 565
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [565-implement-clause-learning-sketch-for-sat-cdcl-outline.md](../../tutorials/tasks/advanced/565-implement-clause-learning-sketch-for-sat-cdcl-outline.md)
 
 ## Solutions
 

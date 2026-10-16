@@ -3,6 +3,7 @@
 - **Number:** 473
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [473-implement-paxos-basic-single-decree-outline.md](../../tutorials/tasks/advanced/473-implement-paxos-basic-single-decree-outline.md)
 
 ## Solutions
 

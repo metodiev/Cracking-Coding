@@ -3,6 +3,7 @@
 - **Number:** 423
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [423-implement-offline-queries-with-divide-conquer-on-value-cdq.md](../../tutorials/tasks/advanced/423-implement-offline-queries-with-divide-conquer-on-value-cdq.md)
 
 ## Solutions
 

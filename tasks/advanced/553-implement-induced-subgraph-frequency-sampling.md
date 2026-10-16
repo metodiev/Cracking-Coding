@@ -3,6 +3,7 @@
 - **Number:** 553
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [553-implement-induced-subgraph-frequency-sampling.md](../../tutorials/tasks/advanced/553-implement-induced-subgraph-frequency-sampling.md)
 
 ## Solutions
 

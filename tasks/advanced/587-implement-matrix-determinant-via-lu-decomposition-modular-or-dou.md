@@ -3,6 +3,7 @@
 - **Number:** 587
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [587-implement-matrix-determinant-via-lu-decomposition-modular-or-dou.md](../../tutorials/tasks/advanced/587-implement-matrix-determinant-via-lu-decomposition-modular-or-dou.md)
 
 ## Solutions
 

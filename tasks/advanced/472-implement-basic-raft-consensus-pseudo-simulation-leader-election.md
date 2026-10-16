@@ -3,6 +3,7 @@
 - **Number:** 472
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [472-implement-basic-raft-consensus-pseudo-simulation-leader-election.md](../../tutorials/tasks/advanced/472-implement-basic-raft-consensus-pseudo-simulation-leader-election.md)
 
 ## Solutions
 

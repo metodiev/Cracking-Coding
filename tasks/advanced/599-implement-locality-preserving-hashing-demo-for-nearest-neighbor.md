@@ -3,6 +3,7 @@
 - **Number:** 599
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [599-implement-locality-preserving-hashing-demo-for-nearest-neighbor.md](../../tutorials/tasks/advanced/599-implement-locality-preserving-hashing-demo-for-nearest-neighbor.md)
 
 ## Solutions
 

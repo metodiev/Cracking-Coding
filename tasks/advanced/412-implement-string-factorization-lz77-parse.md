@@ -3,6 +3,7 @@
 - **Number:** 412
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [412-implement-string-factorization-lz77-parse.md](../../tutorials/tasks/advanced/412-implement-string-factorization-lz77-parse.md)
 
 ## Solutions
 

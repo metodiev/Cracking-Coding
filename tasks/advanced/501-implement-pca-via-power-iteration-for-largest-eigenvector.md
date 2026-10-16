@@ -3,6 +3,7 @@
 - **Number:** 501
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [501-implement-pca-via-power-iteration-for-largest-eigenvector.md](../../tutorials/tasks/advanced/501-implement-pca-via-power-iteration-for-largest-eigenvector.md)
 
 ## Solutions
 

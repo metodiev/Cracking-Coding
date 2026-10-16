@@ -3,6 +3,7 @@
 - **Number:** 410
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [410-fm-index-basic-concept-and-small-demo.md](../../tutorials/tasks/advanced/410-fm-index-basic-concept-and-small-demo.md)
 
 ## Solutions
 

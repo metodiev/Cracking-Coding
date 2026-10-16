@@ -3,6 +3,7 @@
 - **Number:** 575
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [575-implement-epipolar-geometry-eight-point-algorithm-outline.md](../../tutorials/tasks/advanced/575-implement-epipolar-geometry-eight-point-algorithm-outline.md)
 
 ## Solutions
 

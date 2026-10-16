@@ -3,6 +3,7 @@
 - **Number:** 583
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [583-implement-compressed-persistent-trie-for-integers-binary-trie-pe.md](../../tutorials/tasks/advanced/583-implement-compressed-persistent-trie-for-integers-binary-trie-pe.md)
 
 ## Solutions
 

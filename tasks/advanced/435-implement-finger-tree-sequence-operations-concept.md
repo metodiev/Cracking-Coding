@@ -3,6 +3,7 @@
 - **Number:** 435
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [435-implement-finger-tree-sequence-operations-concept.md](../../tutorials/tasks/advanced/435-implement-finger-tree-sequence-operations-concept.md)
 
 ## Solutions
 

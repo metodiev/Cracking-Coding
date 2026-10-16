@@ -3,6 +3,7 @@
 - **Number:** 593
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [593-implement-l1-regularized-least-squares-via-coordinate-descent.md](../../tutorials/tasks/advanced/593-implement-l1-regularized-least-squares-via-coordinate-descent.md)
 
 ## Solutions
 

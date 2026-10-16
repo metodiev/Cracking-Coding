@@ -3,6 +3,7 @@
 - **Number:** 497
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [497-implement-l-bfgs-numeric-optimizer-skeleton-for-small-dims.md](../../tutorials/tasks/advanced/497-implement-l-bfgs-numeric-optimizer-skeleton-for-small-dims.md)
 
 ## Solutions
 

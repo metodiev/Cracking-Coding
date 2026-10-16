@@ -3,6 +3,7 @@
 - **Number:** 563
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [563-implement-sat-solver-basic-dpll-algorithm.md](../../tutorials/tasks/advanced/563-implement-sat-solver-basic-dpll-algorithm.md)
 
 ## Solutions
 

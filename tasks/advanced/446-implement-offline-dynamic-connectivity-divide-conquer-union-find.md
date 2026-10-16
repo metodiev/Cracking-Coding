@@ -3,6 +3,7 @@
 - **Number:** 446
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [446-implement-offline-dynamic-connectivity-divide-conquer-union-find.md](../../tutorials/tasks/advanced/446-implement-offline-dynamic-connectivity-divide-conquer-union-find.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 482
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [482-implement-bloom-filter-per-sstable-prototype-and-test.md](../../tutorials/tasks/advanced/482-implement-bloom-filter-per-sstable-prototype-and-test.md)
 
 ## Solutions
 

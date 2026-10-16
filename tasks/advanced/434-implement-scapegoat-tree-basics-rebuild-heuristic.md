@@ -3,6 +3,7 @@
 - **Number:** 434
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [434-implement-scapegoat-tree-basics-rebuild-heuristic.md](../../tutorials/tasks/advanced/434-implement-scapegoat-tree-basics-rebuild-heuristic.md)
 
 ## Solutions
 

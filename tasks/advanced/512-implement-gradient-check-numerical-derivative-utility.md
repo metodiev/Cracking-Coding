@@ -3,6 +3,7 @@
 - **Number:** 512
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [512-implement-gradient-check-numerical-derivative-utility.md](../../tutorials/tasks/advanced/512-implement-gradient-check-numerical-derivative-utility.md)
 
 ## Solutions
 

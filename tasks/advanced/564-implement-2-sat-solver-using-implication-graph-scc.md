@@ -3,6 +3,7 @@
 - **Number:** 564
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [564-implement-2-sat-solver-using-implication-graph-scc.md](../../tutorials/tasks/advanced/564-implement-2-sat-solver-using-implication-graph-scc.md)
 
 ## Solutions
 

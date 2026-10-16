@@ -3,6 +3,7 @@
 - **Number:** 519
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [519-implement-confusion-matrix-precision-recall-metrics-calculator.md](../../tutorials/tasks/advanced/519-implement-confusion-matrix-precision-recall-metrics-calculator.md)
 
 ## Solutions
 

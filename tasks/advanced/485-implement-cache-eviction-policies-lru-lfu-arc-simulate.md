@@ -3,6 +3,7 @@
 - **Number:** 485
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [485-implement-cache-eviction-policies-lru-lfu-arc-simulate.md](../../tutorials/tasks/advanced/485-implement-cache-eviction-policies-lru-lfu-arc-simulate.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 547
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [547-implement-spectral-graph-partitioning-small-demo.md](../../tutorials/tasks/advanced/547-implement-spectral-graph-partitioning-small-demo.md)
 
 ## Solutions
 

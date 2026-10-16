@@ -3,6 +3,7 @@
 - **Number:** 499
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [499-implement-dbscan-clustering-grid-based-accelerate.md](../../tutorials/tasks/advanced/499-implement-dbscan-clustering-grid-based-accelerate.md)
 
 ## Solutions
 

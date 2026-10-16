@@ -3,6 +3,7 @@
 - **Number:** 579
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [579-implement-wavelet-tree-for-strings-rank-select.md](../../tutorials/tasks/advanced/579-implement-wavelet-tree-for-strings-rank-select.md)
 
 ## Solutions
 

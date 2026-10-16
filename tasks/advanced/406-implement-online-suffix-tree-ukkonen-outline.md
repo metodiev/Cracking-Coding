@@ -3,6 +3,7 @@
 - **Number:** 406
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [406-implement-online-suffix-tree-ukkonen-outline.md](../../tutorials/tasks/advanced/406-implement-online-suffix-tree-ukkonen-outline.md)
 
 ## Solutions
 

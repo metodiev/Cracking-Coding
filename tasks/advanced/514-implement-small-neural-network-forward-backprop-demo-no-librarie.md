@@ -3,6 +3,7 @@
 - **Number:** 514
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [514-implement-small-neural-network-forward-backprop-demo-no-librarie.md](../../tutorials/tasks/advanced/514-implement-small-neural-network-forward-backprop-demo-no-librarie.md)
 
 ## Solutions
 

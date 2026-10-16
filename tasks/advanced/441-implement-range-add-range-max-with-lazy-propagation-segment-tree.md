@@ -3,6 +3,7 @@
 - **Number:** 441
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [441-implement-range-add-range-max-with-lazy-propagation-segment-tree.md](../../tutorials/tasks/advanced/441-implement-range-add-range-max-with-lazy-propagation-segment-tree.md)
 
 ## Solutions
 

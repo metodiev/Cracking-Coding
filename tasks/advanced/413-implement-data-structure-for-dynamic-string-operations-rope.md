@@ -3,6 +3,7 @@
 - **Number:** 413
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [413-implement-data-structure-for-dynamic-string-operations-rope.md](../../tutorials/tasks/advanced/413-implement-data-structure-for-dynamic-string-operations-rope.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 463
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [463-implement-locality-sensitive-hashing-conceptual-demo.md](../../tutorials/tasks/advanced/463-implement-locality-sensitive-hashing-conceptual-demo.md)
 
 ## Solutions
 

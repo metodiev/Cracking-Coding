@@ -3,6 +3,7 @@
 - **Number:** 578
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co.md](../../tutorials/tasks/advanced/578-implement-dynamic-orthogonal-range-counting-with-wavelet-tree-co.md)
 
 ## Solutions
 

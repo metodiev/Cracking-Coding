@@ -3,6 +3,7 @@
 - **Number:** 544
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [544-implement-streaming-graph-triangle-counting-approximation.md](../../tutorials/tasks/advanced/544-implement-streaming-graph-triangle-counting-approximation.md)
 
 ## Solutions
 

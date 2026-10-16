@@ -3,6 +3,7 @@
 - **Number:** 574
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [574-implement-ransac-robust-model-fitting-algorithm.md](../../tutorials/tasks/advanced/574-implement-ransac-robust-model-fitting-algorithm.md)
 
 ## Solutions
 

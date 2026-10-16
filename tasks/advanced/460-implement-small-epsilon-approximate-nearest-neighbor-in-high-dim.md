@@ -3,6 +3,7 @@
 - **Number:** 460
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim.md](../../tutorials/tasks/advanced/460-implement-small-epsilon-approximate-nearest-neighbor-in-high-dim.md)
 
 ## Solutions
 

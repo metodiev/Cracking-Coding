@@ -3,6 +3,7 @@
 - **Number:** 556
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [556-implement-adjacency-matrix-exponentiation-for-path-counting-fast.md](../../tutorials/tasks/advanced/556-implement-adjacency-matrix-exponentiation-for-path-counting-fast.md)
 
 ## Solutions
 

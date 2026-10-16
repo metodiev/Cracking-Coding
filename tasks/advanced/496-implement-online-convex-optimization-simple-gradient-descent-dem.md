@@ -3,6 +3,7 @@
 - **Number:** 496
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [496-implement-online-convex-optimization-simple-gradient-descent-dem.md](../../tutorials/tasks/advanced/496-implement-online-convex-optimization-simple-gradient-descent-dem.md)
 
 ## Solutions
 

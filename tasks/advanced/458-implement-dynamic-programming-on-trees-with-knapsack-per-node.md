@@ -3,6 +3,7 @@
 - **Number:** 458
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [458-implement-dynamic-programming-on-trees-with-knapsack-per-node.md](../../tutorials/tasks/advanced/458-implement-dynamic-programming-on-trees-with-knapsack-per-node.md)
 
 ## Solutions
 

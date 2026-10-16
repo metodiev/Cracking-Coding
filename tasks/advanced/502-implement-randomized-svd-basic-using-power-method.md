@@ -3,6 +3,7 @@
 - **Number:** 502
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [502-implement-randomized-svd-basic-using-power-method.md](../../tutorials/tasks/advanced/502-implement-randomized-svd-basic-using-power-method.md)
 
 ## Solutions
 

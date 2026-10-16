@@ -3,6 +3,7 @@
 - **Number:** 590
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [590-implement-non-negative-matrix-factorization-simple-multiplicativ.md](../../tutorials/tasks/advanced/590-implement-non-negative-matrix-factorization-simple-multiplicativ.md)
 
 ## Solutions
 

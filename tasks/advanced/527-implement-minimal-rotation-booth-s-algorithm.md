@@ -3,6 +3,7 @@
 - **Number:** 527
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [527-implement-minimal-rotation-booth-s-algorithm.md](../../tutorials/tasks/advanced/527-implement-minimal-rotation-booth-s-algorithm.md)
 
 ## Solutions
 

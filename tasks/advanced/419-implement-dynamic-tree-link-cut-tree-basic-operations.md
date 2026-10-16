@@ -3,6 +3,7 @@
 - **Number:** 419
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [419-implement-dynamic-tree-link-cut-tree-basic-operations.md](../../tutorials/tasks/advanced/419-implement-dynamic-tree-link-cut-tree-basic-operations.md)
 
 ## Solutions
 

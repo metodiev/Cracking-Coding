@@ -3,6 +3,7 @@
 - **Number:** 407
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [407-implement-generalized-suffix-array-for-multiple-strings.md](../../tutorials/tasks/advanced/407-implement-generalized-suffix-array-for-multiple-strings.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 448
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [448-implement-parametric-search-for-optimizing-monotone-predicates.md](../../tutorials/tasks/advanced/448-implement-parametric-search-for-optimizing-monotone-predicates.md)
 
 ## Solutions
 

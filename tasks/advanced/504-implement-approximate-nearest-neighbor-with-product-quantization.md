@@ -3,6 +3,7 @@
 - **Number:** 504
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [504-implement-approximate-nearest-neighbor-with-product-quantization.md](../../tutorials/tasks/advanced/504-implement-approximate-nearest-neighbor-with-product-quantization.md)
 
 ## Solutions
 

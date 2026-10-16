@@ -3,6 +3,7 @@
 - **Number:** 509
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [509-implement-dependency-graph-scheduling-topo-priorities.md](../../tutorials/tasks/advanced/509-implement-dependency-graph-scheduling-topo-priorities.md)
 
 ## Solutions
 

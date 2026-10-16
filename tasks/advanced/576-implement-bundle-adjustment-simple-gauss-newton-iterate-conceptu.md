@@ -3,6 +3,7 @@
 - **Number:** 576
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [576-implement-bundle-adjustment-simple-gauss-newton-iterate-conceptu.md](../../tutorials/tasks/advanced/576-implement-bundle-adjustment-simple-gauss-newton-iterate-conceptu.md)
 
 ## Solutions
 

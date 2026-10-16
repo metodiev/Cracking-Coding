@@ -3,6 +3,7 @@
 - **Number:** 488
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [488-implement-compression-aware-storage-layout-simulation.md](../../tutorials/tasks/advanced/488-implement-compression-aware-storage-layout-simulation.md)
 
 ## Solutions
 

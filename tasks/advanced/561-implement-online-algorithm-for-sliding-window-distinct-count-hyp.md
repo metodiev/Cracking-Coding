@@ -3,6 +3,7 @@
 - **Number:** 561
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [561-implement-online-algorithm-for-sliding-window-distinct-count-hyp.md](../../tutorials/tasks/advanced/561-implement-online-algorithm-for-sliding-window-distinct-count-hyp.md)
 
 ## Solutions
 

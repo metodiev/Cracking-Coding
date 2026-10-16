@@ -3,6 +3,7 @@
 - **Number:** 562
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Compilers, Languages & Solvers
+- **Tutorial:** [562-implement-mixed-integer-programming-small-model-using-branch-and.md](../../tutorials/tasks/advanced/562-implement-mixed-integer-programming-small-model-using-branch-and.md)
 
 ## Solutions
 

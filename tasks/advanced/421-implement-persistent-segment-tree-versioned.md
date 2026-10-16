@@ -3,6 +3,7 @@
 - **Number:** 421
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [421-implement-persistent-segment-tree-versioned.md](../../tutorials/tasks/advanced/421-implement-persistent-segment-tree-versioned.md)
 
 ## Solutions
 

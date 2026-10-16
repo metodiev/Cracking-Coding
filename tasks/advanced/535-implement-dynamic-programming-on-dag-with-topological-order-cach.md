@@ -3,6 +3,7 @@
 - **Number:** 535
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [535-implement-dynamic-programming-on-dag-with-topological-order-cach.md](../../tutorials/tasks/advanced/535-implement-dynamic-programming-on-dag-with-topological-order-cach.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 493
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [493-implement-probabilistic-data-structure-composition-bloom-cmsketc.md](../../tutorials/tasks/advanced/493-implement-probabilistic-data-structure-composition-bloom-cmsketc.md)
 
 ## Solutions
 

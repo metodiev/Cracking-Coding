@@ -3,6 +3,7 @@
 - **Number:** 513
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu.md](../../tutorials/tasks/advanced/513-implement-auto-differentiation-simple-reverse-mode-for-scalar-fu.md)
 
 ## Solutions
 

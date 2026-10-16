@@ -3,6 +3,7 @@
 - **Number:** 437
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [437-implement-b-tree-node-insert-delete-basics.md](../../tutorials/tasks/advanced/437-implement-b-tree-node-insert-delete-basics.md)
 
 ## Solutions
 

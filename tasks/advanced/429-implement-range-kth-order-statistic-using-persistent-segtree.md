@@ -3,6 +3,7 @@
 - **Number:** 429
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [429-implement-range-kth-order-statistic-using-persistent-segtree.md](../../tutorials/tasks/advanced/429-implement-range-kth-order-statistic-using-persistent-segtree.md)
 
 ## Solutions
 

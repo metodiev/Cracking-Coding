@@ -3,6 +3,7 @@
 - **Number:** 416
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [416-implement-bitset-dp-optimizations-for-subset-problems.md](../../tutorials/tasks/advanced/416-implement-bitset-dp-optimizations-for-subset-problems.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 467
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [467-implement-bloom-filter-with-double-hashing-and-test-false-positi.md](../../tutorials/tasks/advanced/467-implement-bloom-filter-with-double-hashing-and-test-false-positi.md)
 
 ## Solutions
 

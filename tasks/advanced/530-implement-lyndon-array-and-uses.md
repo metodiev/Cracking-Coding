@@ -3,6 +3,7 @@
 - **Number:** 530
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [530-implement-lyndon-array-and-uses.md](../../tutorials/tasks/advanced/530-implement-lyndon-array-and-uses.md)
 
 ## Solutions
 

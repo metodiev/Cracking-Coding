@@ -3,6 +3,7 @@
 - **Number:** 551
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [551-implement-subgraph-isomorphism-backtracking-ullmann-outline.md](../../tutorials/tasks/advanced/551-implement-subgraph-isomorphism-backtracking-ullmann-outline.md)
 
 ## Solutions
 

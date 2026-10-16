@@ -3,6 +3,7 @@
 - **Number:** 498
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [498-implement-k-means-clustering-kmeans-initialization.md](../../tutorials/tasks/advanced/498-implement-k-means-clustering-kmeans-initialization.md)
 
 ## Solutions
 

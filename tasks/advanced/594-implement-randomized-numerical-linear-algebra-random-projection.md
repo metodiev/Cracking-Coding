@@ -3,6 +3,7 @@
 - **Number:** 594
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [594-implement-randomized-numerical-linear-algebra-random-projection.md](../../tutorials/tasks/advanced/594-implement-randomized-numerical-linear-algebra-random-projection.md)
 
 ## Solutions
 

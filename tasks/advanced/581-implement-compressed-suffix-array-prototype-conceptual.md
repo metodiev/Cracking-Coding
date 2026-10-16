@@ -3,6 +3,7 @@
 - **Number:** 581
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [581-implement-compressed-suffix-array-prototype-conceptual.md](../../tutorials/tasks/advanced/581-implement-compressed-suffix-array-prototype-conceptual.md)
 
 ## Solutions
 

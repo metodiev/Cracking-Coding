@@ -3,6 +3,7 @@
 - **Number:** 449
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [449-implement-global-min-cut-karger-randomized-algorithm.md](../../tutorials/tasks/advanced/449-implement-global-min-cut-karger-randomized-algorithm.md)
 
 ## Solutions
 

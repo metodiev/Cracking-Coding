@@ -3,6 +3,7 @@
 - **Number:** 550
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [550-implement-graph-sketches-for-neighborhood-similarity-minhash.md](../../tutorials/tasks/advanced/550-implement-graph-sketches-for-neighborhood-similarity-minhash.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 573
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [573-implement-geometric-hashing-for-object-recognition-small-demo.md](../../tutorials/tasks/advanced/573-implement-geometric-hashing-for-object-recognition-small-demo.md)
 
 ## Solutions
 

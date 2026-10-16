@@ -3,6 +3,7 @@
 - **Number:** 520
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [520-implement-roc-auc-estimator-from-predictions.md](../../tutorials/tasks/advanced/520-implement-roc-auc-estimator-from-predictions.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 405
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [405-implement-minimal-dfa-for-string-set-conceptual.md](../../tutorials/tasks/advanced/405-implement-minimal-dfa-for-string-set-conceptual.md)
 
 ## Solutions
 

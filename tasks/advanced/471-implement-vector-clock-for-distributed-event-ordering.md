@@ -3,6 +3,7 @@
 - **Number:** 471
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [471-implement-vector-clock-for-distributed-event-ordering.md](../../tutorials/tasks/advanced/471-implement-vector-clock-for-distributed-event-ordering.md)
 
 ## Solutions
 

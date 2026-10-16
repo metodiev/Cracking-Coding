@@ -3,6 +3,7 @@
 - **Number:** 558
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [558-implement-boolean-matrix-multiplication-optimization-using-bitse.md](../../tutorials/tasks/advanced/558-implement-boolean-matrix-multiplication-optimization-using-bitse.md)
 
 ## Solutions
 

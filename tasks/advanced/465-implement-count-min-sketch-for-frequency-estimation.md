@@ -3,6 +3,7 @@
 - **Number:** 465
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [465-implement-count-min-sketch-for-frequency-estimation.md](../../tutorials/tasks/advanced/465-implement-count-min-sketch-for-frequency-estimation.md)
 
 ## Solutions
 

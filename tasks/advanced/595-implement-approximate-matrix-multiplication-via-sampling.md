@@ -3,6 +3,7 @@
 - **Number:** 595
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [595-implement-approximate-matrix-multiplication-via-sampling.md](../../tutorials/tasks/advanced/595-implement-approximate-matrix-multiplication-via-sampling.md)
 
 ## Solutions
 

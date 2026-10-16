@@ -3,6 +3,7 @@
 - **Number:** 404
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [404-implement-suffix-automaton-and-count-different-substrings.md](../../tutorials/tasks/advanced/404-implement-suffix-automaton-and-count-different-substrings.md)
 
 ## Solutions
 

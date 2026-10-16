@@ -3,6 +3,7 @@
 - **Number:** 542
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [542-implement-tree-isomorphism-hashing-ahu-algorithm.md](../../tutorials/tasks/advanced/542-implement-tree-isomorphism-hashing-ahu-algorithm.md)
 
 ## Solutions
 

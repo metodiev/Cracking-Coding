@@ -3,6 +3,7 @@
 - **Number:** 559
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [559-implement-fast-exponentiation-of-linear-recurrences-using-matrix.md](../../tutorials/tasks/advanced/559-implement-fast-exponentiation-of-linear-recurrences-using-matrix.md)
 
 ## Solutions
 

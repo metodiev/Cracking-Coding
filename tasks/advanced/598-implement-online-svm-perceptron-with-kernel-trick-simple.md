@@ -3,6 +3,7 @@
 - **Number:** 598
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [598-implement-online-svm-perceptron-with-kernel-trick-simple.md](../../tutorials/tasks/advanced/598-implement-online-svm-perceptron-with-kernel-trick-simple.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 567
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [567-implement-facility-location-greedy-approximation-k-median-sketch.md](../../tutorials/tasks/advanced/567-implement-facility-location-greedy-approximation-k-median-sketch.md)
 
 ## Solutions
 

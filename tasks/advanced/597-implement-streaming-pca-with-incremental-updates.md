@@ -3,6 +3,7 @@
 - **Number:** 597
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [597-implement-streaming-pca-with-incremental-updates.md](../../tutorials/tasks/advanced/597-implement-streaming-pca-with-incremental-updates.md)
 
 ## Solutions
 

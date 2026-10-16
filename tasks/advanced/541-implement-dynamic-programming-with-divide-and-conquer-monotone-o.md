@@ -3,6 +3,7 @@
 - **Number:** 541
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [541-implement-dynamic-programming-with-divide-and-conquer-monotone-o.md](../../tutorials/tasks/advanced/541-implement-dynamic-programming-with-divide-and-conquer-monotone-o.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 418
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [418-implement-online-convex-hull-maintenance-dynamic.md](../../tutorials/tasks/advanced/418-implement-online-convex-hull-maintenance-dynamic.md)
 
 ## Solutions
 

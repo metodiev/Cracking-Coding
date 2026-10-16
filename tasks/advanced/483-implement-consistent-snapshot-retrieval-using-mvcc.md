@@ -3,6 +3,7 @@
 - **Number:** 483
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [483-implement-consistent-snapshot-retrieval-using-mvcc.md](../../tutorials/tasks/advanced/483-implement-consistent-snapshot-retrieval-using-mvcc.md)
 
 ## Solutions
 

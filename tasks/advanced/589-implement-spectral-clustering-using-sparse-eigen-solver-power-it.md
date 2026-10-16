@@ -3,6 +3,7 @@
 - **Number:** 589
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [589-implement-spectral-clustering-using-sparse-eigen-solver-power-it.md](../../tutorials/tasks/advanced/589-implement-spectral-clustering-using-sparse-eigen-solver-power-it.md)
 
 ## Solutions
 

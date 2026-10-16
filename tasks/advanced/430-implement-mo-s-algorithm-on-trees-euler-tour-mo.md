@@ -3,6 +3,7 @@
 - **Number:** 430
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [430-implement-mo-s-algorithm-on-trees-euler-tour-mo.md](../../tutorials/tasks/advanced/430-implement-mo-s-algorithm-on-trees-euler-tour-mo.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 424
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [424-implement-small-to-large-merging-on-trees-for-frequency-queries.md](../../tutorials/tasks/advanced/424-implement-small-to-large-merging-on-trees-for-frequency-queries.md)
 
 ## Solutions
 

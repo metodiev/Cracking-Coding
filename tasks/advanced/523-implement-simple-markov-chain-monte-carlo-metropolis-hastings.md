@@ -3,6 +3,7 @@
 - **Number:** 523
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [523-implement-simple-markov-chain-monte-carlo-metropolis-hastings.md](../../tutorials/tasks/advanced/523-implement-simple-markov-chain-monte-carlo-metropolis-hastings.md)
 
 ## Solutions
 

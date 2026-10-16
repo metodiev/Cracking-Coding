@@ -3,6 +3,7 @@
 - **Number:** 494
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [494-implement-thompson-sampling-simulator-for-bandit-problems.md](../../tutorials/tasks/advanced/494-implement-thompson-sampling-simulator-for-bandit-problems.md)
 
 ## Solutions
 

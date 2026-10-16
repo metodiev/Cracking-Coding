@@ -3,6 +3,7 @@
 - **Number:** 475
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [475-implement-authenticated-data-structure-example-merkle-proof.md](../../tutorials/tasks/advanced/475-implement-authenticated-data-structure-example-merkle-proof.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 546
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [546-implement-pagerank-with-dangling-node-handling.md](../../tutorials/tasks/advanced/546-implement-pagerank-with-dangling-node-handling.md)
 
 ## Solutions
 

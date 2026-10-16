@@ -3,6 +3,7 @@
 - **Number:** 518
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [518-implement-k-nearest-neighbor-classification-fast-with-kd-tree.md](../../tutorials/tasks/advanced/518-implement-k-nearest-neighbor-classification-fast-with-kd-tree.md)
 
 ## Solutions
 

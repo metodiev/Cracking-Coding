@@ -3,6 +3,7 @@
 - **Number:** 555
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [555-implement-dynamic-programming-for-counting-paths-of-length-k-in.md](../../tutorials/tasks/advanced/555-implement-dynamic-programming-for-counting-paths-of-length-k-in.md)
 
 ## Solutions
 

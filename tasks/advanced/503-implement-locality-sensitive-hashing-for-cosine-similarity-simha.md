@@ -3,6 +3,7 @@
 - **Number:** 503
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [503-implement-locality-sensitive-hashing-for-cosine-similarity-simha.md](../../tutorials/tasks/advanced/503-implement-locality-sensitive-hashing-for-cosine-similarity-simha.md)
 
 ## Solutions
 

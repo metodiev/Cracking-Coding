@@ -3,6 +3,7 @@
 - **Number:** 490
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [490-implement-exponential-search-for-unbounded-arrays.md](../../tutorials/tasks/advanced/490-implement-exponential-search-for-unbounded-arrays.md)
 
 ## Solutions
 

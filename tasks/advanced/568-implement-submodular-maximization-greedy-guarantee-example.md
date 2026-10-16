@@ -3,6 +3,7 @@
 - **Number:** 568
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [568-implement-submodular-maximization-greedy-guarantee-example.md](../../tutorials/tasks/advanced/568-implement-submodular-maximization-greedy-guarantee-example.md)
 
 ## Solutions
 

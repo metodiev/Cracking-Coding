@@ -3,6 +3,7 @@
 - **Number:** 409
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [409-implement-burrows-wheeler-transform-and-inverse.md](../../tutorials/tasks/advanced/409-implement-burrows-wheeler-transform-and-inverse.md)
 
 ## Solutions
 

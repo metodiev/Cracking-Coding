@@ -3,6 +3,7 @@
 - **Number:** 532
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [532-implement-online-algorithm-competitive-analysis-example-ski-rent.md](../../tutorials/tasks/advanced/532-implement-online-algorithm-competitive-analysis-example-ski-rent.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 560
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept.md](../../tutorials/tasks/advanced/560-implement-berlekamp-massey-for-minimal-linear-recurrence-concept.md)
 
 ## Solutions
 

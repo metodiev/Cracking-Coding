@@ -3,6 +3,7 @@
 - **Number:** 401
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [401-implement-suffix-array-sa-is-or-doubling-for-medium-n.md](../../tutorials/tasks/advanced/401-implement-suffix-array-sa-is-or-doubling-for-medium-n.md)
 
 ## Solutions
 

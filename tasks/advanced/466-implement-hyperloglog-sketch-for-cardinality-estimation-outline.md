@@ -3,6 +3,7 @@
 - **Number:** 466
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [466-implement-hyperloglog-sketch-for-cardinality-estimation-outline.md](../../tutorials/tasks/advanced/466-implement-hyperloglog-sketch-for-cardinality-estimation-outline.md)
 
 ## Solutions
 

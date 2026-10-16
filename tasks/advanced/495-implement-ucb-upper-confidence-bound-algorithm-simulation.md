@@ -3,6 +3,7 @@
 - **Number:** 495
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [495-implement-ucb-upper-confidence-bound-algorithm-simulation.md](../../tutorials/tasks/advanced/495-implement-ucb-upper-confidence-bound-algorithm-simulation.md)
 
 ## Solutions
 

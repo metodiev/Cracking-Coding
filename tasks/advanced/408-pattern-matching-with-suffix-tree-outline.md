@@ -3,6 +3,7 @@
 - **Number:** 408
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [408-pattern-matching-with-suffix-tree-outline.md](../../tutorials/tasks/advanced/408-pattern-matching-with-suffix-tree-outline.md)
 
 ## Solutions
 

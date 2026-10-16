@@ -3,6 +3,7 @@
 - **Number:** 500
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [500-implement-spectral-clustering-small-example-eigen-decomposition.md](../../tutorials/tasks/advanced/500-implement-spectral-clustering-small-example-eigen-decomposition.md)
 
 ## Solutions
 

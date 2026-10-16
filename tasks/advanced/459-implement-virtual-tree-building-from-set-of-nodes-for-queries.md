@@ -3,6 +3,7 @@
 - **Number:** 459
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [459-implement-virtual-tree-building-from-set-of-nodes-for-queries.md](../../tutorials/tasks/advanced/459-implement-virtual-tree-building-from-set-of-nodes-for-queries.md)
 
 ## Solutions
 

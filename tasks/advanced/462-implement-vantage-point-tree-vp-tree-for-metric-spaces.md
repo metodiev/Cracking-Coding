@@ -3,6 +3,7 @@
 - **Number:** 462
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [462-implement-vantage-point-tree-vp-tree-for-metric-spaces.md](../../tutorials/tasks/advanced/462-implement-vantage-point-tree-vp-tree-for-metric-spaces.md)
 
 ## Solutions
 

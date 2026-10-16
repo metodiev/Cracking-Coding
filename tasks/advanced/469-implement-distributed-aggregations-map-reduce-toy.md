@@ -3,6 +3,7 @@
 - **Number:** 469
 - **Tier:** Advanced
 - **CTCI chapter:** CTCI §X — Advanced Topics
+- **Tutorial:** [469-implement-distributed-aggregations-map-reduce-toy.md](../../tutorials/tasks/advanced/469-implement-distributed-aggregations-map-reduce-toy.md)
 
 ## Solutions
 

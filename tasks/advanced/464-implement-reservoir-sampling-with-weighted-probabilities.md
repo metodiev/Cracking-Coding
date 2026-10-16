@@ -3,6 +3,7 @@
 - **Number:** 464
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [464-implement-reservoir-sampling-with-weighted-probabilities.md](../../tutorials/tasks/advanced/464-implement-reservoir-sampling-with-weighted-probabilities.md)
 
 ## Solutions
 

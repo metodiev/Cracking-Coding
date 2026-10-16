@@ -3,6 +3,7 @@
 - **Number:** 487
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [487-implement-prefetching-simulation-for-sequential-access-patterns.md](../../tutorials/tasks/advanced/487-implement-prefetching-simulation-for-sequential-access-patterns.md)
 
 ## Solutions
 

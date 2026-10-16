@@ -3,6 +3,7 @@
 - **Number:** 548
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [548-implement-community-detection-louvain-heuristic-outline.md](../../tutorials/tasks/advanced/548-implement-community-detection-louvain-heuristic-outline.md)
 
 ## Solutions
 

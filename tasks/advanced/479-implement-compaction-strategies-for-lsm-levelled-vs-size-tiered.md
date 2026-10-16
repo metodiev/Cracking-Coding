@@ -3,6 +3,7 @@
 - **Number:** 479
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered.md](../../tutorials/tasks/advanced/479-implement-compaction-strategies-for-lsm-levelled-vs-size-tiered.md)
 
 ## Solutions
 

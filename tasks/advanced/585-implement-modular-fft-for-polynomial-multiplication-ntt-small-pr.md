@@ -3,6 +3,7 @@
 - **Number:** 585
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr.md](../../tutorials/tasks/advanced/585-implement-modular-fft-for-polynomial-multiplication-ntt-small-pr.md)
 
 ## Solutions
 

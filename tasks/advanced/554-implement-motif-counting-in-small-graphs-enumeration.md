@@ -3,6 +3,7 @@
 - **Number:** 554
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [554-implement-motif-counting-in-small-graphs-enumeration.md](../../tutorials/tasks/advanced/554-implement-motif-counting-in-small-graphs-enumeration.md)
 
 ## Solutions
 

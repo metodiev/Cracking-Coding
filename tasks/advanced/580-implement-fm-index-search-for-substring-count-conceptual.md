@@ -3,6 +3,7 @@
 - **Number:** 580
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [580-implement-fm-index-search-for-substring-count-conceptual.md](../../tutorials/tasks/advanced/580-implement-fm-index-search-for-substring-count-conceptual.md)
 
 ## Solutions
 

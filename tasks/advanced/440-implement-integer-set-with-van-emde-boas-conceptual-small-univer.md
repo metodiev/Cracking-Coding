@@ -3,6 +3,7 @@
 - **Number:** 440
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [440-implement-integer-set-with-van-emde-boas-conceptual-small-univer.md](../../tutorials/tasks/advanced/440-implement-integer-set-with-van-emde-boas-conceptual-small-univer.md)
 
 ## Solutions
 

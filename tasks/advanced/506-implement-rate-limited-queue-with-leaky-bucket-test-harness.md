@@ -3,6 +3,7 @@
 - **Number:** 506
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [506-implement-rate-limited-queue-with-leaky-bucket-test-harness.md](../../tutorials/tasks/advanced/506-implement-rate-limited-queue-with-leaky-bucket-test-harness.md)
 
 ## Solutions
 

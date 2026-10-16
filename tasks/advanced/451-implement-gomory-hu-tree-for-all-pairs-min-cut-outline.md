@@ -3,6 +3,7 @@
 - **Number:** 451
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [451-implement-gomory-hu-tree-for-all-pairs-min-cut-outline.md](../../tutorials/tasks/advanced/451-implement-gomory-hu-tree-for-all-pairs-min-cut-outline.md)
 
 ## Solutions
 

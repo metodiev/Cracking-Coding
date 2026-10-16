@@ -3,6 +3,7 @@
 - **Number:** 584
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [584-implement-offline-dynamic-programming-with-bitset-acceleration-t.md](../../tutorials/tasks/advanced/584-implement-offline-dynamic-programming-with-bitset-acceleration-t.md)
 
 ## Solutions
 

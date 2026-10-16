@@ -3,6 +3,7 @@
 - **Number:** 432
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [432-implement-data-structure-for-dynamic-median-order-statistics-tre.md](../../tutorials/tasks/advanced/432-implement-data-structure-for-dynamic-median-order-statistics-tre.md)
 
 ## Solutions
 

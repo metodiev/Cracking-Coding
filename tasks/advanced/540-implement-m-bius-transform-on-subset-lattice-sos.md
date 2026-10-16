@@ -3,6 +3,7 @@
 - **Number:** 540
 - **Tier:** Advanced
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [540-implement-m-bius-transform-on-subset-lattice-sos.md](../../tutorials/tasks/advanced/540-implement-m-bius-transform-on-subset-lattice-sos.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 505
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 9 — System Design and Scalability
+- **Tutorial:** [505-implement-bloom-filter-backed-cache-for-web-responses-simulation.md](../../tutorials/tasks/advanced/505-implement-bloom-filter-backed-cache-for-web-responses-simulation.md)
 
 ## Solutions
 

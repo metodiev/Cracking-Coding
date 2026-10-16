@@ -3,6 +3,7 @@
 - **Number:** 531
 - **Tier:** Advanced
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [531-implement-weighted-median-selection-algorithm.md](../../tutorials/tasks/advanced/531-implement-weighted-median-selection-algorithm.md)
 
 ## Solutions
 
