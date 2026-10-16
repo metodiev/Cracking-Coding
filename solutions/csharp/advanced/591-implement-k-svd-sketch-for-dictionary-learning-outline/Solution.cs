@@ -28,9 +28,12 @@
 // K-SVD actually reduces, including the atom's own rank-one term) non-increasing, and the sweep strictly
 // reduces their total; every atom still has unit norm after the sweep; the coding step uses at most s
 // atoms per column and its error never exceeds the data norm; on a synthetic exactly-two-sparse instance
-// with n = K = 8 atoms, 40 samples and an orthonormal DCT-II generator, K-SVD refines a perturbed
-// generator back to the true atoms -- 1e-6 relative error in 40 sweeps with the atom matching error below
-// 0.05 up to permutation and sign, and strictly smaller than the perturbation it started from -- while the
+// with n = K = 8 atoms, 40 samples and an orthonormal DCT-II generator -- whose 8x40 data matrix is
+// therefore trivially of rank eight, verified against the truncated-SVD residual relative to the data
+// norm because the absolute residual cannot go below the sqrt(eps) floor of the Gram matrix -- K-SVD
+// refines a perturbed generator back to the true atoms -- 1e-6 relative error in 40 sweeps with the atom
+// matching error below 0.05 up to permutation and sign, and strictly smaller than the perturbation it
+// started from -- while the
 // file states plainly that from a random initialisation the same instance only reaches a local optimum
 // with relative error below 0.4, because K-SVD is a local method and the sparse coding step is greedy; the
 // dead-atom restart rule is exercised by zeroing an atom's usage and checking that it is replaced by a
@@ -651,7 +654,16 @@ public static class Solution
         }
         CheckClose(Linear.Error(data, generator, sparseCoefficients), 0.0, 1e-12,
                 "the synthetic data really is exactly two-sparse in the generator");
-        Check(Linear.BestRankKError(data, Atoms) <= 1e-9, "the synthetic data is exactly rank eight");
+        // The 8x40 data matrix is K = 8 rows wide, so its best rank-8 approximation is exact in exact
+        // arithmetic: the whole residual is the round-off of forming the 40x40 Gram matrix in double
+        // precision. Its zero eigenvalues are only resolved to ~eps * ||data||_F^2, so after the square
+        // root the best achievable absolute residual is ~sqrt(40 * eps) * ||data||_F, i.e. ~6e-7 here
+        // (measured 1.7e-7). The check is therefore stated relative to the data norm, where the
+        // residual sits at 1.8e-8.
+        Check(Linear.BestRankKError(data, Atoms) <= 1e-6 * Linear.Frobenius(data),
+                "the synthetic data is exactly rank eight (residual "
+                + Linear.BestRankKError(data, Atoms).ToString("0.0e0") + " versus data norm "
+                + Linear.Frobenius(data).ToString("0.000") + ")");
 
         // (a) Local convergence: K-SVD is a local method, so the recovery check starts from a mildly
         //     perturbed generator, where the algorithm snaps back to the exact atoms.

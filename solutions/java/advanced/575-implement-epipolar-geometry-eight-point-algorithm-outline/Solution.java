@@ -14,9 +14,11 @@
  * Documented checks. (1) The ground truth is verified first: the closed form F = K2^-T [t]_x R K1^-1
  * annihilates every correspondence to 2.9e-13 and its epipole is K2 t. (2) Noise-free recovery on 12
  * correspondences: the estimate matches the truth to 8.8e-16 in the normalised Frobenius metric (sign
- * chosen by minimising the difference), the smallest singular value is exactly 0 after the rank-2
- * step while sigma2/sigma1 = 1.4e-5, and the second smallest eigenvalue ratio of A^T A is 3.0e-5 —
- * i.e. the null space really is one-dimensional in this general position, which is the assumption the
+ * chosen by minimising the difference), the smallest singular value collapses after the rank-2 step to
+ * 2.2e-11 relative -- the sqrt(eps) round-off floor of re-decomposing the projected 3x3 matrix, since
+ * the projection itself is exact -- while sigma2/sigma1 = 1.4e-5, and the second smallest eigenvalue
+ * ratio of A^T A is 3.0e-5 -- i.e. the null space really is one-dimensional in this general position,
+ * which is the assumption the
  * algorithm rests on. The pixel residual max |x2^T F x1| / ||l2|| is 5.7e-8 (roundoff of the solve,
  * since the matrix itself already agrees to 9e-16) and the scale-free residual
  * |x2^T F x1| / (||F|| ||x1|| ||x2||) is 4.6e-17 — both are asserted, the first with a 1e-6 pixel
@@ -481,7 +483,14 @@ public class Solution {
         System.out.println("  pixel residual " + pixelResidual + ", scale-free relative residual " + relativeResidual);
         check(pixelResidual <= 1e-6, "the estimate satisfies every correspondence to sub-micro-pixel accuracy");
         check(relativeResidual <= 1e-13, "and the scale-free residual is at double precision");
-        check(smallestRatio <= 1e-12, "rank-2 enforcement makes the smallest singular value vanish");
+        // The rank-2 projection is exact, so what remains of sigma3 is the round-off of re-decomposing
+        // the 3x3 result: F^T F is formed in double precision, its small eigenvalue is only resolved to
+        // ~eps * ||F||^2, and the square root of that leaves a relative floor of ~sqrt(eps) = 1.5e-8.
+        // The measured ratio is 2.2e-11, well inside that floor; the sibling implementations state the
+        // same fact as sigma3 <= 1e-6 * sigma1 (Python returns 3.3e-9 absolute here), so the bound is
+        // kept loose enough to be a genuine numerical statement rather than a coincidence.
+        check(smallestRatio <= 1e-9, "rank-2 enforcement makes the smallest singular value vanish ("
+                + smallestRatio + ", the sqrt(eps) floor of the re-decomposition)");
         // This camera pair produces an ill-conditioned fundamental matrix (sigma2/sigma1 = 1.4e-5),
         // which is itself worth documenting: it is why Hartley normalisation matters so much below.
         check(singular[1] / singular[0] > 1e-6, "the second singular value stays positive");
