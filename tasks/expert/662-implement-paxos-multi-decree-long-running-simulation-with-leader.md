@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/662-implement-paxos-multi-decree-long-running-simulation-with-leader/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/662-implement-paxos-multi-decree-long-running-simulation-with-leader/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/662-implement-paxos-multi-decree-long-running-simulation-with-leader/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/662-implement-paxos-multi-decree-long-running-simulation-with-leader/Solution.cs)

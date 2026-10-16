@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/692-implement-reliable-ordered-multicast-with-failure-handling/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/692-implement-reliable-ordered-multicast-with-failure-handling/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/692-implement-reliable-ordered-multicast-with-failure-handling/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/692-implement-reliable-ordered-multicast-with-failure-handling/Solution.cs)

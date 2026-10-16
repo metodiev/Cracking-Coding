@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/668-implement-priority-inheritance-protocol-simulation-for-priority/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/668-implement-priority-inheritance-protocol-simulation-for-priority/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/668-implement-priority-inheritance-protocol-simulation-for-priority/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/668-implement-priority-inheritance-protocol-simulation-for-priority/Solution.cs)

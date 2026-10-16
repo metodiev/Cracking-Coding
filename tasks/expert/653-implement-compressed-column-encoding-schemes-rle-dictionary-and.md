@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/653-implement-compressed-column-encoding-schemes-rle-dictionary-and/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/653-implement-compressed-column-encoding-schemes-rle-dictionary-and/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/653-implement-compressed-column-encoding-schemes-rle-dictionary-and/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/653-implement-compressed-column-encoding-schemes-rle-dictionary-and/Solution.cs)

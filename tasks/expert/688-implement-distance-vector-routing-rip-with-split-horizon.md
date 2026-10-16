@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/688-implement-distance-vector-routing-rip-with-split-horizon/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/688-implement-distance-vector-routing-rip-with-split-horizon/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/688-implement-distance-vector-routing-rip-with-split-horizon/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/688-implement-distance-vector-routing-rip-with-split-horizon/Solution.cs)

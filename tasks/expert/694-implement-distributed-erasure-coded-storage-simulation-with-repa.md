@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/694-implement-distributed-erasure-coded-storage-simulation-with-repa/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/694-implement-distributed-erasure-coded-storage-simulation-with-repa/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/694-implement-distributed-erasure-coded-storage-simulation-with-repa/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/694-implement-distributed-erasure-coded-storage-simulation-with-repa/Solution.cs)

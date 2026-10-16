@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/695-implement-anti-entropy-repair-scheduling-with-bandwidth-bounds/Solution.cs)

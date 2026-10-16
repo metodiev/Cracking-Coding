@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/672-implement-liveness-analysis-on-small-cfg-and-dead-code-eliminati/Solution.cs)

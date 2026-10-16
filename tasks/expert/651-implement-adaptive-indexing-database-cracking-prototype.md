@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/651-implement-adaptive-indexing-database-cracking-prototype/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/651-implement-adaptive-indexing-database-cracking-prototype/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/651-implement-adaptive-indexing-database-cracking-prototype/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/651-implement-adaptive-indexing-database-cracking-prototype/Solution.cs)

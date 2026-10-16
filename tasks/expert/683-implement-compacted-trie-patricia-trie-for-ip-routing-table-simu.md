@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/683-implement-compacted-trie-patricia-trie-for-ip-routing-table-simu/Solution.cs)
