@@ -1056,8 +1056,12 @@ flowchart LR
   four languages** — 998/998 tasks × 4 languages = **3992 self-checking solutions**, tier by tier:
   **Beginner (001–200)**, **Intermediate (201–400)**, **Advanced (401–600)**, **Expert (601–800)**
   and **Master / Challenge (801–998)**.
+<<<<<<< HEAD
   Every solution self-checks: `python3 tools/run_solutions.py`, and every task is also covered by a
   per-task 📓 tutorial under [`tutorials/tasks/<tier>/`](tutorials/tasks).
+=======
+  Every solution self-checks: `python3 tools/run_solutions.py`.
+>>>>>>> 90568b4594e5e30b8df8549ff9503f3692495c88
 - ▶️ **Run everything**: `python3 tools/run_solutions.py` (add `python`, `java`, `javascript` or `csharp`).
   All four languages are validated, C# included: each `Solution.cs` is compiled straight against the
   SDK's targeting pack by [`tools/csbuild.py`](tools/csbuild.py), which is ~10x faster than a
