@@ -5,6 +5,11 @@
 __pycache__/
 *.py[cod]
 
+# Node (the mermaid render check installs its parser outside the repo)
+node_modules/
+package.json
+package-lock.json
+
 # Log file
 *.log
 

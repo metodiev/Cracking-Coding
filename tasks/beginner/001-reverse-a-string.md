@@ -3,6 +3,7 @@
 - **Number:** 1
 - **Tier:** Beginner
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [001-reverse-a-string.md](../../tutorials/tasks/beginner/001-reverse-a-string.md)
 
 ## Solutions
 

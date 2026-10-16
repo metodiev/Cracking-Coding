@@ -82,7 +82,7 @@ sequenceDiagram
     W->>W: write (commit)
     W->>F1: replicate log
     W->>F2: replicate log
-    Note over F1,F2: reads scale out; async replicas may lag
+    Note over F1,F2: reads scale out, async replicas may lag
 ```
 
 ### Sharding (partitioning)

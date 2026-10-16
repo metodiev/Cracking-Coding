@@ -20,7 +20,7 @@ mindmap
       URLify shift, rotate, remove element
     String building
       StringBuilder / join
-      avoid O(n2) concatenation
+      sb["avoid O(n2) concatenation"]
 ```
 
 ---

@@ -72,3 +72,28 @@ jobs:
           python-version: "3.12"
 
       - run: python tools/check_links.py
+
+  mermaid:
+    name: Mermaid diagrams parse
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Structural checks (fences, keywords, escaping, required sections)
+        run: python tools/check_mermaid.py
+
+      - name: Install the mermaid parser outside the repository
+        run: npm install --prefix "$RUNNER_TEMP/mermaid" mermaid@11 jsdom
+
+      - name: Parse every diagram with mermaid
+        run: node tools/check_mermaid_render.mjs
+        env:
+          MERMAID_MODULES: ${{ runner.temp }}/mermaid

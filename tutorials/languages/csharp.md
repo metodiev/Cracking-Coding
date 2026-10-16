@@ -11,15 +11,20 @@ classDiagram
     class IList
     class ISet
     class IDictionary
+    class ListT["List&lt;T&gt;"]
+    class HashSetT["HashSet&lt;T&gt;"]
+    class SortedSetT["SortedSet&lt;T&gt;"]
+    class DictionaryT["Dictionary&lt;K,V&gt;"]
+    class SortedDictionaryT["SortedDictionary&lt;K,V&gt;"]
     IEnumerable <|-- ICollection
     ICollection <|-- IList
     ICollection <|-- ISet
     IEnumerable <|-- IDictionary
-    IList <|.. ListT["List&lt;T&gt;"]
-    ISet <|.. HashSetT["HashSet&lt;T&gt;"]
-    ISet <|.. SortedSetT["SortedSet&lt;T&gt;"]
-    IDictionary <|.. DictionaryT["Dictionary&lt;K,V&gt;"]
-    IDictionary <|.. SortedDictionaryT["SortedDictionary&lt;K,V&gt;"]
+    IList <|.. ListT
+    ISet <|.. HashSetT
+    ISet <|.. SortedSetT
+    IDictionary <|.. DictionaryT
+    IDictionary <|.. SortedDictionaryT
 ```
 
 ## Collection picker

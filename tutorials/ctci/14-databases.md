@@ -162,11 +162,13 @@ sequenceDiagram
     participant T1
     participant DB
     participant T2
-    T1->>DB: BEGIN; UPDATE accounts SET bal = bal - 100 WHERE id=1
-    T2->>DB: BEGIN; UPDATE accounts SET bal = bal + 100 WHERE id=2
+    T1->>DB: BEGIN
+    T1->>DB: UPDATE accounts SET bal = bal - 100 WHERE id=1
+    T2->>DB: BEGIN
+    T2->>DB: UPDATE accounts SET bal = bal + 100 WHERE id=2
     T1->>DB: COMMIT
     T2->>DB: COMMIT
-    Note over DB: atomic — both or neither; readers saw consistent state
+    Note over DB: atomic — both or neither, readers saw consistent state
 ```
 
 | Isolation level | Dirty read | Non-repeatable read | Phantom rows |

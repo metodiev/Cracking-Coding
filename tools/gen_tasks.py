@@ -80,6 +80,11 @@ def rel_target(tier: str, num: int, slug: str, lang: str) -> str:
     return f"../../solutions/{lang}/{tier}/{num:03d}-{slug}/{LANG_FILES[lang]}"
 
 
+def rel_tutorial(tier: str, num: int, slug: str) -> str:
+    """Relative path from tasks/<tier>/NNN-slug.md to its tutorial."""
+    return f"../../tutorials/tasks/{tier}/{num:03d}-{slug}.md"
+
+
 def main() -> None:
     tasks = parse_readme()
     assert len(tasks) == 998, f"expected 998 tasks, parsed {len(tasks)}"
@@ -95,12 +100,17 @@ def main() -> None:
         tier = t["tier"]
         counts[tier] = counts.get(tier, 0) + 1
         num = t["number"]
+        tutorial = ROOT / "tutorials" / "tasks" / tier / f"{num:03d}-{slug}.md"
         lines = [
             f"# {num:03d} — {t['title']}",
             "",
             f"- **Number:** {num}",
             f"- **Tier:** {TIER_LABELS[tier]}",
             f"- **CTCI chapter:** {chapter_of(num)}",
+        ]
+        if tutorial.exists():
+            lines.append(f"- **Tutorial:** [{num:03d}-{slug}.md]({rel_tutorial(tier, num, slug)})")
+        lines += [
             "",
             "## Solutions",
             "",
