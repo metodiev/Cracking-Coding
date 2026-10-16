@@ -28,9 +28,13 @@ def main(argv: list[str]) -> int:
                 checked += 1
                 resolved = (md.parent / target).resolve()
                 if not resolved.exists():
-                    broken.append((md, target))
+                    broken.append((md.resolve(), target))
     for md, target in broken:
-        print(f"BROKEN {md.relative_to(ROOT)} → {target}")
+        try:
+            where = md.relative_to(ROOT).as_posix()
+        except ValueError:
+            where = str(md)
+        print(f"BROKEN {where} -> {target}")
     print(f"checked {checked} links, {len(broken)} broken")
     return 1 if broken else 0
 
