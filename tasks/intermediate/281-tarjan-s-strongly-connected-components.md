@@ -3,6 +3,7 @@
 - **Number:** 281
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [281-tarjan-s-strongly-connected-components.md](../../tutorials/tasks/intermediate/281-tarjan-s-strongly-connected-components.md)
 
 ## Solutions
 

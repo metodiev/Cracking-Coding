@@ -3,6 +3,7 @@
 - **Number:** 342
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [342-implement-expression-evaluator-with-variables-and-precedence.md](../../tutorials/tasks/intermediate/342-implement-expression-evaluator-with-variables-and-precedence.md)
 
 ## Solutions
 

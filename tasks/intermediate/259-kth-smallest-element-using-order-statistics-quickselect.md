@@ -3,6 +3,7 @@
 - **Number:** 259
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [259-kth-smallest-element-using-order-statistics-quickselect.md](../../tutorials/tasks/intermediate/259-kth-smallest-element-using-order-statistics-quickselect.md)
 
 ## Solutions
 

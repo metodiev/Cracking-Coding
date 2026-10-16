@@ -3,6 +3,7 @@
 - **Number:** 382
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [382-implement-primality-test-miller-rabin-deterministic-small-bases.md](../../tutorials/tasks/intermediate/382-implement-primality-test-miller-rabin-deterministic-small-bases.md)
 
 ## Solutions
 

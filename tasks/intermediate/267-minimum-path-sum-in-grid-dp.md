@@ -3,6 +3,7 @@
 - **Number:** 267
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [267-minimum-path-sum-in-grid-dp.md](../../tutorials/tasks/intermediate/267-minimum-path-sum-in-grid-dp.md)
 
 ## Solutions
 

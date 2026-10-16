@@ -3,6 +3,7 @@
 - **Number:** 300
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [300-implement-convolution-naive-for-polynomials.md](../../tutorials/tasks/intermediate/300-implement-convolution-naive-for-polynomials.md)
 
 ## Solutions
 

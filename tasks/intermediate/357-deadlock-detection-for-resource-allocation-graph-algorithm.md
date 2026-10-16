@@ -3,6 +3,7 @@
 - **Number:** 357
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [357-deadlock-detection-for-resource-allocation-graph-algorithm.md](../../tutorials/tasks/intermediate/357-deadlock-detection-for-resource-allocation-graph-algorithm.md)
 
 ## Solutions
 

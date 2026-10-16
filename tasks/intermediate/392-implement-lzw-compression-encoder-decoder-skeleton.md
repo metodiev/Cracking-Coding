@@ -3,6 +3,7 @@
 - **Number:** 392
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [392-implement-lzw-compression-encoder-decoder-skeleton.md](../../tutorials/tasks/intermediate/392-implement-lzw-compression-encoder-decoder-skeleton.md)
 
 ## Solutions
 

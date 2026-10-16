@@ -3,6 +3,7 @@
 - **Number:** 343
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [343-graph-isomorphism-simple-checks-degree-sequence-invariants.md](../../tutorials/tasks/intermediate/343-graph-isomorphism-simple-checks-degree-sequence-invariants.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 362
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [362-implement-2d-segment-tree-for-range-sum-conceptual.md](../../tutorials/tasks/intermediate/362-implement-2d-segment-tree-for-range-sum-conceptual.md)
 
 ## Solutions
 

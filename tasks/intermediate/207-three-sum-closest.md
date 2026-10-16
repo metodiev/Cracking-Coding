@@ -3,6 +3,7 @@
 - **Number:** 207
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [207-three-sum-closest.md](../../tutorials/tasks/intermediate/207-three-sum-closest.md)
 
 ## Solutions
 

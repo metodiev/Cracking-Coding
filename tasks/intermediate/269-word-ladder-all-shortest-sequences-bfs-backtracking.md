@@ -3,6 +3,7 @@
 - **Number:** 269
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [269-word-ladder-all-shortest-sequences-bfs-backtracking.md](../../tutorials/tasks/intermediate/269-word-ladder-all-shortest-sequences-bfs-backtracking.md)
 
 ## Solutions
 

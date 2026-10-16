@@ -3,6 +3,7 @@
 - **Number:** 373
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [373-implement-rotating-calipers-for-diameter-of-convex-polygon.md](../../tutorials/tasks/intermediate/373-implement-rotating-calipers-for-diameter-of-convex-polygon.md)
 
 ## Solutions
 

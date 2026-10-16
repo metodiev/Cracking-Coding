@@ -3,6 +3,7 @@
 - **Number:** 372
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [372-implement-polygon-area-shoelace-formula.md](../../tutorials/tasks/intermediate/372-implement-polygon-area-shoelace-formula.md)
 
 ## Solutions
 

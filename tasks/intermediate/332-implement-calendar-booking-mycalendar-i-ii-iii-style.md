@@ -3,6 +3,7 @@
 - **Number:** 332
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [332-implement-calendar-booking-mycalendar-i-ii-iii-style.md](../../tutorials/tasks/intermediate/332-implement-calendar-booking-mycalendar-i-ii-iii-style.md)
 
 ## Solutions
 

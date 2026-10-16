@@ -3,6 +3,7 @@
 - **Number:** 375
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [375-implement-gaussian-elimination-for-solving-linear-systems-double.md](../../tutorials/tasks/intermediate/375-implement-gaussian-elimination-for-solving-linear-systems-double.md)
 
 ## Solutions
 

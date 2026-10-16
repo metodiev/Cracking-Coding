@@ -3,6 +3,7 @@
 - **Number:** 304
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [304-minimum-deletion-to-make-palindrome-lcs-trick.md](../../tutorials/tasks/intermediate/304-minimum-deletion-to-make-palindrome-lcs-trick.md)
 
 ## Solutions
 

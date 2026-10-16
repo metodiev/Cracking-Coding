@@ -3,6 +3,7 @@
 - **Number:** 359
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [359-readers-writers-fairness-implementation-and-tests.md](../../tutorials/tasks/intermediate/359-readers-writers-fairness-implementation-and-tests.md)
 
 ## Solutions
 

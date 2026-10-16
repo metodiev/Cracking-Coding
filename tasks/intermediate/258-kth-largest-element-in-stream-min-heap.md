@@ -3,6 +3,7 @@
 - **Number:** 258
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [258-kth-largest-element-in-stream-min-heap.md](../../tutorials/tasks/intermediate/258-kth-largest-element-in-stream-min-heap.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 262
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [262-merge-k-sorted-lists-heap.md](../../tutorials/tasks/intermediate/262-merge-k-sorted-lists-heap.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 254
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [254-implement-bloom-filter-insert-check-probabilistic.md](../../tutorials/tasks/intermediate/254-implement-bloom-filter-insert-check-probabilistic.md)
 
 ## Solutions
 

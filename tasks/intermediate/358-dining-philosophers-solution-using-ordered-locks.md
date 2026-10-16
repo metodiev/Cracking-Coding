@@ -3,6 +3,7 @@
 - **Number:** 358
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [358-dining-philosophers-solution-using-ordered-locks.md](../../tutorials/tasks/intermediate/358-dining-philosophers-solution-using-ordered-locks.md)
 
 ## Solutions
 

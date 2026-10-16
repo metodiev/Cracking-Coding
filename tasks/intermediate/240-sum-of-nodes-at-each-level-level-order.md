@@ -3,6 +3,7 @@
 - **Number:** 240
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [240-sum-of-nodes-at-each-level-level-order.md](../../tutorials/tasks/intermediate/240-sum-of-nodes-at-each-level-level-order.md)
 
 ## Solutions
 

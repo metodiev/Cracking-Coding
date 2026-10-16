@@ -3,6 +3,7 @@
 - **Number:** 329
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [329-range-intersection-queries-interval-trees-basics.md](../../tutorials/tasks/intermediate/329-range-intersection-queries-interval-trees-basics.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 232
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [232-minimum-window-substring-covering-all-chars-of-pattern.md](../../tutorials/tasks/intermediate/232-minimum-window-substring-covering-all-chars-of-pattern.md)
 
 ## Solutions
 

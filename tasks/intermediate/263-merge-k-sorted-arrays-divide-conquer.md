@@ -3,6 +3,7 @@
 - **Number:** 263
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [263-merge-k-sorted-arrays-divide-conquer.md](../../tutorials/tasks/intermediate/263-merge-k-sorted-arrays-divide-conquer.md)
 
 ## Solutions
 

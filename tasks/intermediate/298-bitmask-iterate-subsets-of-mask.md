@@ -3,6 +3,7 @@
 - **Number:** 298
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [298-bitmask-iterate-subsets-of-mask.md](../../tutorials/tasks/intermediate/298-bitmask-iterate-subsets-of-mask.md)
 
 ## Solutions
 

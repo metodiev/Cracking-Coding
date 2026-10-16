@@ -3,6 +3,7 @@
 - **Number:** 391
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [391-implement-adaptive-huffman-outline-conceptual.md](../../tutorials/tasks/intermediate/391-implement-adaptive-huffman-outline-conceptual.md)
 
 ## Solutions
 

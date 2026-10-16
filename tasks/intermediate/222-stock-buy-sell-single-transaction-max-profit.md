@@ -3,6 +3,7 @@
 - **Number:** 222
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [222-stock-buy-sell-single-transaction-max-profit.md](../../tutorials/tasks/intermediate/222-stock-buy-sell-single-transaction-max-profit.md)
 
 ## Solutions
 

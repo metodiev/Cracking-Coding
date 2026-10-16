@@ -3,6 +3,7 @@
 - **Number:** 363
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [363-implement-kd-tree-for-2d-nearest-neighbor-basic.md](../../tutorials/tasks/intermediate/363-implement-kd-tree-for-2d-nearest-neighbor-basic.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 218
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [218-count-subsets-that-sum-to-target-dp.md](../../tutorials/tasks/intermediate/218-count-subsets-that-sum-to-target-dp.md)
 
 ## Solutions
 

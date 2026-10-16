@@ -3,6 +3,7 @@
 - **Number:** 376
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [376-solve-linear-equations-with-integer-coefficients-rational-small.md](../../tutorials/tasks/intermediate/376-solve-linear-equations-with-integer-coefficients-rational-small.md)
 
 ## Solutions
 

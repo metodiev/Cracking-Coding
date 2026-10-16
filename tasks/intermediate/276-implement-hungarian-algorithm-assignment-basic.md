@@ -3,6 +3,7 @@
 - **Number:** 276
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [276-implement-hungarian-algorithm-assignment-basic.md](../../tutorials/tasks/intermediate/276-implement-hungarian-algorithm-assignment-basic.md)
 
 ## Solutions
 

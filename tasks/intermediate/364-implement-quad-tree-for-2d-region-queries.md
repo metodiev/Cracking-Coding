@@ -3,6 +3,7 @@
 - **Number:** 364
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [364-implement-quad-tree-for-2d-region-queries.md](../../tutorials/tasks/intermediate/364-implement-quad-tree-for-2d-region-queries.md)
 
 ## Solutions
 

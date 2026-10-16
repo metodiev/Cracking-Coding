@@ -3,6 +3,7 @@
 - **Number:** 272
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [272-reconstruct-itinerary-problem-eulerian-path-hierholzer.md](../../tutorials/tasks/intermediate/272-reconstruct-itinerary-problem-eulerian-path-hierholzer.md)
 
 ## Solutions
 

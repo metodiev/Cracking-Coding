@@ -3,6 +3,7 @@
 - **Number:** 294
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [294-coin-change-minimum-coins-dp.md](../../tutorials/tasks/intermediate/294-coin-change-minimum-coins-dp.md)
 
 ## Solutions
 

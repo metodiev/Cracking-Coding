@@ -3,6 +3,7 @@
 - **Number:** 239
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [239-connect-next-pointers-in-each-node-perfect-binary-tree.md](../../tutorials/tasks/intermediate/239-connect-next-pointers-in-each-node-perfect-binary-tree.md)
 
 ## Solutions
 

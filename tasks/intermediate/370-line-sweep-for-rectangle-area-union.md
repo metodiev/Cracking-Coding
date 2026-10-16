@@ -3,6 +3,7 @@
 - **Number:** 370
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [370-line-sweep-for-rectangle-area-union.md](../../tutorials/tasks/intermediate/370-line-sweep-for-rectangle-area-union.md)
 
 ## Solutions
 

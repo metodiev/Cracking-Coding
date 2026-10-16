@@ -3,6 +3,7 @@
 - **Number:** 217
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [217-subset-sum-decision-problem-dp-boolean.md](../../tutorials/tasks/intermediate/217-subset-sum-decision-problem-dp-boolean.md)
 
 ## Solutions
 

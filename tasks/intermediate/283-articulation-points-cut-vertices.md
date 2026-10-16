@@ -3,6 +3,7 @@
 - **Number:** 283
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [283-articulation-points-cut-vertices.md](../../tutorials/tasks/intermediate/283-articulation-points-cut-vertices.md)
 
 ## Solutions
 

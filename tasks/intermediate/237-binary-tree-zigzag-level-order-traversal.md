@@ -3,6 +3,7 @@
 - **Number:** 237
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [237-binary-tree-zigzag-level-order-traversal.md](../../tutorials/tasks/intermediate/237-binary-tree-zigzag-level-order-traversal.md)
 
 ## Solutions
 

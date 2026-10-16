@@ -3,6 +3,7 @@
 - **Number:** 356
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [356-implement-lock-free-stack-outline-cas.md](../../tutorials/tasks/intermediate/356-implement-lock-free-stack-outline-cas.md)
 
 ## Solutions
 

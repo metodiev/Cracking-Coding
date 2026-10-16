@@ -3,6 +3,7 @@
 - **Number:** 242
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [242-convert-binary-tree-to-doubly-linked-list-inorder.md](../../tutorials/tasks/intermediate/242-convert-binary-tree-to-doubly-linked-list-inorder.md)
 
 ## Solutions
 

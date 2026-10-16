@@ -3,6 +3,7 @@
 - **Number:** 312
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [312-find-substring-occurrences-with-suffix-array-lcp.md](../../tutorials/tasks/intermediate/312-find-substring-occurrences-with-suffix-array-lcp.md)
 
 ## Solutions
 

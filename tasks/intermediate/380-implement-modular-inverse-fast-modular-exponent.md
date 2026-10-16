@@ -3,6 +3,7 @@
 - **Number:** 380
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [380-implement-modular-inverse-fast-modular-exponent.md](../../tutorials/tasks/intermediate/380-implement-modular-inverse-fast-modular-exponent.md)
 
 ## Solutions
 

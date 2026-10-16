@@ -3,6 +3,7 @@
 - **Number:** 305
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [305-shortest-common-supersequence-length-dp.md](../../tutorials/tasks/intermediate/305-shortest-common-supersequence-length-dp.md)
 
 ## Solutions
 

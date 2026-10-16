@@ -3,6 +3,7 @@
 - **Number:** 336
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [336-design-a-snapshot-array-persisting-versions-basic.md](../../tutorials/tasks/intermediate/336-design-a-snapshot-array-persisting-versions-basic.md)
 
 ## Solutions
 

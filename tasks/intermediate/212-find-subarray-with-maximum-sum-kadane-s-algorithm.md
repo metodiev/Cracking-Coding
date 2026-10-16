@@ -3,6 +3,7 @@
 - **Number:** 212
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [212-find-subarray-with-maximum-sum-kadane-s-algorithm.md](../../tutorials/tasks/intermediate/212-find-subarray-with-maximum-sum-kadane-s-algorithm.md)
 
 ## Solutions
 

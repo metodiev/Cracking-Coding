@@ -3,6 +3,7 @@
 - **Number:** 279
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [279-min-cut-using-max-flow-s-t-cut-extraction.md](../../tutorials/tasks/intermediate/279-min-cut-using-max-flow-s-t-cut-extraction.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 396
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim.md](../../tutorials/tasks/intermediate/396-implement-offline-convex-hull-trick-with-divide-conquer-dp-optim.md)
 
 ## Solutions
 

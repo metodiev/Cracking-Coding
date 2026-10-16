@@ -3,6 +3,7 @@
 - **Number:** 349
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [349-barrier-synchronization-primitive-simple-implementation.md](../../tutorials/tasks/intermediate/349-barrier-synchronization-primitive-simple-implementation.md)
 
 ## Solutions
 

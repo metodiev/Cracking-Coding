@@ -3,6 +3,7 @@
 - **Number:** 229
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [229-longest-alternating-subsequence.md](../../tutorials/tasks/intermediate/229-longest-alternating-subsequence.md)
 
 ## Solutions
 

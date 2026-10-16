@@ -3,6 +3,7 @@
 - **Number:** 235
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [235-serialize-and-deserialize-n-ary-tree.md](../../tutorials/tasks/intermediate/235-serialize-and-deserialize-n-ary-tree.md)
 
 ## Solutions
 

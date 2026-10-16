@@ -3,6 +3,7 @@
 - **Number:** 302
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [302-implement-convolution-using-number-theoretic-transform-outline-t.md](../../tutorials/tasks/intermediate/302-implement-convolution-using-number-theoretic-transform-outline-t.md)
 
 ## Solutions
 

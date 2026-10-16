@@ -3,6 +3,7 @@
 - **Number:** 275
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [275-maximum-bipartite-matching-hopcroft-karp-outline.md](../../tutorials/tasks/intermediate/275-maximum-bipartite-matching-hopcroft-karp-outline.md)
 
 ## Solutions
 

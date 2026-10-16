@@ -3,6 +3,7 @@
 - **Number:** 323
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [323-insert-interval-and-merge-intervals.md](../../tutorials/tasks/intermediate/323-insert-interval-and-merge-intervals.md)
 
 ## Solutions
 

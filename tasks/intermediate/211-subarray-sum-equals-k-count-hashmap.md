@@ -3,6 +3,7 @@
 - **Number:** 211
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [211-subarray-sum-equals-k-count-hashmap.md](../../tutorials/tasks/intermediate/211-subarray-sum-equals-k-count-hashmap.md)
 
 ## Solutions
 

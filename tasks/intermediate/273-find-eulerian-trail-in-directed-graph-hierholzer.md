@@ -3,6 +3,7 @@
 - **Number:** 273
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [273-find-eulerian-trail-in-directed-graph-hierholzer.md](../../tutorials/tasks/intermediate/273-find-eulerian-trail-in-directed-graph-hierholzer.md)
 
 ## Solutions
 

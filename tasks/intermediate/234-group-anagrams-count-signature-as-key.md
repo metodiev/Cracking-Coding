@@ -3,6 +3,7 @@
 - **Number:** 234
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [234-group-anagrams-count-signature-as-key.md](../../tutorials/tasks/intermediate/234-group-anagrams-count-signature-as-key.md)
 
 ## Solutions
 

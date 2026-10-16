@@ -3,6 +3,7 @@
 - **Number:** 399
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [399-implement-centroid-decomposition-on-tree-for-distance-queries.md](../../tutorials/tasks/intermediate/399-implement-centroid-decomposition-on-tree-for-distance-queries.md)
 
 ## Solutions
 

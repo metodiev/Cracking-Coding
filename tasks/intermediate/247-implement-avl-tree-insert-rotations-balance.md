@@ -3,6 +3,7 @@
 - **Number:** 247
 - **Tier:** Intermediate
 - **CTCI chapter:** CTCI §X — Advanced Topics
+- **Tutorial:** [247-implement-avl-tree-insert-rotations-balance.md](../../tutorials/tasks/intermediate/247-implement-avl-tree-insert-rotations-balance.md)
 
 ## Solutions
 

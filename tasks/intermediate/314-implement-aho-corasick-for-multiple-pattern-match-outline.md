@@ -3,6 +3,7 @@
 - **Number:** 314
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [314-implement-aho-corasick-for-multiple-pattern-match-outline.md](../../tutorials/tasks/intermediate/314-implement-aho-corasick-for-multiple-pattern-match-outline.md)
 
 ## Solutions
 

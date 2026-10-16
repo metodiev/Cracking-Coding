@@ -3,6 +3,7 @@
 - **Number:** 366
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [366-compute-convex-hull-graham-scan.md](../../tutorials/tasks/intermediate/366-compute-convex-hull-graham-scan.md)
 
 ## Solutions
 

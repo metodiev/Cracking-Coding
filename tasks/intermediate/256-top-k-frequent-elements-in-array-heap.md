@@ -3,6 +3,7 @@
 - **Number:** 256
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [256-top-k-frequent-elements-in-array-heap.md](../../tutorials/tasks/intermediate/256-top-k-frequent-elements-in-array-heap.md)
 
 ## Solutions
 

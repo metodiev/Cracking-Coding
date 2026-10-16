@@ -3,6 +3,7 @@
 - **Number:** 277
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [277-maximum-flow-edmonds-karp.md](../../tutorials/tasks/intermediate/277-maximum-flow-edmonds-karp.md)
 
 ## Solutions
 

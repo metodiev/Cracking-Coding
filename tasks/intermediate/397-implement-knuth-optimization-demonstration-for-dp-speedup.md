@@ -3,6 +3,7 @@
 - **Number:** 397
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [397-implement-knuth-optimization-demonstration-for-dp-speedup.md](../../tutorials/tasks/intermediate/397-implement-knuth-optimization-demonstration-for-dp-speedup.md)
 
 ## Solutions
 

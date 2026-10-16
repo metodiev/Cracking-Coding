@@ -3,6 +3,7 @@
 - **Number:** 271
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [271-minimum-height-trees-find-centers-of-undirected-tree.md](../../tutorials/tasks/intermediate/271-minimum-height-trees-find-centers-of-undirected-tree.md)
 
 ## Solutions
 

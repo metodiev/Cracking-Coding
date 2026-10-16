@@ -3,6 +3,7 @@
 - **Number:** 230
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [230-longest-palindrome-substring-expand-center.md](../../tutorials/tasks/intermediate/230-longest-palindrome-substring-expand-center.md)
 
 ## Solutions
 

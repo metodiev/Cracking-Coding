@@ -3,6 +3,7 @@
 - **Number:** 250
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [250-implement-splay-tree-access-operation-basic.md](../../tutorials/tasks/intermediate/250-implement-splay-tree-access-operation-basic.md)
 
 ## Solutions
 

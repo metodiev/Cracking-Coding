@@ -3,6 +3,7 @@
 - **Number:** 306
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 11 — Testing
+- **Tutorial:** [306-reconstruct-shortest-common-supersequence.md](../../tutorials/tasks/intermediate/306-reconstruct-shortest-common-supersequence.md)
 
 ## Solutions
 

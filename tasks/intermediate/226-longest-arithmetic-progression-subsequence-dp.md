@@ -3,6 +3,7 @@
 - **Number:** 226
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [226-longest-arithmetic-progression-subsequence-dp.md](../../tutorials/tasks/intermediate/226-longest-arithmetic-progression-subsequence-dp.md)
 
 ## Solutions
 

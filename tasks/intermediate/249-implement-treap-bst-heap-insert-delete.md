@@ -3,6 +3,7 @@
 - **Number:** 249
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [249-implement-treap-bst-heap-insert-delete.md](../../tutorials/tasks/intermediate/249-implement-treap-bst-heap-insert-delete.md)
 
 ## Solutions
 

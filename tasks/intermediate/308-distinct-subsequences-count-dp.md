@@ -3,6 +3,7 @@
 - **Number:** 308
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [308-distinct-subsequences-count-dp.md](../../tutorials/tasks/intermediate/308-distinct-subsequences-count-dp.md)
 
 ## Solutions
 

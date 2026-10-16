@@ -3,6 +3,7 @@
 - **Number:** 209
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [209-longest-subarray-with-sum-equal-to-k-array-of-positives.md](../../tutorials/tasks/intermediate/209-longest-subarray-with-sum-equal-to-k-array-of-positives.md)
 
 ## Solutions
 

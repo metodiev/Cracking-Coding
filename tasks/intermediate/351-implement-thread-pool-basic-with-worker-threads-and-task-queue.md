@@ -3,6 +3,7 @@
 - **Number:** 351
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [351-implement-thread-pool-basic-with-worker-threads-and-task-queue.md](../../tutorials/tasks/intermediate/351-implement-thread-pool-basic-with-worker-threads-and-task-queue.md)
 
 ## Solutions
 

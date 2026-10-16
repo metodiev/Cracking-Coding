@@ -3,6 +3,7 @@
 - **Number:** 316
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [316-find-repeated-dna-sequences-length-10-with-hashing.md](../../tutorials/tasks/intermediate/316-find-repeated-dna-sequences-length-10-with-hashing.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 286
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [286-sudoku-solver-backtracking-heuristics.md](../../tutorials/tasks/intermediate/286-sudoku-solver-backtracking-heuristics.md)
 
 ## Solutions
 

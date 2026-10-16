@@ -3,6 +3,7 @@
 - **Number:** 204
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [204-count-pairs-with-given-difference-k-in-array-hash.md](../../tutorials/tasks/intermediate/204-count-pairs-with-given-difference-k-in-array-hash.md)
 
 ## Solutions
 

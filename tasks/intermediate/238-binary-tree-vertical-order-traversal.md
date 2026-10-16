@@ -3,6 +3,7 @@
 - **Number:** 238
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [238-binary-tree-vertical-order-traversal.md](../../tutorials/tasks/intermediate/238-binary-tree-vertical-order-traversal.md)
 
 ## Solutions
 

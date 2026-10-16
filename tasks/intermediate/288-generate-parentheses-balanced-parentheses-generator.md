@@ -3,6 +3,7 @@
 - **Number:** 288
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [288-generate-parentheses-balanced-parentheses-generator.md](../../tutorials/tasks/intermediate/288-generate-parentheses-balanced-parentheses-generator.md)
 
 ## Solutions
 

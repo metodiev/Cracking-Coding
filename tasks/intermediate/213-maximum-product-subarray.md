@@ -3,6 +3,7 @@
 - **Number:** 213
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [213-maximum-product-subarray.md](../../tutorials/tasks/intermediate/213-maximum-product-subarray.md)
 
 ## Solutions
 

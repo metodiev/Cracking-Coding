@@ -3,6 +3,7 @@
 - **Number:** 337
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [337-design-majority-vote-generalized-n-k-using-count-map.md](../../tutorials/tasks/intermediate/337-design-majority-vote-generalized-n-k-using-count-map.md)
 
 ## Solutions
 

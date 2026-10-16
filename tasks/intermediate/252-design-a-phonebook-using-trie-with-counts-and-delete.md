@@ -3,6 +3,7 @@
 - **Number:** 252
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [252-design-a-phonebook-using-trie-with-counts-and-delete.md](../../tutorials/tasks/intermediate/252-design-a-phonebook-using-trie-with-counts-and-delete.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 224
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [224-stock-with-cooldown-dp.md](../../tutorials/tasks/intermediate/224-stock-with-cooldown-dp.md)
 
 ## Solutions
 

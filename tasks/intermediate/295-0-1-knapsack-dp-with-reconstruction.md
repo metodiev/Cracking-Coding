@@ -3,6 +3,7 @@
 - **Number:** 295
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [295-0-1-knapsack-dp-with-reconstruction.md](../../tutorials/tasks/intermediate/295-0-1-knapsack-dp-with-reconstruction.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 352
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [352-implement-fork-join-style-parallel-sum-threads.md](../../tutorials/tasks/intermediate/352-implement-fork-join-style-parallel-sum-threads.md)
 
 ## Solutions
 

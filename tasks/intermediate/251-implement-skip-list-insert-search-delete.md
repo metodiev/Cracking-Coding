@@ -3,6 +3,7 @@
 - **Number:** 251
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [251-implement-skip-list-insert-search-delete.md](../../tutorials/tasks/intermediate/251-implement-skip-list-insert-search-delete.md)
 
 ## Solutions
 

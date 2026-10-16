@@ -3,6 +3,7 @@
 - **Number:** 202
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [202-3-sum-all-unique-triplets.md](../../tutorials/tasks/intermediate/202-3-sum-all-unique-triplets.md)
 
 ## Solutions
 

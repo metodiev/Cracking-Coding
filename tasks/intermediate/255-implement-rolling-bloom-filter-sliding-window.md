@@ -3,6 +3,7 @@
 - **Number:** 255
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [255-implement-rolling-bloom-filter-sliding-window.md](../../tutorials/tasks/intermediate/255-implement-rolling-bloom-filter-sliding-window.md)
 
 ## Solutions
 

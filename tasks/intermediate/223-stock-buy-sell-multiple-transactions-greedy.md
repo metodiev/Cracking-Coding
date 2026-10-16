@@ -3,6 +3,7 @@
 - **Number:** 223
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [223-stock-buy-sell-multiple-transactions-greedy.md](../../tutorials/tasks/intermediate/223-stock-buy-sell-multiple-transactions-greedy.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 398
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [398-implement-divide-conquer-dp-optimization-example.md](../../tutorials/tasks/intermediate/398-implement-divide-conquer-dp-optimization-example.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 301
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [301-fft-outline-and-small-convolution-using-library-conceptual.md](../../tutorials/tasks/intermediate/301-fft-outline-and-small-convolution-using-library-conceptual.md)
 
 ## Solutions
 

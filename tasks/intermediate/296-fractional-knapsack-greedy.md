@@ -3,6 +3,7 @@
 - **Number:** 296
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [296-fractional-knapsack-greedy.md](../../tutorials/tasks/intermediate/296-fractional-knapsack-greedy.md)
 
 ## Solutions
 

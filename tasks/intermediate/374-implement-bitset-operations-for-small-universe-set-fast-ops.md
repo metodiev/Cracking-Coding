@@ -3,6 +3,7 @@
 - **Number:** 374
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 5 — Bit Manipulation
+- **Tutorial:** [374-implement-bitset-operations-for-small-universe-set-fast-ops.md](../../tutorials/tasks/intermediate/374-implement-bitset-operations-for-small-universe-set-fast-ops.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 377
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Numerical & Scientific Computing
+- **Tutorial:** [377-implement-simplex-algorithm-outline-for-small-lp.md](../../tutorials/tasks/intermediate/377-implement-simplex-algorithm-outline-for-small-lp.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 327
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [327-car-pooling-capacity-check-difference-array-sweep.md](../../tutorials/tasks/intermediate/327-car-pooling-capacity-check-difference-array-sweep.md)
 
 ## Solutions
 

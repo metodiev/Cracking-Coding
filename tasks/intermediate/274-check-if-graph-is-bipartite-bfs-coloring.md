@@ -3,6 +3,7 @@
 - **Number:** 274
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [274-check-if-graph-is-bipartite-bfs-coloring.md](../../tutorials/tasks/intermediate/274-check-if-graph-is-bipartite-bfs-coloring.md)
 
 ## Solutions
 

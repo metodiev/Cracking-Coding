@@ -3,6 +3,7 @@
 - **Number:** 388
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [388-implement-string-compression-run-length-encoding-decode.md](../../tutorials/tasks/intermediate/388-implement-string-compression-run-length-encoding-decode.md)
 
 ## Solutions
 

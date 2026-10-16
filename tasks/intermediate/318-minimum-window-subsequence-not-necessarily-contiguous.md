@@ -3,6 +3,7 @@
 - **Number:** 318
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [318-minimum-window-subsequence-not-necessarily-contiguous.md](../../tutorials/tasks/intermediate/318-minimum-window-subsequence-not-necessarily-contiguous.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 248
 - **Tier:** Intermediate
 - **CTCI chapter:** CTCI §X — Advanced Topics
+- **Tutorial:** [248-implement-red-black-tree-insert-basic-conceptual.md](../../tutorials/tasks/intermediate/248-implement-red-black-tree-insert-basic-conceptual.md)
 
 ## Solutions
 

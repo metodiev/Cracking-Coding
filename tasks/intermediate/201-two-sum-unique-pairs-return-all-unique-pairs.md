@@ -3,6 +3,7 @@
 - **Number:** 201
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [201-two-sum-unique-pairs-return-all-unique-pairs.md](../../tutorials/tasks/intermediate/201-two-sum-unique-pairs-return-all-unique-pairs.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 326
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [326-meeting-rooms-required-interval-partitioning.md](../../tutorials/tasks/intermediate/326-meeting-rooms-required-interval-partitioning.md)
 
 ## Solutions
 

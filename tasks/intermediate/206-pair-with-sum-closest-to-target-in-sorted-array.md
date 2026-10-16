@@ -3,6 +3,7 @@
 - **Number:** 206
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [206-pair-with-sum-closest-to-target-in-sorted-array.md](../../tutorials/tasks/intermediate/206-pair-with-sum-closest-to-target-in-sorted-array.md)
 
 ## Solutions
 

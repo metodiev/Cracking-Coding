@@ -3,6 +3,7 @@
 - **Number:** 313
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [313-implement-z-function-for-pattern-matching.md](../../tutorials/tasks/intermediate/313-implement-z-function-for-pattern-matching.md)
 
 ## Solutions
 

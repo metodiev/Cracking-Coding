@@ -3,6 +3,7 @@
 - **Number:** 371
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [371-detect-line-segment-intersection-bentley-ottmann-outline.md](../../tutorials/tasks/intermediate/371-detect-line-segment-intersection-bentley-ottmann-outline.md)
 
 ## Solutions
 

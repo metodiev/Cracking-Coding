@@ -3,6 +3,7 @@
 - **Number:** 341
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [341-balanced-parentheses-longest-valid-substring-stack.md](../../tutorials/tasks/intermediate/341-balanced-parentheses-longest-valid-substring-stack.md)
 
 ## Solutions
 

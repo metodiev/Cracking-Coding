@@ -3,6 +3,7 @@
 - **Number:** 365
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [365-implement-skyline-of-buildings-via-divide-conquer-detailed.md](../../tutorials/tasks/intermediate/365-implement-skyline-of-buildings-via-divide-conquer-detailed.md)
 
 ## Solutions
 

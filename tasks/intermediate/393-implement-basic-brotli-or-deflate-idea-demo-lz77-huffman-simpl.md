@@ -3,6 +3,7 @@
 - **Number:** 393
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [393-implement-basic-brotli-or-deflate-idea-demo-lz77-huffman-simpl.md](../../tutorials/tasks/intermediate/393-implement-basic-brotli-or-deflate-idea-demo-lz77-huffman-simpl.md)
 
 ## Solutions
 

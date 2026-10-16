@@ -3,6 +3,7 @@
 - **Number:** 278
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [278-dinic-s-algorithm-for-max-flow-basic.md](../../tutorials/tasks/intermediate/278-dinic-s-algorithm-for-max-flow-basic.md)
 
 ## Solutions
 

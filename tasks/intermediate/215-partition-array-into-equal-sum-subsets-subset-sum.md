@@ -3,6 +3,7 @@
 - **Number:** 215
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [215-partition-array-into-equal-sum-subsets-subset-sum.md](../../tutorials/tasks/intermediate/215-partition-array-into-equal-sum-subsets-subset-sum.md)
 
 ## Solutions
 

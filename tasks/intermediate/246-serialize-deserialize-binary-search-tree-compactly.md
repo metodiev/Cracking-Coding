@@ -3,6 +3,7 @@
 - **Number:** 246
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [246-serialize-deserialize-binary-search-tree-compactly.md](../../tutorials/tasks/intermediate/246-serialize-deserialize-binary-search-tree-compactly.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 389
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [389-implement-huffman-coding-for-characters-frequency.md](../../tutorials/tasks/intermediate/389-implement-huffman-coding-for-characters-frequency.md)
 
 ## Solutions
 

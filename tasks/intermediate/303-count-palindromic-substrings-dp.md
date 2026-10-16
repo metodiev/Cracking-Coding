@@ -3,6 +3,7 @@
 - **Number:** 303
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [303-count-palindromic-substrings-dp.md](../../tutorials/tasks/intermediate/303-count-palindromic-substrings-dp.md)
 
 ## Solutions
 

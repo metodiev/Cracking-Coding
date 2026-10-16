@@ -3,6 +3,7 @@
 - **Number:** 387
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [387-implement-minimal-perfect-hash-concept-chm-small-example.md](../../tutorials/tasks/intermediate/387-implement-minimal-perfect-hash-concept-chm-small-example.md)
 
 ## Solutions
 

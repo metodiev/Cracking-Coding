@@ -3,6 +3,7 @@
 - **Number:** 333
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [333-design-hit-counter-sliding-time-window.md](../../tutorials/tasks/intermediate/333-design-hit-counter-sliding-time-window.md)
 
 ## Solutions
 

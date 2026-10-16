@@ -3,6 +3,7 @@
 - **Number:** 355
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [355-implement-epoch-based-reclamation-idea-for-concurrent-data-struc.md](../../tutorials/tasks/intermediate/355-implement-epoch-based-reclamation-idea-for-concurrent-data-struc.md)
 
 ## Solutions
 

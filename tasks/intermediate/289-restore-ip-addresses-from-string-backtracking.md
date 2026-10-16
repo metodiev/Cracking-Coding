@@ -3,6 +3,7 @@
 - **Number:** 289
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [289-restore-ip-addresses-from-string-backtracking.md](../../tutorials/tasks/intermediate/289-restore-ip-addresses-from-string-backtracking.md)
 
 ## Solutions
 

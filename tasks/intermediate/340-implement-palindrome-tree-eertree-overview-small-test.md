@@ -3,6 +3,7 @@
 - **Number:** 340
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [340-implement-palindrome-tree-eertree-overview-small-test.md](../../tutorials/tasks/intermediate/340-implement-palindrome-tree-eertree-overview-small-test.md)
 
 ## Solutions
 

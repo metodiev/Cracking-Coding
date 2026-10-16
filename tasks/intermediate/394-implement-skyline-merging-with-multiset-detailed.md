@@ -3,6 +3,7 @@
 - **Number:** 394
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [394-implement-skyline-merging-with-multiset-detailed.md](../../tutorials/tasks/intermediate/394-implement-skyline-merging-with-multiset-detailed.md)
 
 ## Solutions
 

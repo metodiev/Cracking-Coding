@@ -3,6 +3,7 @@
 - **Number:** 345
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [345-design-a-randomized-set-with-insert-delete-getrandom.md](../../tutorials/tasks/intermediate/345-design-a-randomized-set-with-insert-delete-getrandom.md)
 
 ## Solutions
 

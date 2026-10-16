@@ -3,6 +3,7 @@
 - **Number:** 386
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [386-implement-elliptic-curve-point-arithmetic-outline.md](../../tutorials/tasks/intermediate/386-implement-elliptic-curve-point-arithmetic-outline.md)
 
 ## Solutions
 

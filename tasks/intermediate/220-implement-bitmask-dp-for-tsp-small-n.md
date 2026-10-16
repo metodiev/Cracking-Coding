@@ -3,6 +3,7 @@
 - **Number:** 220
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [220-implement-bitmask-dp-for-tsp-small-n.md](../../tutorials/tasks/intermediate/220-implement-bitmask-dp-for-tsp-small-n.md)
 
 ## Solutions
 

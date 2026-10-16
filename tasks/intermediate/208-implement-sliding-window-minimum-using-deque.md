@@ -3,6 +3,7 @@
 - **Number:** 208
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 3 — Stacks and Queues
+- **Tutorial:** [208-implement-sliding-window-minimum-using-deque.md](../../tutorials/tasks/intermediate/208-implement-sliding-window-minimum-using-deque.md)
 
 ## Solutions
 

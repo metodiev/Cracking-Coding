@@ -3,6 +3,7 @@
 - **Number:** 233
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [233-group-anagrams-hashmap-with-sorted-key.md](../../tutorials/tasks/intermediate/233-group-anagrams-hashmap-with-sorted-key.md)
 
 ## Solutions
 

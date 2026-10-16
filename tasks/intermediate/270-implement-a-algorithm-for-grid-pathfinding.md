@@ -3,6 +3,7 @@
 - **Number:** 270
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [270-implement-a-algorithm-for-grid-pathfinding.md](../../tutorials/tasks/intermediate/270-implement-a-algorithm-for-grid-pathfinding.md)
 
 ## Solutions
 

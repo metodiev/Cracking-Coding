@@ -3,6 +3,7 @@
 - **Number:** 347
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [347-implement-read-write-lock-basic-no-starvation.md](../../tutorials/tasks/intermediate/347-implement-read-write-lock-basic-no-starvation.md)
 
 ## Solutions
 

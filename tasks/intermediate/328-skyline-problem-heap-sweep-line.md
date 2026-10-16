@@ -3,6 +3,7 @@
 - **Number:** 328
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [328-skyline-problem-heap-sweep-line.md](../../tutorials/tasks/intermediate/328-skyline-problem-heap-sweep-line.md)
 
 ## Solutions
 

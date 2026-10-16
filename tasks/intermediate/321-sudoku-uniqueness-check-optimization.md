@@ -3,6 +3,7 @@
 - **Number:** 321
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [321-sudoku-uniqueness-check-optimization.md](../../tutorials/tasks/intermediate/321-sudoku-uniqueness-check-optimization.md)
 
 ## Solutions
 

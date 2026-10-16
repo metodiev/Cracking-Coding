@@ -3,6 +3,7 @@
 - **Number:** 299
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Networking, OS & Real-Time
+- **Tutorial:** [299-dp-over-subsets-sos-dp-simple-task.md](../../tutorials/tasks/intermediate/299-dp-over-subsets-sos-dp-simple-task.md)
 
 ## Solutions
 

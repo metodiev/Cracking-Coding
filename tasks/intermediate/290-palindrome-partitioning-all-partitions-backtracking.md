@@ -3,6 +3,7 @@
 - **Number:** 290
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [290-palindrome-partitioning-all-partitions-backtracking.md](../../tutorials/tasks/intermediate/290-palindrome-partitioning-all-partitions-backtracking.md)
 
 ## Solutions
 

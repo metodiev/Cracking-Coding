@@ -3,6 +3,7 @@
 - **Number:** 228
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [228-maximum-sum-increasing-subsequence.md](../../tutorials/tasks/intermediate/228-maximum-sum-increasing-subsequence.md)
 
 ## Solutions
 

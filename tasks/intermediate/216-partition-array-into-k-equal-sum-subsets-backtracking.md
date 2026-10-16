@@ -3,6 +3,7 @@
 - **Number:** 216
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [216-partition-array-into-k-equal-sum-subsets-backtracking.md](../../tutorials/tasks/intermediate/216-partition-array-into-k-equal-sum-subsets-backtracking.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 384
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [384-implement-discrete-logarithm-baby-step-giant-step.md](../../tutorials/tasks/intermediate/384-implement-discrete-logarithm-baby-step-giant-step.md)
 
 ## Solutions
 

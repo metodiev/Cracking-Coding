@@ -3,6 +3,7 @@
 - **Number:** 257
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 10 — Sorting and Searching
+- **Tutorial:** [257-top-k-frequent-words-heap-lexicographic-tie.md](../../tutorials/tasks/intermediate/257-top-k-frequent-words-heap-lexicographic-tie.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 253
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [253-implement-compressed-trie-radix-tree-basics.md](../../tutorials/tasks/intermediate/253-implement-compressed-trie-radix-tree-basics.md)
 
 ## Solutions
 

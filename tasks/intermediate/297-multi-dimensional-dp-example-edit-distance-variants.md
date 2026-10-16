@@ -3,6 +3,7 @@
 - **Number:** 297
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [297-multi-dimensional-dp-example-edit-distance-variants.md](../../tutorials/tasks/intermediate/297-multi-dimensional-dp-example-edit-distance-variants.md)
 
 ## Solutions
 

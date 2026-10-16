@@ -3,6 +3,7 @@
 - **Number:** 227
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [227-longest-bitonic-subarray.md](../../tutorials/tasks/intermediate/227-longest-bitonic-subarray.md)
 
 ## Solutions
 

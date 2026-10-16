@@ -3,6 +3,7 @@
 - **Number:** 353
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [353-implement-concurrent-hashmap-simplified-sharding.md](../../tutorials/tasks/intermediate/353-implement-concurrent-hashmap-simplified-sharding.md)
 
 ## Solutions
 

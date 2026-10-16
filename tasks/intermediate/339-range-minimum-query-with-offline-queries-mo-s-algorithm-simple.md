@@ -3,6 +3,7 @@
 - **Number:** 339
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple.md](../../tutorials/tasks/intermediate/339-range-minimum-query-with-offline-queries-mo-s-algorithm-simple.md)
 
 ## Solutions
 

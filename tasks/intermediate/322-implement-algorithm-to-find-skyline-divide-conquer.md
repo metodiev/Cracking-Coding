@@ -3,6 +3,7 @@
 - **Number:** 322
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [322-implement-algorithm-to-find-skyline-divide-conquer.md](../../tutorials/tasks/intermediate/322-implement-algorithm-to-find-skyline-divide-conquer.md)
 
 ## Solutions
 

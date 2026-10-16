@@ -3,6 +3,7 @@
 - **Number:** 244
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [244-reconstruct-binary-tree-from-inorder-and-postorder.md](../../tutorials/tasks/intermediate/244-reconstruct-binary-tree-from-inorder-and-postorder.md)
 
 ## Solutions
 

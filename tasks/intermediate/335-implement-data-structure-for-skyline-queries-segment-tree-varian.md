@@ -3,6 +3,7 @@
 - **Number:** 335
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [335-implement-data-structure-for-skyline-queries-segment-tree-varian.md](../../tutorials/tasks/intermediate/335-implement-data-structure-for-skyline-queries-segment-tree-varian.md)
 
 ## Solutions
 

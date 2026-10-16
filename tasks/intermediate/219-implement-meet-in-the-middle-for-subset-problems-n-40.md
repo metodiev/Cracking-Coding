@@ -3,6 +3,7 @@
 - **Number:** 219
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [219-implement-meet-in-the-middle-for-subset-problems-n-40.md](../../tutorials/tasks/intermediate/219-implement-meet-in-the-middle-for-subset-problems-n-40.md)
 
 ## Solutions
 

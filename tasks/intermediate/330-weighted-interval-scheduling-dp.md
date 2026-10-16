@@ -3,6 +3,7 @@
 - **Number:** 330
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [330-weighted-interval-scheduling-dp.md](../../tutorials/tasks/intermediate/330-weighted-interval-scheduling-dp.md)
 
 ## Solutions
 

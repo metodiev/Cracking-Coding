@@ -3,6 +3,7 @@
 - **Number:** 205
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [205-count-pairs-with-sum-k-when-array-unsorted-hash.md](../../tutorials/tasks/intermediate/205-count-pairs-with-sum-k-when-array-unsorted-hash.md)
 
 ## Solutions
 

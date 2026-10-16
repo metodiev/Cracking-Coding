@@ -3,6 +3,7 @@
 - **Number:** 311
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [311-build-suffix-automaton-basic-conceptual-small-cases.md](../../tutorials/tasks/intermediate/311-build-suffix-automaton-basic-conceptual-small-cases.md)
 
 ## Solutions
 

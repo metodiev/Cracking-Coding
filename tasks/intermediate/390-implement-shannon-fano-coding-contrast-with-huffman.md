@@ -3,6 +3,7 @@
 - **Number:** 390
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [390-implement-shannon-fano-coding-contrast-with-huffman.md](../../tutorials/tasks/intermediate/390-implement-shannon-fano-coding-contrast-with-huffman.md)
 
 ## Solutions
 

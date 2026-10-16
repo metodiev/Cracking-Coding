@@ -3,6 +3,7 @@
 - **Number:** 334
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [334-implement-rolling-median-with-delete-operation-multiset-or-two-h.md](../../tutorials/tasks/intermediate/334-implement-rolling-median-with-delete-operation-multiset-or-two-h.md)
 
 ## Solutions
 

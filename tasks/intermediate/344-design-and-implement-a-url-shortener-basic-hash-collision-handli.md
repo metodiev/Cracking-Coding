@@ -3,6 +3,7 @@
 - **Number:** 344
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [344-design-and-implement-a-url-shortener-basic-hash-collision-handli.md](../../tutorials/tasks/intermediate/344-design-and-implement-a-url-shortener-basic-hash-collision-handli.md)
 
 ## Solutions
 

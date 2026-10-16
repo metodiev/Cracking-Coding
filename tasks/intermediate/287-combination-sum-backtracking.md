@@ -3,6 +3,7 @@
 - **Number:** 287
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [287-combination-sum-backtracking.md](../../tutorials/tasks/intermediate/287-combination-sum-backtracking.md)
 
 ## Solutions
 

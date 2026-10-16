@@ -3,6 +3,7 @@
 - **Number:** 203
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [203-4-sum-problem-k-sum-generalization.md](../../tutorials/tasks/intermediate/203-4-sum-problem-k-sum-generalization.md)
 
 ## Solutions
 

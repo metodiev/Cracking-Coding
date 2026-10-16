@@ -3,6 +3,7 @@
 - **Number:** 350
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [350-implement-thread-safe-singleton-double-checked-locking.md](../../tutorials/tasks/intermediate/350-implement-thread-safe-singleton-double-checked-locking.md)
 
 ## Solutions
 

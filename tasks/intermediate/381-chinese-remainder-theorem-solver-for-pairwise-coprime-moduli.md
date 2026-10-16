@@ -3,6 +3,7 @@
 - **Number:** 381
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli.md](../../tutorials/tasks/intermediate/381-chinese-remainder-theorem-solver-for-pairwise-coprime-moduli.md)
 
 ## Solutions
 

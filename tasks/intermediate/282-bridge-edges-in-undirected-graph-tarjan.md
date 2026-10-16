@@ -3,6 +3,7 @@
 - **Number:** 282
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [282-bridge-edges-in-undirected-graph-tarjan.md](../../tutorials/tasks/intermediate/282-bridge-edges-in-undirected-graph-tarjan.md)
 
 ## Solutions
 

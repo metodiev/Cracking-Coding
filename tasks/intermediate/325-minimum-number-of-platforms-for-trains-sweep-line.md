@@ -3,6 +3,7 @@
 - **Number:** 325
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Software Engineering & Tooling
+- **Tutorial:** [325-minimum-number-of-platforms-for-trains-sweep-line.md](../../tutorials/tasks/intermediate/325-minimum-number-of-platforms-for-trains-sweep-line.md)
 
 ## Solutions
 

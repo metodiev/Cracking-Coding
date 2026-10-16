@@ -3,6 +3,7 @@
 - **Number:** 360
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 14 — Databases
+- **Tutorial:** [360-implement-versioned-key-value-store-basic.md](../../tutorials/tasks/intermediate/360-implement-versioned-key-value-store-basic.md)
 
 ## Solutions
 

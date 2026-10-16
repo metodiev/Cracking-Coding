@@ -3,6 +3,7 @@
 - **Number:** 245
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [245-reconstruct-binary-tree-from-preorder-with-null-markers.md](../../tutorials/tasks/intermediate/245-reconstruct-binary-tree-from-preorder-with-null-markers.md)
 
 ## Solutions
 

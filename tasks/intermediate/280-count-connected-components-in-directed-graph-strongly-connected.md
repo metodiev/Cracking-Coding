@@ -3,6 +3,7 @@
 - **Number:** 280
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [280-count-connected-components-in-directed-graph-strongly-connected.md](../../tutorials/tasks/intermediate/280-count-connected-components-in-directed-graph-strongly-connected.md)
 
 ## Solutions
 

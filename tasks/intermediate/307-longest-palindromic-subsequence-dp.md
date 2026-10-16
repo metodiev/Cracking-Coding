@@ -3,6 +3,7 @@
 - **Number:** 307
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [307-longest-palindromic-subsequence-dp.md](../../tutorials/tasks/intermediate/307-longest-palindromic-subsequence-dp.md)
 
 ## Solutions
 

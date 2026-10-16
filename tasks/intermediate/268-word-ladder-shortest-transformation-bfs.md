@@ -3,6 +3,7 @@
 - **Number:** 268
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [268-word-ladder-shortest-transformation-bfs.md](../../tutorials/tasks/intermediate/268-word-ladder-shortest-transformation-bfs.md)
 
 ## Solutions
 

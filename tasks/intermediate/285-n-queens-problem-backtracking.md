@@ -3,6 +3,7 @@
 - **Number:** 285
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [285-n-queens-problem-backtracking.md](../../tutorials/tasks/intermediate/285-n-queens-problem-backtracking.md)
 
 ## Solutions
 

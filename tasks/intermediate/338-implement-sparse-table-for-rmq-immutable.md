@@ -3,6 +3,7 @@
 - **Number:** 338
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [338-implement-sparse-table-for-rmq-immutable.md](../../tutorials/tasks/intermediate/338-implement-sparse-table-for-rmq-immutable.md)
 
 ## Solutions
 

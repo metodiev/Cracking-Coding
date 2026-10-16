@@ -3,6 +3,7 @@
 - **Number:** 310
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [310-implement-suffix-array-naive-sorting-suffixes.md](../../tutorials/tasks/intermediate/310-implement-suffix-array-naive-sorting-suffixes.md)
 
 ## Solutions
 

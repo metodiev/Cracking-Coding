@@ -3,6 +3,7 @@
 - **Number:** 231
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [231-manacher-s-algorithm-for-longest-palindromic-substring.md](../../tutorials/tasks/intermediate/231-manacher-s-algorithm-for-longest-palindromic-substring.md)
 
 ## Solutions
 

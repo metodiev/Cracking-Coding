@@ -3,6 +3,7 @@
 - **Number:** 320
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Machine Learning & AI
+- **Tutorial:** [320-count-distinct-islands-shapes-in-grid-normalized-traversal.md](../../tutorials/tasks/intermediate/320-count-distinct-islands-shapes-in-grid-normalized-traversal.md)
 
 ## Solutions
 

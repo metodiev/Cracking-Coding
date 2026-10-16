@@ -3,6 +3,7 @@
 - **Number:** 317
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [317-longest-duplicate-substring-binary-search-hash.md](../../tutorials/tasks/intermediate/317-longest-duplicate-substring-binary-search-hash.md)
 
 ## Solutions
 

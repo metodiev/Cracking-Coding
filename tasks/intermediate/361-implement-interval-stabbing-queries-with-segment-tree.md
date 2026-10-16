@@ -3,6 +3,7 @@
 - **Number:** 361
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [361-implement-interval-stabbing-queries-with-segment-tree.md](../../tutorials/tasks/intermediate/361-implement-interval-stabbing-queries-with-segment-tree.md)
 
 ## Solutions
 

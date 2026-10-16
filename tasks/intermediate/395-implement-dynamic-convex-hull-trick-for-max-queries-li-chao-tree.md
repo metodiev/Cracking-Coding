@@ -3,6 +3,7 @@
 - **Number:** 395
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [395-implement-dynamic-convex-hull-trick-for-max-queries-li-chao-tree.md](../../tutorials/tasks/intermediate/395-implement-dynamic-convex-hull-trick-for-max-queries-li-chao-tree.md)
 
 ## Solutions
 

@@ -3,6 +3,7 @@
 - **Number:** 264
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [264-find-longest-path-in-dag-dp-on-topo-order.md](../../tutorials/tasks/intermediate/264-find-longest-path-in-dag-dp-on-topo-order.md)
 
 ## Solutions
 

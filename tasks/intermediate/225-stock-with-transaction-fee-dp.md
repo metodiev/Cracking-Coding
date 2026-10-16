@@ -3,6 +3,7 @@
 - **Number:** 225
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [225-stock-with-transaction-fee-dp.md](../../tutorials/tasks/intermediate/225-stock-with-transaction-fee-dp.md)
 
 ## Solutions
 

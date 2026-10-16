@@ -3,6 +3,7 @@
 - **Number:** 221
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [221-circular-array-maximum-subarray-kadane-variant.md](../../tutorials/tasks/intermediate/221-circular-array-maximum-subarray-kadane-variant.md)
 
 ## Solutions
 

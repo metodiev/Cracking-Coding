@@ -3,6 +3,7 @@
 - **Number:** 293
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 8 — Recursion and Dynamic Programming
+- **Tutorial:** [293-coin-change-number-of-ways-dp.md](../../tutorials/tasks/intermediate/293-coin-change-number-of-ways-dp.md)
 
 ## Solutions
 

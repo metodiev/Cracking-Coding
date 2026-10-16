@@ -3,6 +3,7 @@
 - **Number:** 315
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Advanced Data Structures & Algorithms
+- **Tutorial:** [315-rolling-hash-double-hash-to-reduce-collisions.md](../../tutorials/tasks/intermediate/315-rolling-hash-double-hash-to-reduce-collisions.md)
 
 ## Solutions
 

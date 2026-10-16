@@ -3,6 +3,7 @@
 - **Number:** 324
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [324-interval-scheduling-to-maximize-number-of-non-overlapping-interv.md](../../tutorials/tasks/intermediate/324-interval-scheduling-to-maximize-number-of-non-overlapping-interv.md)
 
 ## Solutions
 

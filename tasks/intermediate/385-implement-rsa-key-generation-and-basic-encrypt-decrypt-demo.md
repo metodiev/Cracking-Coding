@@ -3,6 +3,7 @@
 - **Number:** 385
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Security & Privacy
+- **Tutorial:** [385-implement-rsa-key-generation-and-basic-encrypt-decrypt-demo.md](../../tutorials/tasks/intermediate/385-implement-rsa-key-generation-and-basic-encrypt-decrypt-demo.md)
 
 ## Solutions
 

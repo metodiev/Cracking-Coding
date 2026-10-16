@@ -3,6 +3,7 @@
 - **Number:** 379
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 6 — Math and Logic Puzzles
+- **Tutorial:** [379-implement-combinatorics-ncr-modulo-prime-precompute-factorials.md](../../tutorials/tasks/intermediate/379-implement-combinatorics-ncr-modulo-prime-precompute-factorials.md)
 
 ## Solutions
 

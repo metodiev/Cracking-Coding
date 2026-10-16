@@ -3,6 +3,7 @@
 - **Number:** 367
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [367-compute-convex-hull-andrew-monotone-chain.md](../../tutorials/tasks/intermediate/367-compute-convex-hull-andrew-monotone-chain.md)
 
 ## Solutions
 

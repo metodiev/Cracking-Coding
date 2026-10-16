@@ -3,6 +3,7 @@
 - **Number:** 354
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [354-implement-wait-free-counter-sketch-atomic-operations.md](../../tutorials/tasks/intermediate/354-implement-wait-free-counter-sketch-atomic-operations.md)
 
 ## Solutions
 

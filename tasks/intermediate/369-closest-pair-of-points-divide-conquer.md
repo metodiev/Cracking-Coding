@@ -3,6 +3,7 @@
 - **Number:** 369
 - **Tier:** Intermediate
 - **CTCI chapter:** Beyond — Graphics, Geometry & Robotics
+- **Tutorial:** [369-closest-pair-of-points-divide-conquer.md](../../tutorials/tasks/intermediate/369-closest-pair-of-points-divide-conquer.md)
 
 ## Solutions
 

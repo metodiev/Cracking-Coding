@@ -3,6 +3,7 @@
 - **Number:** 346
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 7 — Object-Oriented Design
+- **Tutorial:** [346-implement-optimistic-concurrency-control-sketch-version-numbers.md](../../tutorials/tasks/intermediate/346-implement-optimistic-concurrency-control-sketch-version-numbers.md)
 
 ## Solutions
 

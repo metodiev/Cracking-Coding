@@ -3,6 +3,7 @@
 - **Number:** 319
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 1 — Arrays and Strings
+- **Tutorial:** [319-sliding-window-with-variable-constraints-two-pointers-advanced.md](../../tutorials/tasks/intermediate/319-sliding-window-with-variable-constraints-two-pointers-advanced.md)
 
 ## Solutions
 

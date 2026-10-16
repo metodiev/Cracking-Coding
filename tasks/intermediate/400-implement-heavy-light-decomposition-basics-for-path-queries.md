@@ -3,6 +3,7 @@
 - **Number:** 400
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 4 — Trees and Graphs
+- **Tutorial:** [400-implement-heavy-light-decomposition-basics-for-path-queries.md](../../tutorials/tasks/intermediate/400-implement-heavy-light-decomposition-basics-for-path-queries.md)
 
 ## Solutions
 

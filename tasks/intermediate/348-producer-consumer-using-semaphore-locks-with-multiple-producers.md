@@ -3,6 +3,7 @@
 - **Number:** 348
 - **Tier:** Intermediate
 - **CTCI chapter:** Ch 15 — Threads and Locks
+- **Tutorial:** [348-producer-consumer-using-semaphore-locks-with-multiple-producers.md](../../tutorials/tasks/intermediate/348-producer-consumer-using-semaphore-locks-with-multiple-producers.md)
 
 ## Solutions
 
