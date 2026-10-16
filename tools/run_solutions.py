@@ -3,7 +3,7 @@
 
 Usage:
     python3 tools/run_solutions.py [python|java|javascript|csharp|all] [tier]
-                                   [--jobs N] [--filter SUBSTR]
+                                   [--jobs N] [--filter SUBSTR] [--range LO-HI]
 
 - python:     python3 solution.py
 - java:       javac into a temp dir, then java Solution
@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -142,16 +143,46 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     p.add_argument("--jobs", type=int, default=min(8, os.cpu_count() or 2),
                    help="parallel workers (default: min(8, cpu count))")
     p.add_argument("--filter", default=None, help="only paths containing this substring")
+    p.add_argument("--range", dest="range_", default=None, metavar="LO-HI",
+                   help="only tasks numbered LO..HI, e.g. --range 601-650")
     return p.parse_args(argv[1:])
 
 
-def collect(lang: str, tier: str | None, filt: str | None) -> list[Path]:
+def parse_range(spec: str | None) -> tuple[int, int] | None:
+    if spec is None:
+        return None
+    m = re.fullmatch(r"(\d+)-(\d+)", spec.strip())
+    if not m:
+        raise SystemExit(f"--range expects LO-HI, got {spec!r}")
+    lo, hi = int(m.group(1)), int(m.group(2))
+    if lo > hi:
+        raise SystemExit(f"--range LO must be <= HI, got {spec!r}")
+    return lo, hi
+
+
+TASK_NUMBER = re.compile(r"^(\d{3})-")
+
+
+def task_number(path: Path) -> int | None:
+    for part in path.parts:
+        m = TASK_NUMBER.match(part)
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def collect(lang: str, tier: str | None, filt: str | None,
+            number_range: tuple[int, int] | None) -> list[Path]:
     root = ROOT / "solutions" / lang
     if not root.exists():
         return []
     matches = sorted(root.rglob(LANG_FILES[lang]))
     if tier:
         matches = [f for f in matches if tier in f.relative_to(root).parts]
+    if number_range:
+        lo, hi = number_range
+        matches = [f for f in matches
+                   if (n := task_number(f.relative_to(root))) is not None and lo <= n <= hi]
     if filt:
         matches = [f for f in matches if filt in str(f)]
     return matches
@@ -159,11 +190,12 @@ def collect(lang: str, tier: str | None, filt: str | None) -> list[Path]:
 
 def main(argv: list[str]) -> int:
     args = parse_args(argv)
+    number_range = parse_range(args.range_)
     runners = build_runners()
     langs = list(LANGS) if args.lang == "all" else [args.lang]
 
     jobs = [(lang, path.parent) for lang in langs
-            for path in collect(lang, args.tier, args.filter)]
+            for path in collect(lang, args.tier, args.filter, number_range)]
 
     stats = {"pass": 0, "fail": 0, "skip": 0}
     lock = threading.Lock()
