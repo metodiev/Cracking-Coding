@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/761-implement-trusted-execution-environment-simulation-attestation-s/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/761-implement-trusted-execution-environment-simulation-attestation-s/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/761-implement-trusted-execution-environment-simulation-attestation-s/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/761-implement-trusted-execution-environment-simulation-attestation-s/Solution.cs)

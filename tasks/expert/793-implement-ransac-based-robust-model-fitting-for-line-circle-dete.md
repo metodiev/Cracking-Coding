@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/793-implement-ransac-based-robust-model-fitting-for-line-circle-dete/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/793-implement-ransac-based-robust-model-fitting-for-line-circle-dete/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/793-implement-ransac-based-robust-model-fitting-for-line-circle-dete/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/793-implement-ransac-based-robust-model-fitting-for-line-circle-dete/Solution.cs)

@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/764-implement-ranking-functions-tf-idf-bm25-simple-scoring-and-evalu/Solution.cs)

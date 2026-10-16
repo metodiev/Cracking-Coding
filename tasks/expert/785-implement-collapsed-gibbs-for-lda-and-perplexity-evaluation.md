@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/785-implement-collapsed-gibbs-for-lda-and-perplexity-evaluation/Solution.cs)

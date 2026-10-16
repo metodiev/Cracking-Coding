@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/787-implement-adaptive-step-size-ode-integrator-dormand-prince-outli/Solution.cs)

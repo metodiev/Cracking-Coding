@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/773-implement-self-adjusting-skip-lists-with-locality-heuristics/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/773-implement-self-adjusting-skip-lists-with-locality-heuristics/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/773-implement-self-adjusting-skip-lists-with-locality-heuristics/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/773-implement-self-adjusting-skip-lists-with-locality-heuristics/Solution.cs)

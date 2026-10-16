@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/796-implement-privacy-preserving-federated-evaluation-aggregator/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/796-implement-privacy-preserving-federated-evaluation-aggregator/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/796-implement-privacy-preserving-federated-evaluation-aggregator/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/796-implement-privacy-preserving-federated-evaluation-aggregator/Solution.cs)

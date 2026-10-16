@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/758-implement-secure-multiparty-computation-basic-xor-sharing-demo/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/758-implement-secure-multiparty-computation-basic-xor-sharing-demo/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/758-implement-secure-multiparty-computation-basic-xor-sharing-demo/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/758-implement-secure-multiparty-computation-basic-xor-sharing-demo/Solution.cs)

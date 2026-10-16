@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/794-implement-3d-point-cloud-voxelization-and-octree-building/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/794-implement-3d-point-cloud-voxelization-and-octree-building/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/794-implement-3d-point-cloud-voxelization-and-octree-building/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/794-implement-3d-point-cloud-voxelization-and-octree-building/Solution.cs)

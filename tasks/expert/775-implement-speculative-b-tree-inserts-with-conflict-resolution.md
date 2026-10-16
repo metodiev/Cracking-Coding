@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/775-implement-speculative-b-tree-inserts-with-conflict-resolution/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/775-implement-speculative-b-tree-inserts-with-conflict-resolution/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/775-implement-speculative-b-tree-inserts-with-conflict-resolution/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/775-implement-speculative-b-tree-inserts-with-conflict-resolution/Solution.cs)

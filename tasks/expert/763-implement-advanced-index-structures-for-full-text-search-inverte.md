@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/763-implement-advanced-index-structures-for-full-text-search-inverte/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/763-implement-advanced-index-structures-for-full-text-search-inverte/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/763-implement-advanced-index-structures-for-full-text-search-inverte/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/763-implement-advanced-index-structures-for-full-text-search-inverte/Solution.cs)

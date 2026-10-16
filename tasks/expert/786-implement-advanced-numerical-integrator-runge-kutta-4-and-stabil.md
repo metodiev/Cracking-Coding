@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/786-implement-advanced-numerical-integrator-runge-kutta-4-and-stabil/Solution.cs)

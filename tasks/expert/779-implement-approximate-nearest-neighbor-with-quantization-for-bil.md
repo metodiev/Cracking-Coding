@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/779-implement-approximate-nearest-neighbor-with-quantization-for-bil/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/779-implement-approximate-nearest-neighbor-with-quantization-for-bil/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/779-implement-approximate-nearest-neighbor-with-quantization-for-bil/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/779-implement-approximate-nearest-neighbor-with-quantization-for-bil/Solution.cs)

@@ -1044,11 +1044,15 @@ flowchart LR
   The mapping follows *Cracking the Coding Interview, 6th Edition* (189 Programming Questions &
   Solutions) and tags beyond-book work (distributed systems, ML, graphics, security, …) explicitly.
 - ✅ **Progress**: [`docs/TASK-INDEX.md`](docs/TASK-INDEX.md). The **Beginner tier (001–200)**, the
-  **Intermediate tier (201–400)** and the **Advanced tier (401–600)** are complete in all four
-  languages — 600/998 tasks × 4 languages = 2400 self-checking
-  solutions. The remaining tiers are delivered tier-by-tier (staged plan).
+  **Intermediate tier (201–400)**, the **Advanced tier (401–600)** and the **Expert tier (601–800)**
+  are complete in all four languages — 800/998 tasks × 4 languages = 3200 self-checking
+  solutions. The **Master / Challenge tier (801–998)** is delivered next (staged plan).
   Every solution self-checks: `python3 tools/run_solutions.py`.
 - ▶️ **Run everything**: `python3 tools/run_solutions.py` (add `python`, `java`, `javascript` or `csharp`).
+  All four languages are validated, C# included: each `Solution.cs` is compiled straight against the
+  SDK's targeting pack by [`tools/csbuild.py`](tools/csbuild.py), which is ~10x faster than a
+  `dotnet build` per file. `--jobs N` runs solutions in parallel, `--range 601-650` restricts the run
+  to a task range and `--filter`/`[tier]` narrow it further.
 
 ```bash
 # run the full solution suite in one language

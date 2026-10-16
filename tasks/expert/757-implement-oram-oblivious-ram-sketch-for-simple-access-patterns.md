@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/757-implement-oram-oblivious-ram-sketch-for-simple-access-patterns/Solution.cs)

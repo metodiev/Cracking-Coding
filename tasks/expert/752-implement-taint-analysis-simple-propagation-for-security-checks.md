@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/752-implement-taint-analysis-simple-propagation-for-security-checks/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/752-implement-taint-analysis-simple-propagation-for-security-checks/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/752-implement-taint-analysis-simple-propagation-for-security-checks/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/752-implement-taint-analysis-simple-propagation-for-security-checks/Solution.cs)

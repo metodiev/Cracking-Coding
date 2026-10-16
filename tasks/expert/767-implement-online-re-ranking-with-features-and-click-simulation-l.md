@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/767-implement-online-re-ranking-with-features-and-click-simulation-l/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/767-implement-online-re-ranking-with-features-and-click-simulation-l/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/767-implement-online-re-ranking-with-features-and-click-simulation-l/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/767-implement-online-re-ranking-with-features-and-click-simulation-l/Solution.cs)

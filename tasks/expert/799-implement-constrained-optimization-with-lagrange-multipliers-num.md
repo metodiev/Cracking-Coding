@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/799-implement-constrained-optimization-with-lagrange-multipliers-num/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/799-implement-constrained-optimization-with-lagrange-multipliers-num/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/799-implement-constrained-optimization-with-lagrange-multipliers-num/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/799-implement-constrained-optimization-with-lagrange-multipliers-num/Solution.cs)

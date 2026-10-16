@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/770-implement-streaming-algorithms-for-heavy-hitters-under-memory-co/Solution.cs)

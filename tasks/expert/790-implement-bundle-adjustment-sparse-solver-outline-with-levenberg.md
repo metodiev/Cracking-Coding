@@ -6,4 +6,7 @@
 
 ## Solutions
 
-- _Not implemented yet — see the staged plan in [README.md](../../README.md)._
+- Python: [solution.py](../../solutions/python/expert/790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg/solution.py)
+- Java: [Solution.java](../../solutions/java/expert/790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg/Solution.java)
+- Javascript: [solution.js](../../solutions/javascript/expert/790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg/solution.js)
+- Csharp: [Solution.cs](../../solutions/csharp/expert/790-implement-bundle-adjustment-sparse-solver-outline-with-levenberg/Solution.cs)
