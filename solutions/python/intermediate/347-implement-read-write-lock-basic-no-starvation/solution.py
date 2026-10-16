@@ -143,9 +143,13 @@ def main():
         assert gates[tag]["started"].wait(15), tag + " never started"
 
     # two readers hold the lock
+    # R1 and R2 are started one after the other (R2 only once R1 is inside): two readers racing for
+    # an uncontended lock are legitimately granted in either order, which would make the grant-order
+    # assertion below flaky under load. Both still hold the lock at the same time.
     start("R1", False)
+    assert gates["R1"]["entered"].wait(15), "R1 holds the lock"
     start("R2", False)
-    assert gates["R1"]["entered"].wait(15) and gates["R2"]["entered"].wait(15)
+    assert gates["R2"]["entered"].wait(15), "R2 shares the lock"
     assert auditor.snapshot()[:3] == (2, 0, 2)
     assert rw.state() == (2, False, 0)
 

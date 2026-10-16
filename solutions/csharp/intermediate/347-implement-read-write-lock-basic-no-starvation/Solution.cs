@@ -156,9 +156,14 @@ public static class Solution
         foreach (string tag in new[] { "R1", "R2", "R3", "R4", "W1", "W2" }) gates[tag] = new Gate();
         var threads = new List<Thread>();
 
+        // R1 and R2 are started one after the other (R2 only once R1 is inside) because two readers
+        // racing for an uncontended lock are legitimately granted in either order - the auditor's
+        // grant log, and therefore the "grant order" check below, would otherwise be flaky under
+        // load. The two-readers-share-the-lock property is unaffected.
         Start(gates, threads, rw, auditor, "R1", false);
+        Check(Await(gates["R1"].Entered), "R1 holds the lock");
         Start(gates, threads, rw, auditor, "R2", false);
-        Check(Await(gates["R1"].Entered) && Await(gates["R2"].Entered), "both readers hold the lock");
+        Check(Await(gates["R2"].Entered), "R2 shares the lock");
         Check(string.Join(",", auditor.Counters()) == "2,0,2,0", "two readers active, max 2");
         Check(string.Join(",", rw.State()) == "2,0,0", "rw state: 2 readers");
 

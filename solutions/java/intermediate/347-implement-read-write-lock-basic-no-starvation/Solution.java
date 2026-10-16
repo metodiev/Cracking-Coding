@@ -188,10 +188,13 @@ public class Solution {
         for (String tag : new String[]{"R1", "R2", "R3", "R4", "W1", "W2"}) gates.put(tag, new Gate());
         List<Thread> threads = new ArrayList<>();
 
-        // two readers hold the lock
+        // R1 and R2 are started one after the other (R2 only once R1 is inside): two readers racing
+        // for an uncontended lock are legitimately granted in either order, which would make the
+        // "grant order" check below flaky under load. Both still hold the lock at the same time.
         start(gates, threads, rw, auditor, "R1", false);
+        check(await(gates.get("R1").entered), "R1 holds the lock");
         start(gates, threads, rw, auditor, "R2", false);
-        check(await(gates.get("R1").entered) && await(gates.get("R2").entered), "both readers hold the lock");
+        check(await(gates.get("R2").entered), "R2 shares the lock");
         check(Arrays.equals(auditor.counters(), new int[]{2, 0, 2, 0}), "two readers active, max 2");
         check(Arrays.equals(rw.state(), new int[]{2, 0, 0}), "rw state: 2 readers");
 
